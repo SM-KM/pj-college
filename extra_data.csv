@@ -1,0 +1,1001 @@
+Gravedad,Modalidad,Motivación,Área Geográfica,Crímenes Graves,Crímenes Menores,Crímenes Violentos,Crímenes No Violentos,Crímenes Motivación Económica,Crímenes de Odio,Crímenes de Pasión/Venganza,Crímenes Urbanos,Crímenes Rurales,Naturaleza,Temporalidad,Involucramiento Tecnológico,Estado del Caso,Crímenes contra Personas,Crímenes contra Propiedad,Crímenes Sexuales,Crímenes Económicos,Crímenes Periodo Anual,Crímenes Hora Día,Cibercrímenes,Crímenes Tradicionales,Casos Resueltos,Casos no resueltos
+Media,Asalto con violencia,Rescate,Veracruz,8269,1983,Violación,Estafa,Fraude bancario,Xenofobia,Despecho,Robo,Caza ilegal,Criminal,2024-08-14,Bajo,Resuelto,65,33,6,30,721,24,1,0,88,36
+Alta,Fraude bancario,Económica,Mérida,9776,1806,Extorsión,Hurto,Fraude bancario,Xenofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-07-12,Alto,No resuelto,91,58,53,63,598,9,1,0,62,64
+Baja,Acoso verbal,Rescate,Querétaro,7390,4485,Homicidio,Estafa,Contrabando,Xenofobia,Rencor,Vandalismo,Robo de ganado,Criminal,2023-10-15,Ninguno,No resuelto,74,34,42,35,153,3,0,1,58,11
+Media,Hurto,Financiera,Guadalajara,7055,4041,Asalto,Robo menor,Lavado de dinero,Racismo,Rencor,Asalto,Robo de ganado,Criminal,2024-06-21,Alto,No resuelto,24,19,55,87,412,14,0,0,90,37
+Alta,Asalto con violencia,Protesta,Querétaro,8920,8227,Homicidio,Hurto,Fraude bancario,Homofobia,Rencor,Robo,Tráfico de especies,Criminal,2024-08-02,Bajo,No resuelto,97,59,44,88,703,0,0,0,78,41
+Alta,Tráfico de drogas,Criminal,Veracruz,6198,5458,Violación,Robo menor,Lavado de dinero,Homofobia,Despecho,Asalto,Robo de ganado,Financiera,2024-07-01,Ninguno,Resuelto,51,94,35,18,719,23,1,1,80,50
+Alta,Violencia doméstica,Criminal,La Paz,2529,1016,Homicidio,Robo menor,Contrabando,Racismo,Rencor,Vandalismo,Caza ilegal,Financiera,2024-08-08,Alto,No resuelto,30,15,8,13,553,5,0,0,5,77
+Media,Daños a la propiedad,Personal,Tijuana,5908,9326,Extorsión,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-03-05,Alto,No resuelto,19,95,49,24,372,16,1,0,0,77
+Alta,Secuestro,Rencor,Durango,738,4095,Extorsión,Robo menor,Contrabando,Racismo,Rencor,Asalto,Robo de ganado,Financiera,2024-02-09,Bajo,No resuelto,89,20,22,79,644,6,1,0,42,45
+Alta,Violencia doméstica,Oportunidad,Aguascalientes,1431,5203,Violación,Estafa,Contrabando,Racismo,Despecho,Asalto,Caza ilegal,Criminal,2024-07-30,Alto,Resuelto,20,1,14,86,940,9,1,0,80,8
+Alta,Robo de identidad,Rencor,Mérida,1130,9342,Violación,Hurto,Contrabando,Homofobia,Rencor,Robo,Robo de ganado,Oportunidad,2024-08-20,Bajo,Resuelto,31,31,56,12,578,7,0,0,47,84
+Alta,Robo de vehículos,Protesta,Durango,5521,9149,Homicidio,Hurto,Fraude bancario,Racismo,Rencor,Asalto,Tráfico de especies,Oportunidad,2024-04-13,Bajo,No resuelto,83,27,66,60,30,20,1,0,77,54
+Alta,Fraude bancario,Oportunidad,Ciudad de México,7606,9832,Secuestro,Robo menor,Contrabando,Racismo,Despecho,Vandalismo,Robo de ganado,Fraude,2023-10-18,Bajo,Resuelto,69,74,75,33,565,10,0,0,50,4
+Baja,Violencia doméstica,Rencor,Veracruz,5368,7763,Homicidio,Fraude,Lavado de dinero,Homofobia,Rencor,Vandalismo,Caza ilegal,Fraude,2024-03-02,Ninguno,No resuelto,26,71,77,70,351,10,0,1,26,90
+Media,Violencia doméstica,Fraude,Saltillo,289,9244,Extorsión,Hurto,Fraude bancario,Xenofobia,Celos,Vandalismo,Robo de ganado,Fraude,2024-02-26,Ninguno,No resuelto,22,1,53,91,77,17,0,0,17,39
+Media,Tráfico de drogas,Criminal,Puebla,7784,6301,Extorsión,Robo menor,Lavado de dinero,Homofobia,Despecho,Robo,Caza ilegal,Criminal,2024-02-08,Alto,Resuelto,1,94,52,9,805,18,1,1,55,21
+Baja,Extorsión,Financiera,Mexicali,2642,6713,Secuestro,Fraude,Fraude bancario,Xenofobia,Celos,Robo,Robo de ganado,Financiera,2024-07-08,Bajo,No resuelto,79,27,22,76,339,14,0,0,22,12
+Alta,Vandalismo,Económica,Chihuahua,9609,7251,Extorsión,Estafa,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Criminal,2024-05-25,Ninguno,Resuelto,91,42,43,97,556,10,1,1,72,2
+Baja,Robo de vehículos,Rencor,Mexicali,4139,6817,Violación,Estafa,Contrabando,Xenofobia,Rencor,Robo,Robo de ganado,Criminal,2024-01-24,Bajo,No resuelto,58,66,10,9,814,7,0,1,27,88
+Baja,Hurto menor,Económica,Mérida,8379,9909,Homicidio,Hurto,Fraude bancario,Xenofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2024-06-25,Alto,Resuelto,80,17,86,59,402,0,0,1,24,17
+Media,Tráfico de drogas,Criminal,Mexicali,2025,674,Asalto,Estafa,Contrabando,Racismo,Despecho,Robo,Robo de ganado,Oportunidad,2024-09-30,Bajo,No resuelto,51,99,42,75,57,17,0,0,85,57
+Media,Daños a la propiedad,Criminal,Toluca,2519,1677,Extorsión,Fraude,Contrabando,Xenofobia,Celos,Vandalismo,Tráfico de especies,Financiera,2024-07-05,Bajo,No resuelto,54,79,23,47,3,20,1,0,39,79
+Media,Ciberacoso,Rencor,Toluca,6782,1323,Asalto,Hurto,Contrabando,Racismo,Despecho,Vandalismo,Tráfico de especies,Oportunidad,2024-05-17,Ninguno,No resuelto,69,92,86,4,237,18,0,0,29,41
+Baja,Violencia doméstica,Oportunidad,Zacatecas,3970,9851,Extorsión,Robo menor,Lavado de dinero,Xenofobia,Despecho,Asalto,Tráfico de especies,Fraude,2024-02-11,Alto,Resuelto,85,33,57,16,859,18,1,1,68,18
+Alta,Daños a la propiedad,Rencor,Torreón,1294,7863,Homicidio,Estafa,Lavado de dinero,Racismo,Celos,Vandalismo,Tráfico de especies,Oportunidad,2023-11-23,Bajo,Resuelto,47,77,32,59,328,7,0,1,37,25
+Alta,Tráfico de drogas,Personal,Monterrey,9033,7588,Violación,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Financiera,2024-03-29,Alto,Resuelto,60,41,85,44,850,24,0,0,6,28
+Media,Violencia doméstica,Rencor,Torreón,4070,6522,Secuestro,Robo menor,Lavado de dinero,Xenofobia,Celos,Robo,Tráfico de especies,Fraude,2023-12-21,Alto,Resuelto,38,82,51,37,61,24,0,0,54,56
+Alta,Acoso verbal,Criminal,Querétaro,7118,8414,Homicidio,Estafa,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Criminal,2024-08-29,Ninguno,No resuelto,82,31,100,13,229,18,0,0,50,56
+Alta,Tráfico de drogas,Fraude,Hermosillo,4059,6986,Violación,Estafa,Contrabando,Racismo,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-10-08,Ninguno,Resuelto,75,3,11,17,327,7,1,1,92,57
+Baja,Tráfico de drogas,Oportunidad,Puebla,3552,8373,Extorsión,Robo menor,Fraude bancario,Racismo,Despecho,Vandalismo,Caza ilegal,Criminal,2024-02-27,Ninguno,Resuelto,67,56,85,97,672,2,1,1,46,93
+Media,Violencia doméstica,Personal,Chihuahua,9049,4424,Secuestro,Fraude,Lavado de dinero,Xenofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2023-11-28,Bajo,No resuelto,12,41,86,84,899,9,1,1,44,59
+Media,Asalto con violencia,Rencor,Ciudad de México,4605,1305,Homicidio,Estafa,Lavado de dinero,Racismo,Despecho,Robo,Robo de ganado,Criminal,2024-10-07,Alto,No resuelto,0,27,68,93,575,19,1,0,8,16
+Baja,Daños a la propiedad,Financiera,Monterrey,7273,8821,Extorsión,Robo menor,Lavado de dinero,Homofobia,Rencor,Robo,Tráfico de especies,Financiera,2024-10-03,Alto,No resuelto,56,26,44,83,111,14,0,0,9,15
+Baja,Acoso verbal,Criminal,La Paz,6202,6012,Violación,Robo menor,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-08-13,Bajo,Resuelto,66,20,44,8,51,8,1,1,89,66
+Alta,Hurto,Oportunidad,Hermosillo,916,6384,Homicidio,Robo menor,Contrabando,Racismo,Despecho,Vandalismo,Robo de ganado,Oportunidad,2024-09-21,Alto,No resuelto,1,65,63,30,526,16,0,1,100,57
+Alta,Contrabando,Oportunidad,Zacatecas,7540,1402,Secuestro,Fraude,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Fraude,2024-05-25,Ninguno,No resuelto,11,54,37,56,605,9,1,0,35,54
+Alta,Vandalismo,Rescate,Tijuana,2920,3850,Secuestro,Estafa,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2023-11-01,Bajo,No resuelto,86,87,57,55,585,9,0,1,27,49
+Alta,Fraude electrónico,Oportunidad,La Paz,7610,9779,Asalto,Fraude,Contrabando,Xenofobia,Celos,Vandalismo,Caza ilegal,Oportunidad,2024-03-20,Ninguno,No resuelto,48,49,75,51,147,21,0,0,16,5
+Media,Homicidio,Criminal,Tijuana,4477,2939,Asalto,Robo menor,Lavado de dinero,Homofobia,Despecho,Robo,Tráfico de especies,Criminal,2023-11-02,Bajo,No resuelto,71,79,91,28,793,19,0,0,63,91
+Media,Violencia doméstica,Personal,Querétaro,1771,1675,Violación,Robo menor,Fraude bancario,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2023-10-15,Bajo,No resuelto,32,6,93,33,491,13,0,0,13,94
+Baja,Asalto con violencia,Personal,Hermosillo,2466,4153,Homicidio,Robo menor,Fraude bancario,Xenofobia,Celos,Asalto,Caza ilegal,Financiera,2024-07-05,Bajo,No resuelto,44,63,28,15,485,22,1,0,87,81
+Baja,Robo de vehículos,Rescate,Monterrey,9278,3235,Violación,Fraude,Lavado de dinero,Racismo,Despecho,Asalto,Tráfico de especies,Oportunidad,2024-01-03,Ninguno,Resuelto,1,68,34,58,884,9,0,0,77,33
+Baja,Secuestro,Rescate,León,2608,3988,Asalto,Fraude,Fraude bancario,Xenofobia,Despecho,Vandalismo,Robo de ganado,Criminal,2024-02-04,Bajo,Resuelto,13,11,29,48,442,2,0,0,13,2
+Baja,Daños a la propiedad,Económica,Puebla,3385,2198,Homicidio,Hurto,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Criminal,2024-07-19,Alto,No resuelto,53,40,16,19,282,14,0,1,93,0
+Baja,Asalto con violencia,Rencor,Torreón,5918,1880,Homicidio,Hurto,Fraude bancario,Xenofobia,Despecho,Asalto,Caza ilegal,Oportunidad,2024-05-06,Alto,No resuelto,6,58,17,80,597,7,0,1,39,71
+Alta,Fraude bancario,Rescate,Durango,4612,3094,Secuestro,Hurto,Contrabando,Xenofobia,Rencor,Vandalismo,Caza ilegal,Fraude,2024-03-05,Alto,Resuelto,30,83,88,78,797,2,0,0,96,33
+Alta,Violencia doméstica,Económica,Ciudad de México,7392,1937,Violación,Hurto,Contrabando,Xenofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-06-01,Ninguno,Resuelto,55,93,82,24,668,1,1,0,9,43
+Baja,Tráfico de drogas,Financiera,Veracruz,724,1788,Homicidio,Estafa,Contrabando,Xenofobia,Rencor,Robo,Tráfico de especies,Criminal,2024-05-20,Ninguno,Resuelto,42,29,40,51,137,11,0,1,38,61
+Alta,Estafa,Personal,Tijuana,5006,4917,Secuestro,Hurto,Fraude bancario,Homofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-09-03,Bajo,Resuelto,38,45,56,91,202,19,0,0,64,74
+Media,Robo de vehículos,Personal,Saltillo,5414,7282,Violación,Hurto,Contrabando,Racismo,Rencor,Vandalismo,Robo de ganado,Fraude,2024-08-06,Bajo,No resuelto,75,6,11,5,253,24,1,1,24,90
+Media,Asalto con violencia,Oportunidad,La Paz,6509,6126,Secuestro,Hurto,Fraude bancario,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2023-11-22,Bajo,No resuelto,19,14,56,92,205,19,1,0,10,92
+Media,Robo de identidad,Financiera,Mexicali,4674,4645,Violación,Robo menor,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-02-07,Alto,Resuelto,5,80,90,15,117,8,0,1,65,11
+Media,Homicidio,Financiera,La Paz,1472,6978,Extorsión,Estafa,Contrabando,Racismo,Despecho,Robo,Tráfico de especies,Criminal,2024-04-09,Ninguno,Resuelto,53,86,68,33,654,20,0,0,52,16
+Media,Hurto menor,Oportunidad,Mexicali,7911,2520,Homicidio,Fraude,Contrabando,Xenofobia,Celos,Robo,Caza ilegal,Criminal,2023-11-06,Alto,No resuelto,99,90,17,59,188,9,0,1,41,59
+Baja,Estafa,Rescate,Saltillo,9885,7441,Secuestro,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2024-08-05,Alto,No resuelto,95,83,87,59,380,9,1,0,3,38
+Baja,Robo de identidad,Criminal,Puebla,9843,7347,Homicidio,Hurto,Contrabando,Homofobia,Celos,Asalto,Robo de ganado,Criminal,2023-12-25,Alto,No resuelto,20,51,62,69,48,11,0,1,16,78
+Alta,Fraude electrónico,Oportunidad,Querétaro,5457,7830,Violación,Robo menor,Fraude bancario,Xenofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-09-22,Bajo,No resuelto,81,83,43,34,850,19,1,0,90,6
+Media,Asalto con violencia,Financiera,La Paz,6370,9974,Secuestro,Robo menor,Fraude bancario,Xenofobia,Celos,Robo,Robo de ganado,Financiera,2024-08-27,Ninguno,Resuelto,22,88,94,11,426,12,0,0,84,37
+Baja,Contrabando,Financiera,Torreón,5458,4658,Asalto,Robo menor,Lavado de dinero,Homofobia,Celos,Vandalismo,Robo de ganado,Oportunidad,2024-05-21,Bajo,Resuelto,67,0,26,13,418,17,1,0,46,58
+Alta,Extorsión,Criminal,Monterrey,9826,1830,Asalto,Estafa,Lavado de dinero,Racismo,Despecho,Vandalismo,Robo de ganado,Fraude,2023-11-07,Alto,Resuelto,98,7,99,12,935,1,1,0,39,92
+Media,Fraude bancario,Rencor,Zacatecas,3426,3044,Homicidio,Hurto,Contrabando,Xenofobia,Despecho,Asalto,Tráfico de especies,Fraude,2024-04-04,Ninguno,Resuelto,3,46,14,69,747,21,1,1,100,81
+Media,Fraude electrónico,Fraude,Puebla,5735,3515,Extorsión,Hurto,Lavado de dinero,Racismo,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-07-10,Alto,No resuelto,100,46,48,84,566,12,1,1,77,97
+Baja,Vandalismo,Protesta,Mexicali,771,2503,Homicidio,Fraude,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Fraude,2024-08-02,Ninguno,Resuelto,15,10,96,20,315,10,0,0,36,17
+Alta,Fraude bancario,Protesta,Mérida,7596,1448,Extorsión,Estafa,Contrabando,Xenofobia,Despecho,Robo,Robo de ganado,Financiera,2023-10-12,Alto,No resuelto,12,83,0,12,336,0,1,1,39,68
+Alta,Violencia doméstica,Personal,Mexicali,1612,5838,Homicidio,Fraude,Lavado de dinero,Homofobia,Celos,Robo,Robo de ganado,Criminal,2023-10-23,Bajo,Resuelto,83,76,81,4,217,6,1,0,79,61
+Media,Secuestro,Oportunidad,Reynosa,8548,9606,Violación,Hurto,Fraude bancario,Homofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-03-09,Alto,No resuelto,85,56,66,30,327,18,1,1,24,70
+Media,Daños a la propiedad,Criminal,Veracruz,9845,6029,Homicidio,Hurto,Contrabando,Racismo,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-02-14,Alto,No resuelto,97,9,73,67,566,4,0,1,40,74
+Media,Asalto con violencia,Protesta,Durango,1077,4212,Homicidio,Estafa,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Financiera,2024-09-12,Ninguno,Resuelto,58,77,48,78,975,3,1,0,89,48
+Baja,Asalto con violencia,Oportunidad,Hermosillo,7642,5697,Violación,Fraude,Fraude bancario,Racismo,Despecho,Asalto,Caza ilegal,Criminal,2024-08-18,Bajo,No resuelto,67,72,61,36,468,3,0,0,7,47
+Alta,Hurto,Protesta,Veracruz,8397,8529,Violación,Hurto,Lavado de dinero,Xenofobia,Rencor,Asalto,Caza ilegal,Fraude,2024-04-03,Alto,No resuelto,79,14,60,50,876,19,1,1,55,37
+Alta,Asalto con violencia,Fraude,Veracruz,8827,7646,Secuestro,Fraude,Contrabando,Racismo,Rencor,Robo,Caza ilegal,Oportunidad,2023-12-14,Ninguno,No resuelto,43,49,91,20,563,6,0,0,17,42
+Media,Estafa,Personal,Veracruz,1207,2738,Homicidio,Fraude,Lavado de dinero,Xenofobia,Rencor,Asalto,Robo de ganado,Fraude,2024-06-02,Alto,No resuelto,87,52,29,51,292,22,1,0,45,82
+Media,Robo de identidad,Criminal,Chihuahua,8904,4372,Violación,Fraude,Fraude bancario,Racismo,Despecho,Vandalismo,Caza ilegal,Fraude,2023-12-08,Ninguno,Resuelto,45,52,82,69,483,12,0,0,85,16
+Media,Estafa,Personal,Ciudad de México,758,9224,Secuestro,Fraude,Fraude bancario,Homofobia,Despecho,Vandalismo,Robo de ganado,Criminal,2024-07-12,Ninguno,No resuelto,13,70,57,90,694,19,1,0,38,9
+Alta,Hurto menor,Personal,Guadalajara,1066,6393,Asalto,Hurto,Fraude bancario,Racismo,Rencor,Robo,Tráfico de especies,Fraude,2023-12-12,Ninguno,Resuelto,8,45,79,31,89,12,1,0,12,1
+Baja,Daños a la propiedad,Económica,Reynosa,243,4088,Homicidio,Estafa,Lavado de dinero,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Financiera,2023-11-05,Alto,No resuelto,18,3,3,10,611,22,0,0,72,13
+Baja,Hurto,Personal,Veracruz,1367,2563,Asalto,Fraude,Fraude bancario,Xenofobia,Rencor,Vandalismo,Caza ilegal,Criminal,2024-01-29,Bajo,Resuelto,64,42,1,30,195,9,1,0,7,75
+Media,Homicidio,Rescate,Saltillo,3541,8878,Violación,Fraude,Fraude bancario,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-03-13,Bajo,Resuelto,42,78,15,97,773,15,1,1,92,18
+Media,Asalto con violencia,Fraude,Guadalajara,8103,791,Homicidio,Robo menor,Contrabando,Homofobia,Rencor,Asalto,Robo de ganado,Financiera,2024-03-15,Ninguno,Resuelto,90,41,93,17,328,3,1,1,7,32
+Baja,Extorsión,Oportunidad,Hermosillo,6821,2260,Extorsión,Robo menor,Fraude bancario,Homofobia,Rencor,Robo,Tráfico de especies,Oportunidad,2024-04-08,Ninguno,Resuelto,72,70,34,83,417,3,1,0,81,57
+Baja,Tráfico de drogas,Financiera,Torreón,3229,2851,Homicidio,Hurto,Fraude bancario,Racismo,Rencor,Robo,Caza ilegal,Fraude,2023-12-31,Bajo,Resuelto,76,94,83,81,273,1,0,1,89,10
+Alta,Hurto menor,Rencor,Puebla,3032,4017,Violación,Estafa,Contrabando,Racismo,Despecho,Asalto,Robo de ganado,Oportunidad,2023-12-21,Bajo,No resuelto,98,5,13,88,184,6,1,1,74,96
+Baja,Contrabando,Fraude,Ciudad de México,7948,6652,Homicidio,Hurto,Lavado de dinero,Xenofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-10-11,Ninguno,Resuelto,21,2,58,47,457,3,1,0,86,89
+Media,Fraude bancario,Rescate,Veracruz,3533,9281,Violación,Fraude,Contrabando,Homofobia,Rencor,Vandalismo,Tráfico de especies,Oportunidad,2023-11-26,Bajo,Resuelto,96,34,16,10,872,0,1,0,31,68
+Baja,Ciberacoso,Personal,Tijuana,6060,3712,Extorsión,Hurto,Contrabando,Xenofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-02-07,Ninguno,Resuelto,94,31,91,23,432,6,1,0,23,93
+Media,Tráfico de drogas,Oportunidad,Hermosillo,6382,3192,Violación,Estafa,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Financiera,2024-06-07,Alto,Resuelto,13,23,11,82,645,11,0,1,8,62
+Alta,Hurto,Económica,La Paz,7645,8077,Homicidio,Fraude,Contrabando,Racismo,Rencor,Asalto,Robo de ganado,Oportunidad,2024-06-20,Alto,No resuelto,82,95,45,72,492,11,1,1,46,58
+Media,Robo de identidad,Rencor,Hermosillo,6607,541,Violación,Estafa,Contrabando,Xenofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-06-10,Bajo,Resuelto,13,18,77,2,881,23,1,1,31,24
+Alta,Acoso verbal,Protesta,Tijuana,3424,4378,Secuestro,Fraude,Lavado de dinero,Xenofobia,Rencor,Robo,Robo de ganado,Oportunidad,2024-01-08,Ninguno,No resuelto,99,79,87,66,632,16,1,1,80,55
+Baja,Secuestro,Rencor,Querétaro,1825,1190,Extorsión,Fraude,Fraude bancario,Racismo,Rencor,Vandalismo,Caza ilegal,Criminal,2024-01-16,Bajo,Resuelto,11,66,37,31,524,1,0,1,35,5
+Baja,Estafa,Personal,Querétaro,6481,5530,Secuestro,Estafa,Lavado de dinero,Xenofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2024-08-05,Alto,No resuelto,78,43,78,44,529,24,0,1,60,92
+Media,Contrabando,Personal,Veracruz,465,5393,Asalto,Fraude,Fraude bancario,Homofobia,Rencor,Vandalismo,Caza ilegal,Financiera,2024-07-24,Alto,No resuelto,73,33,89,98,928,5,1,1,27,78
+Baja,Hurto,Oportunidad,Querétaro,5235,1745,Extorsión,Hurto,Lavado de dinero,Homofobia,Celos,Robo,Robo de ganado,Oportunidad,2024-07-26,Ninguno,No resuelto,96,81,18,81,728,11,1,1,4,95
+Alta,Tráfico de drogas,Rescate,Durango,7846,5305,Extorsión,Hurto,Contrabando,Xenofobia,Celos,Asalto,Robo de ganado,Financiera,2023-12-11,Bajo,No resuelto,44,32,2,57,350,5,0,0,68,19
+Alta,Vandalismo,Fraude,Saltillo,6892,1843,Extorsión,Fraude,Lavado de dinero,Racismo,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-02-11,Ninguno,Resuelto,45,52,63,64,815,6,1,0,74,76
+Baja,Hurto menor,Fraude,Mérida,8291,5978,Secuestro,Fraude,Lavado de dinero,Racismo,Despecho,Robo,Caza ilegal,Fraude,2024-01-25,Alto,Resuelto,53,81,82,1,819,4,1,1,9,33
+Media,Fraude electrónico,Fraude,Reynosa,3662,4070,Homicidio,Estafa,Lavado de dinero,Xenofobia,Celos,Robo,Robo de ganado,Oportunidad,2024-08-10,Ninguno,No resuelto,77,82,80,51,227,8,0,1,14,7
+Alta,Fraude bancario,Rescate,Toluca,7774,413,Homicidio,Robo menor,Lavado de dinero,Homofobia,Despecho,Vandalismo,Robo de ganado,Criminal,2024-02-28,Alto,No resuelto,4,56,8,36,563,4,0,0,9,100
+Alta,Hurto menor,Protesta,La Paz,8192,8620,Violación,Estafa,Fraude bancario,Homofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2023-11-03,Ninguno,Resuelto,76,87,78,83,291,8,1,0,11,0
+Alta,Extorsión,Rencor,Toluca,2385,2684,Secuestro,Hurto,Fraude bancario,Xenofobia,Despecho,Asalto,Tráfico de especies,Financiera,2024-01-02,Alto,Resuelto,96,52,43,29,110,13,0,0,32,69
+Alta,Hurto menor,Personal,Torreón,5573,8150,Extorsión,Fraude,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Criminal,2024-07-08,Alto,Resuelto,95,21,96,100,568,13,1,0,7,89
+Baja,Hurto,Protesta,Querétaro,9530,9565,Homicidio,Estafa,Lavado de dinero,Homofobia,Celos,Robo,Robo de ganado,Financiera,2023-10-12,Ninguno,Resuelto,37,37,7,9,843,3,0,1,87,49
+Alta,Extorsión,Económica,Torreón,6943,4231,Secuestro,Robo menor,Fraude bancario,Homofobia,Despecho,Robo,Tráfico de especies,Criminal,2024-01-17,Bajo,Resuelto,49,33,98,25,492,12,0,1,47,4
+Baja,Acoso verbal,Rescate,Querétaro,2426,6592,Secuestro,Robo menor,Fraude bancario,Homofobia,Despecho,Vandalismo,Robo de ganado,Criminal,2024-09-13,Bajo,No resuelto,19,56,44,63,258,22,0,1,29,61
+Media,Asalto con violencia,Económica,Reynosa,8969,9981,Extorsión,Fraude,Contrabando,Xenofobia,Despecho,Robo,Robo de ganado,Financiera,2024-02-13,Alto,No resuelto,1,53,13,89,765,3,1,1,68,89
+Media,Robo de identidad,Protesta,Toluca,83,7779,Extorsión,Robo menor,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2024-07-18,Ninguno,No resuelto,42,61,32,19,316,11,1,0,44,44
+Alta,Violencia doméstica,Protesta,Reynosa,4048,2821,Violación,Estafa,Fraude bancario,Xenofobia,Rencor,Asalto,Tráfico de especies,Criminal,2023-10-31,Ninguno,Resuelto,98,28,5,87,513,1,1,0,60,46
+Alta,Robo de vehículos,Financiera,Querétaro,5032,5844,Homicidio,Fraude,Lavado de dinero,Xenofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2024-07-07,Alto,Resuelto,95,15,17,56,559,19,0,1,56,73
+Media,Tráfico de drogas,Personal,Hermosillo,517,1302,Violación,Hurto,Contrabando,Racismo,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-06-01,Ninguno,No resuelto,26,68,86,65,307,18,0,1,58,38
+Media,Fraude electrónico,Personal,Durango,3886,9842,Secuestro,Robo menor,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-06-16,Ninguno,No resuelto,64,92,72,97,726,18,1,0,57,44
+Alta,Hurto menor,Rescate,Mérida,970,8748,Homicidio,Fraude,Fraude bancario,Xenofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-07-29,Alto,No resuelto,56,11,81,83,856,15,0,0,89,50
+Alta,Hurto menor,Criminal,Reynosa,9446,2453,Secuestro,Estafa,Lavado de dinero,Xenofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-05-12,Bajo,Resuelto,31,86,68,10,999,17,1,1,8,31
+Media,Secuestro,Oportunidad,Torreón,754,6880,Homicidio,Fraude,Contrabando,Homofobia,Rencor,Asalto,Robo de ganado,Financiera,2024-04-23,Ninguno,No resuelto,5,71,90,4,737,17,0,1,66,93
+Alta,Homicidio,Económica,Aguascalientes,9929,215,Secuestro,Estafa,Fraude bancario,Homofobia,Despecho,Robo,Tráfico de especies,Criminal,2024-05-08,Bajo,No resuelto,92,91,43,23,523,7,1,1,71,81
+Media,Hurto,Criminal,Toluca,6100,1178,Secuestro,Hurto,Lavado de dinero,Xenofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-08-23,Ninguno,Resuelto,12,7,21,5,102,6,0,1,72,1
+Media,Contrabando,Rescate,Aguascalientes,8036,7039,Asalto,Robo menor,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-06-21,Alto,No resuelto,67,29,38,16,90,24,1,0,51,10
+Alta,Hurto,Oportunidad,Aguascalientes,7415,9633,Homicidio,Fraude,Fraude bancario,Xenofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-09-08,Ninguno,No resuelto,30,72,50,38,212,2,0,1,69,53
+Media,Robo de identidad,Fraude,Toluca,6656,6808,Secuestro,Hurto,Fraude bancario,Racismo,Rencor,Asalto,Robo de ganado,Criminal,2023-12-07,Alto,Resuelto,0,41,44,44,946,9,0,0,90,1
+Media,Acoso verbal,Criminal,Reynosa,1645,8121,Asalto,Hurto,Fraude bancario,Racismo,Celos,Robo,Tráfico de especies,Oportunidad,2024-08-10,Bajo,Resuelto,9,95,26,76,284,24,1,1,71,51
+Media,Extorsión,Financiera,Durango,4441,1094,Secuestro,Hurto,Contrabando,Racismo,Celos,Robo,Caza ilegal,Financiera,2024-02-08,Bajo,Resuelto,25,77,49,22,849,7,0,1,70,39
+Baja,Vandalismo,Financiera,Hermosillo,4042,251,Secuestro,Fraude,Lavado de dinero,Xenofobia,Celos,Asalto,Tráfico de especies,Financiera,2024-07-18,Ninguno,Resuelto,1,92,37,0,451,3,1,0,54,68
+Alta,Vandalismo,Financiera,Toluca,4551,7750,Extorsión,Robo menor,Fraude bancario,Xenofobia,Celos,Asalto,Robo de ganado,Financiera,2024-02-19,Ninguno,Resuelto,6,76,49,25,626,11,0,1,15,86
+Media,Homicidio,Fraude,Durango,4129,435,Extorsión,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Robo de ganado,Criminal,2024-03-02,Alto,Resuelto,72,44,83,4,26,11,0,1,58,55
+Alta,Homicidio,Oportunidad,Zacatecas,1021,6224,Homicidio,Robo menor,Contrabando,Homofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-03-17,Ninguno,Resuelto,70,63,80,24,485,1,0,0,73,73
+Media,Secuestro,Fraude,Zacatecas,1760,2927,Homicidio,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Tráfico de especies,Fraude,2024-01-01,Bajo,No resuelto,31,67,35,23,559,4,0,1,80,11
+Baja,Contrabando,Protesta,Reynosa,6777,2958,Secuestro,Hurto,Contrabando,Xenofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-05-06,Bajo,Resuelto,96,25,60,39,8,5,0,0,4,79
+Alta,Fraude electrónico,Fraude,Mérida,8007,9587,Violación,Robo menor,Lavado de dinero,Xenofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-01-22,Alto,No resuelto,5,42,81,2,308,6,0,0,51,90
+Baja,Hurto menor,Financiera,La Paz,1407,2340,Extorsión,Estafa,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Criminal,2024-02-10,Alto,No resuelto,94,58,18,92,278,9,0,0,59,71
+Alta,Violencia doméstica,Protesta,Reynosa,6844,1877,Violación,Fraude,Contrabando,Xenofobia,Rencor,Vandalismo,Caza ilegal,Financiera,2024-03-23,Ninguno,No resuelto,67,96,13,99,929,11,1,1,50,75
+Baja,Asalto con violencia,Personal,Chihuahua,7443,3661,Violación,Robo menor,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Fraude,2024-09-26,Ninguno,No resuelto,5,29,86,99,603,5,0,0,25,50
+Baja,Daños a la propiedad,Fraude,Querétaro,6960,1982,Asalto,Robo menor,Fraude bancario,Xenofobia,Despecho,Vandalismo,Robo de ganado,Financiera,2024-06-23,Ninguno,No resuelto,0,81,33,27,601,22,1,0,18,62
+Alta,Contrabando,Rescate,Monterrey,1118,4737,Extorsión,Robo menor,Fraude bancario,Homofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-03-01,Alto,Resuelto,30,65,46,100,229,6,0,1,72,73
+Media,Contrabando,Oportunidad,Puebla,9295,6011,Extorsión,Robo menor,Contrabando,Homofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-08-28,Alto,Resuelto,36,40,43,3,517,17,1,1,1,38
+Media,Robo de identidad,Financiera,Hermosillo,2313,35,Extorsión,Fraude,Contrabando,Xenofobia,Despecho,Robo,Tráfico de especies,Criminal,2024-07-23,Bajo,Resuelto,100,98,22,98,235,16,1,1,36,23
+Baja,Fraude bancario,Fraude,Zacatecas,391,1526,Extorsión,Robo menor,Fraude bancario,Racismo,Rencor,Asalto,Tráfico de especies,Oportunidad,2024-03-26,Alto,No resuelto,90,52,72,31,897,23,1,1,84,78
+Alta,Ciberacoso,Económica,Hermosillo,5055,4062,Secuestro,Fraude,Lavado de dinero,Xenofobia,Rencor,Asalto,Robo de ganado,Fraude,2024-02-08,Bajo,No resuelto,68,94,88,87,817,9,1,1,46,60
+Alta,Extorsión,Rencor,León,4186,9493,Extorsión,Robo menor,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2023-10-24,Ninguno,Resuelto,30,47,78,26,80,6,1,0,32,12
+Alta,Ciberacoso,Oportunidad,Zacatecas,5863,5549,Extorsión,Fraude,Lavado de dinero,Homofobia,Despecho,Vandalismo,Caza ilegal,Criminal,2024-05-16,Bajo,Resuelto,95,78,53,13,689,22,1,0,34,66
+Media,Violencia doméstica,Económica,Monterrey,4734,3416,Homicidio,Estafa,Fraude bancario,Xenofobia,Celos,Asalto,Caza ilegal,Fraude,2024-04-17,Bajo,No resuelto,77,47,12,57,513,4,1,0,92,32
+Baja,Hurto,Rencor,Querétaro,446,9707,Violación,Estafa,Lavado de dinero,Homofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-07-02,Bajo,Resuelto,78,63,62,54,280,1,1,0,53,55
+Media,Tráfico de drogas,Personal,Veracruz,7567,8022,Extorsión,Robo menor,Lavado de dinero,Homofobia,Celos,Asalto,Robo de ganado,Financiera,2024-03-18,Ninguno,Resuelto,93,25,27,96,780,15,0,1,23,28
+Media,Daños a la propiedad,Financiera,Aguascalientes,4347,2821,Violación,Robo menor,Fraude bancario,Xenofobia,Rencor,Vandalismo,Robo de ganado,Fraude,2023-11-28,Alto,Resuelto,96,26,13,35,695,13,1,1,56,17
+Baja,Hurto menor,Fraude,La Paz,33,2841,Extorsión,Robo menor,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Oportunidad,2023-12-04,Ninguno,Resuelto,49,98,18,49,917,9,1,1,61,36
+Media,Fraude bancario,Criminal,Durango,2368,6298,Asalto,Robo menor,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Oportunidad,2024-05-13,Ninguno,Resuelto,42,51,85,94,284,10,1,1,70,78
+Media,Extorsión,Rescate,Veracruz,3111,8932,Extorsión,Estafa,Lavado de dinero,Homofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-02-12,Bajo,No resuelto,29,25,25,37,85,13,1,1,99,44
+Alta,Robo de vehículos,Criminal,Mérida,1015,2493,Asalto,Fraude,Fraude bancario,Homofobia,Despecho,Asalto,Robo de ganado,Fraude,2024-08-20,Bajo,Resuelto,52,44,10,20,597,13,1,1,22,74
+Baja,Contrabando,Económica,Puebla,7432,8819,Violación,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Caza ilegal,Financiera,2023-11-28,Alto,No resuelto,66,53,69,83,217,4,1,0,92,23
+Media,Hurto menor,Protesta,Aguascalientes,5135,8286,Violación,Fraude,Lavado de dinero,Xenofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-03-20,Bajo,Resuelto,88,2,37,87,864,16,1,0,27,78
+Baja,Vandalismo,Financiera,Durango,9759,5797,Violación,Hurto,Fraude bancario,Homofobia,Despecho,Asalto,Robo de ganado,Financiera,2024-01-25,Ninguno,Resuelto,32,78,43,82,992,3,1,0,4,84
+Alta,Acoso verbal,Financiera,Mexicali,1918,1041,Violación,Fraude,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2023-11-22,Bajo,No resuelto,65,13,60,63,784,3,1,0,16,29
+Alta,Contrabando,Oportunidad,Querétaro,1346,6275,Violación,Robo menor,Lavado de dinero,Xenofobia,Despecho,Robo,Caza ilegal,Fraude,2024-06-19,Ninguno,No resuelto,32,71,42,52,983,18,1,0,78,51
+Baja,Contrabando,Oportunidad,La Paz,5837,9115,Secuestro,Robo menor,Lavado de dinero,Racismo,Rencor,Robo,Tráfico de especies,Oportunidad,2024-01-23,Bajo,No resuelto,12,9,59,96,162,6,1,1,50,70
+Baja,Robo de identidad,Criminal,Hermosillo,3445,7178,Extorsión,Estafa,Lavado de dinero,Racismo,Celos,Vandalismo,Caza ilegal,Financiera,2024-07-31,Alto,No resuelto,74,69,11,67,45,16,1,1,31,11
+Media,Secuestro,Económica,Toluca,7984,9967,Extorsión,Hurto,Lavado de dinero,Racismo,Despecho,Asalto,Tráfico de especies,Financiera,2024-05-07,Alto,Resuelto,72,89,7,51,617,20,1,0,89,32
+Baja,Secuestro,Económica,Puebla,5861,4454,Asalto,Fraude,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Financiera,2024-01-04,Bajo,Resuelto,24,8,19,77,881,11,1,1,2,56
+Media,Hurto menor,Económica,Durango,2540,4608,Homicidio,Hurto,Lavado de dinero,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Financiera,2024-08-23,Alto,No resuelto,50,2,51,12,109,16,1,1,82,42
+Alta,Homicidio,Económica,Aguascalientes,6588,9303,Extorsión,Robo menor,Lavado de dinero,Homofobia,Celos,Vandalismo,Robo de ganado,Fraude,2024-03-09,Ninguno,Resuelto,55,96,78,18,574,8,1,1,59,71
+Media,Contrabando,Rescate,Ciudad de México,2076,5168,Asalto,Fraude,Contrabando,Homofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-09-02,Ninguno,Resuelto,94,33,29,48,503,10,1,1,66,57
+Media,Acoso verbal,Económica,Tijuana,6234,4039,Secuestro,Hurto,Contrabando,Homofobia,Rencor,Vandalismo,Caza ilegal,Financiera,2024-09-12,Bajo,No resuelto,61,68,86,6,866,22,0,0,76,43
+Media,Robo de vehículos,Rencor,Mérida,3025,7329,Extorsión,Fraude,Lavado de dinero,Xenofobia,Despecho,Robo,Caza ilegal,Oportunidad,2023-12-07,Bajo,No resuelto,94,95,32,83,549,10,1,1,71,40
+Alta,Robo de vehículos,Protesta,Mérida,9541,9992,Asalto,Robo menor,Lavado de dinero,Homofobia,Despecho,Asalto,Tráfico de especies,Fraude,2024-02-03,Bajo,No resuelto,64,42,88,97,150,2,1,0,6,72
+Media,Fraude bancario,Personal,Tijuana,7338,6675,Secuestro,Fraude,Fraude bancario,Racismo,Rencor,Vandalismo,Tráfico de especies,Oportunidad,2023-12-31,Ninguno,Resuelto,87,91,90,17,598,15,1,0,66,20
+Baja,Robo de vehículos,Rencor,Saltillo,126,910,Secuestro,Hurto,Fraude bancario,Xenofobia,Despecho,Robo,Caza ilegal,Criminal,2023-12-25,Ninguno,Resuelto,20,26,79,37,454,24,1,0,22,97
+Media,Fraude bancario,Financiera,Torreón,8933,204,Asalto,Robo menor,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Financiera,2024-05-18,Alto,No resuelto,92,81,25,21,725,3,0,1,55,83
+Baja,Robo de identidad,Personal,Ciudad de México,1959,6978,Homicidio,Estafa,Fraude bancario,Homofobia,Despecho,Vandalismo,Robo de ganado,Oportunidad,2024-07-14,Alto,Resuelto,61,64,58,86,600,2,1,1,84,24
+Baja,Contrabando,Fraude,Saltillo,6611,8807,Homicidio,Hurto,Contrabando,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Financiera,2024-04-25,Ninguno,Resuelto,72,96,100,88,594,12,0,0,40,81
+Baja,Vandalismo,Personal,Mexicali,4241,1576,Homicidio,Fraude,Fraude bancario,Xenofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-04-09,Ninguno,No resuelto,56,78,39,71,669,1,0,1,53,99
+Baja,Robo de identidad,Financiera,Mérida,6856,1510,Violación,Hurto,Contrabando,Racismo,Despecho,Asalto,Caza ilegal,Financiera,2024-03-30,Ninguno,No resuelto,81,71,65,64,435,1,0,1,94,78
+Alta,Fraude bancario,Criminal,Torreón,7723,3818,Secuestro,Robo menor,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2024-02-20,Bajo,No resuelto,18,0,79,22,33,20,0,1,58,26
+Baja,Hurto menor,Protesta,Mérida,6800,6354,Homicidio,Hurto,Contrabando,Homofobia,Celos,Vandalismo,Robo de ganado,Criminal,2023-10-12,Ninguno,Resuelto,5,61,79,41,464,3,0,0,98,24
+Media,Secuestro,Económica,Mexicali,9115,3750,Secuestro,Estafa,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Financiera,2024-01-14,Ninguno,No resuelto,10,25,14,75,605,21,1,1,96,18
+Alta,Tráfico de drogas,Económica,Ciudad de México,6268,4994,Extorsión,Robo menor,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-08-21,Bajo,Resuelto,41,3,6,26,893,8,1,1,3,84
+Alta,Robo de vehículos,Económica,Puebla,5565,5905,Secuestro,Estafa,Lavado de dinero,Racismo,Rencor,Robo,Robo de ganado,Criminal,2024-09-05,Bajo,No resuelto,57,13,74,38,341,23,1,1,31,1
+Baja,Tráfico de drogas,Rescate,Veracruz,3018,9648,Secuestro,Hurto,Lavado de dinero,Homofobia,Celos,Vandalismo,Robo de ganado,Criminal,2024-06-04,Ninguno,No resuelto,75,6,95,46,841,22,1,1,64,7
+Media,Extorsión,Rescate,Puebla,3766,760,Extorsión,Estafa,Contrabando,Racismo,Despecho,Robo,Caza ilegal,Fraude,2023-10-30,Bajo,Resuelto,83,95,51,63,558,15,0,0,51,50
+Media,Homicidio,Económica,Reynosa,775,6678,Secuestro,Estafa,Fraude bancario,Homofobia,Rencor,Robo,Caza ilegal,Fraude,2024-04-19,Alto,Resuelto,29,83,26,11,880,6,0,1,26,34
+Media,Robo de vehículos,Económica,Aguascalientes,1037,7048,Violación,Estafa,Contrabando,Racismo,Rencor,Robo,Tráfico de especies,Oportunidad,2024-08-28,Ninguno,No resuelto,0,50,43,15,543,11,0,0,23,52
+Alta,Tráfico de drogas,Criminal,Saltillo,9485,9843,Secuestro,Fraude,Fraude bancario,Racismo,Celos,Vandalismo,Tráfico de especies,Criminal,2024-09-16,Ninguno,Resuelto,97,8,35,91,544,9,0,1,51,74
+Baja,Contrabando,Rencor,Aguascalientes,9321,2923,Secuestro,Fraude,Fraude bancario,Homofobia,Rencor,Vandalismo,Tráfico de especies,Oportunidad,2024-09-17,Ninguno,Resuelto,26,53,10,32,493,11,0,0,86,98
+Alta,Contrabando,Personal,Monterrey,7356,528,Asalto,Robo menor,Contrabando,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Fraude,2024-06-22,Alto,Resuelto,32,88,79,64,660,22,0,0,19,72
+Media,Robo de identidad,Rencor,Hermosillo,5406,2651,Violación,Robo menor,Contrabando,Racismo,Despecho,Robo,Robo de ganado,Financiera,2024-09-01,Bajo,No resuelto,1,24,64,30,411,5,0,1,57,6
+Alta,Ciberacoso,Personal,Zacatecas,5017,9836,Extorsión,Robo menor,Lavado de dinero,Xenofobia,Despecho,Robo,Caza ilegal,Oportunidad,2024-07-25,Bajo,No resuelto,91,13,59,79,585,8,1,0,6,59
+Alta,Fraude bancario,Personal,Durango,6657,4909,Extorsión,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Robo de ganado,Criminal,2024-07-08,Ninguno,No resuelto,30,89,41,56,603,14,1,1,74,84
+Media,Robo de identidad,Protesta,Aguascalientes,6201,2435,Secuestro,Estafa,Contrabando,Homofobia,Despecho,Robo,Tráfico de especies,Financiera,2024-09-30,Alto,No resuelto,97,56,56,67,944,14,1,1,80,50
+Alta,Hurto,Rencor,Torreón,222,8472,Violación,Hurto,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Financiera,2024-08-28,Ninguno,Resuelto,67,15,56,90,649,24,1,0,53,80
+Baja,Homicidio,Rencor,La Paz,1653,6158,Secuestro,Estafa,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Financiera,2024-04-28,Alto,Resuelto,43,47,81,67,241,23,0,1,76,78
+Media,Tráfico de drogas,Económica,Zacatecas,4804,2715,Violación,Robo menor,Lavado de dinero,Racismo,Celos,Vandalismo,Robo de ganado,Fraude,2024-02-20,Bajo,Resuelto,14,6,4,54,593,24,1,0,31,100
+Alta,Hurto menor,Oportunidad,Toluca,6462,8526,Violación,Fraude,Fraude bancario,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Fraude,2024-09-11,Alto,Resuelto,42,69,40,6,883,22,1,0,36,89
+Baja,Secuestro,Protesta,Puebla,6761,8605,Extorsión,Fraude,Contrabando,Xenofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-02-28,Bajo,Resuelto,27,3,26,91,538,14,0,0,88,90
+Alta,Acoso verbal,Rencor,La Paz,4173,4886,Violación,Estafa,Contrabando,Racismo,Despecho,Robo,Tráfico de especies,Fraude,2024-05-30,Bajo,Resuelto,40,13,3,26,381,9,0,1,3,10
+Alta,Fraude bancario,Económica,Mexicali,3897,1574,Secuestro,Estafa,Fraude bancario,Xenofobia,Despecho,Robo,Tráfico de especies,Criminal,2023-11-09,Ninguno,No resuelto,67,89,66,23,289,12,0,0,87,95
+Baja,Estafa,Económica,León,2332,6740,Asalto,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Robo de ganado,Criminal,2024-09-09,Bajo,Resuelto,9,49,95,80,500,22,0,0,76,71
+Media,Fraude bancario,Criminal,Toluca,1240,215,Extorsión,Estafa,Contrabando,Xenofobia,Rencor,Robo,Robo de ganado,Criminal,2024-03-14,Bajo,Resuelto,15,77,56,29,157,8,1,0,4,72
+Baja,Contrabando,Rencor,Tijuana,2448,4515,Homicidio,Hurto,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-07-16,Bajo,Resuelto,94,20,4,30,518,14,1,1,79,63
+Media,Contrabando,Rescate,Zacatecas,692,2538,Extorsión,Fraude,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Caza ilegal,Fraude,2024-05-28,Alto,Resuelto,98,4,82,17,967,9,0,0,22,33
+Media,Hurto menor,Rescate,La Paz,5390,6246,Homicidio,Robo menor,Lavado de dinero,Homofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-01-06,Bajo,Resuelto,53,31,100,95,767,16,1,1,1,93
+Media,Robo de identidad,Criminal,Reynosa,4433,8235,Homicidio,Robo menor,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Oportunidad,2024-04-03,Bajo,Resuelto,3,81,58,93,336,4,0,1,82,82
+Baja,Estafa,Criminal,Mexicali,6553,2368,Asalto,Hurto,Contrabando,Xenofobia,Rencor,Asalto,Tráfico de especies,Oportunidad,2023-12-13,Ninguno,Resuelto,95,76,98,97,696,20,0,1,42,5
+Media,Vandalismo,Económica,León,2991,4505,Asalto,Fraude,Contrabando,Racismo,Celos,Robo,Tráfico de especies,Oportunidad,2024-05-17,Bajo,No resuelto,16,39,88,82,241,9,0,1,7,100
+Baja,Fraude electrónico,Oportunidad,Mérida,1009,5444,Extorsión,Robo menor,Fraude bancario,Homofobia,Despecho,Asalto,Tráfico de especies,Criminal,2023-12-05,Bajo,Resuelto,13,7,92,25,918,9,1,0,16,29
+Alta,Asalto con violencia,Criminal,Mérida,798,2339,Violación,Hurto,Contrabando,Homofobia,Despecho,Vandalismo,Caza ilegal,Criminal,2024-03-17,Ninguno,Resuelto,42,2,75,35,719,13,0,1,12,18
+Alta,Vandalismo,Personal,Mexicali,7199,9808,Asalto,Hurto,Contrabando,Racismo,Despecho,Robo,Tráfico de especies,Fraude,2024-10-10,Bajo,No resuelto,64,83,46,18,392,8,0,1,96,41
+Media,Acoso verbal,Financiera,Guadalajara,6759,3762,Homicidio,Estafa,Lavado de dinero,Xenofobia,Celos,Asalto,Robo de ganado,Criminal,2024-04-26,Alto,Resuelto,39,0,80,89,321,14,1,0,5,72
+Baja,Daños a la propiedad,Rencor,León,4808,3258,Extorsión,Robo menor,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Oportunidad,2024-02-26,Ninguno,No resuelto,2,18,11,31,775,8,0,1,78,47
+Alta,Violencia doméstica,Rencor,Aguascalientes,7128,4504,Extorsión,Fraude,Fraude bancario,Racismo,Rencor,Asalto,Robo de ganado,Financiera,2024-03-26,Alto,Resuelto,77,40,53,22,696,11,0,1,84,5
+Media,Hurto menor,Económica,Mexicali,8741,345,Secuestro,Fraude,Fraude bancario,Racismo,Rencor,Robo,Caza ilegal,Fraude,2024-03-08,Bajo,No resuelto,68,43,30,47,217,2,0,0,80,72
+Media,Violencia doméstica,Protesta,Toluca,9489,326,Extorsión,Estafa,Fraude bancario,Racismo,Despecho,Vandalismo,Tráfico de especies,Financiera,2024-08-01,Bajo,No resuelto,43,55,75,85,750,15,1,0,30,46
+Alta,Homicidio,Rescate,Puebla,7469,1080,Homicidio,Robo menor,Lavado de dinero,Homofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-09-15,Ninguno,No resuelto,47,2,63,70,863,8,1,0,84,55
+Media,Violencia doméstica,Rencor,Toluca,1079,2021,Violación,Fraude,Lavado de dinero,Xenofobia,Celos,Robo,Caza ilegal,Criminal,2023-10-21,Ninguno,Resuelto,23,19,19,75,347,1,0,0,77,54
+Baja,Contrabando,Rescate,Veracruz,5192,2453,Violación,Fraude,Fraude bancario,Homofobia,Rencor,Asalto,Robo de ganado,Criminal,2024-05-11,Alto,Resuelto,34,48,41,11,462,12,0,1,0,23
+Baja,Hurto,Oportunidad,Mexicali,1872,3214,Secuestro,Hurto,Fraude bancario,Racismo,Celos,Asalto,Tráfico de especies,Financiera,2024-06-10,Ninguno,Resuelto,86,52,60,54,394,16,0,1,26,54
+Media,Hurto menor,Fraude,Puebla,6415,8319,Secuestro,Estafa,Fraude bancario,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Fraude,2024-03-08,Alto,Resuelto,14,60,13,91,605,17,0,0,82,52
+Media,Violencia doméstica,Rescate,Reynosa,3382,5237,Secuestro,Robo menor,Fraude bancario,Xenofobia,Celos,Robo,Caza ilegal,Fraude,2024-08-08,Bajo,No resuelto,19,30,80,22,907,10,0,1,30,34
+Alta,Asalto con violencia,Económica,Chihuahua,3021,5643,Asalto,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Tráfico de especies,Fraude,2024-06-09,Bajo,Resuelto,56,90,17,40,829,17,0,1,73,9
+Alta,Ciberacoso,Personal,Mexicali,4240,1689,Homicidio,Fraude,Contrabando,Racismo,Rencor,Asalto,Tráfico de especies,Financiera,2023-12-24,Bajo,No resuelto,12,96,45,92,233,4,1,1,15,77
+Media,Acoso verbal,Económica,Chihuahua,101,6433,Extorsión,Fraude,Fraude bancario,Xenofobia,Rencor,Robo,Tráfico de especies,Fraude,2023-11-11,Ninguno,Resuelto,65,61,77,28,9,7,1,0,98,14
+Baja,Robo de vehículos,Económica,Ciudad de México,5820,3337,Extorsión,Robo menor,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Criminal,2024-08-09,Alto,No resuelto,10,27,47,42,798,0,1,0,97,35
+Media,Asalto con violencia,Protesta,Durango,3227,73,Asalto,Hurto,Lavado de dinero,Homofobia,Rencor,Vandalismo,Tráfico de especies,Fraude,2023-12-26,Ninguno,No resuelto,54,24,68,15,834,23,1,1,47,43
+Baja,Vandalismo,Protesta,Mérida,2028,8849,Secuestro,Estafa,Fraude bancario,Racismo,Rencor,Robo,Caza ilegal,Fraude,2024-04-08,Bajo,No resuelto,59,9,63,40,546,13,0,0,84,51
+Alta,Estafa,Criminal,Veracruz,3181,9272,Homicidio,Fraude,Fraude bancario,Homofobia,Celos,Robo,Caza ilegal,Fraude,2024-08-04,Alto,Resuelto,54,26,54,74,639,10,1,0,5,58
+Media,Robo de vehículos,Rescate,Aguascalientes,5859,342,Violación,Fraude,Lavado de dinero,Racismo,Celos,Vandalismo,Robo de ganado,Oportunidad,2023-12-09,Ninguno,Resuelto,99,4,80,41,338,10,1,1,58,1
+Alta,Tráfico de drogas,Fraude,Querétaro,2977,1390,Homicidio,Estafa,Lavado de dinero,Homofobia,Rencor,Robo,Caza ilegal,Fraude,2024-07-10,Bajo,No resuelto,91,85,91,48,820,24,0,0,95,19
+Alta,Violencia doméstica,Protesta,Reynosa,6922,8201,Secuestro,Fraude,Contrabando,Racismo,Rencor,Robo,Tráfico de especies,Criminal,2024-01-29,Alto,Resuelto,57,98,48,60,679,5,1,1,51,4
+Alta,Acoso verbal,Rescate,Ciudad de México,10000,2786,Violación,Hurto,Contrabando,Xenofobia,Despecho,Asalto,Caza ilegal,Financiera,2023-12-12,Bajo,Resuelto,51,83,40,41,819,17,1,1,88,12
+Baja,Daños a la propiedad,Oportunidad,Monterrey,2967,6651,Violación,Robo menor,Contrabando,Racismo,Rencor,Robo,Tráfico de especies,Fraude,2024-03-04,Bajo,Resuelto,8,99,31,71,651,3,1,0,63,39
+Baja,Robo de vehículos,Personal,Chihuahua,5185,7532,Homicidio,Robo menor,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Fraude,2023-10-15,Ninguno,No resuelto,38,3,12,66,183,5,0,1,83,92
+Media,Extorsión,Financiera,Mexicali,6868,2435,Homicidio,Estafa,Contrabando,Xenofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2023-12-12,Bajo,No resuelto,59,14,98,41,680,1,0,0,2,93
+Media,Acoso verbal,Criminal,Tijuana,3120,8746,Violación,Fraude,Lavado de dinero,Xenofobia,Celos,Robo,Robo de ganado,Fraude,2024-06-27,Bajo,Resuelto,38,12,88,16,430,5,0,1,48,20
+Media,Daños a la propiedad,Financiera,Guadalajara,4828,787,Extorsión,Estafa,Lavado de dinero,Racismo,Despecho,Asalto,Caza ilegal,Fraude,2024-02-13,Bajo,Resuelto,57,33,84,22,427,13,0,1,73,66
+Media,Hurto,Personal,León,8396,6389,Violación,Hurto,Lavado de dinero,Racismo,Despecho,Asalto,Tráfico de especies,Oportunidad,2023-12-16,Bajo,No resuelto,27,73,31,32,294,13,0,1,99,18
+Alta,Hurto menor,Oportunidad,Durango,5402,12,Secuestro,Fraude,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Fraude,2024-01-16,Bajo,Resuelto,97,30,83,91,398,7,1,0,54,26
+Baja,Secuestro,Rescate,Durango,8448,3914,Violación,Hurto,Lavado de dinero,Xenofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-04-09,Bajo,No resuelto,32,2,75,52,484,22,1,0,36,22
+Alta,Hurto menor,Rencor,Hermosillo,9718,2576,Secuestro,Fraude,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Fraude,2023-11-28,Alto,No resuelto,48,62,39,68,225,6,0,1,92,37
+Baja,Fraude electrónico,Económica,León,1570,6867,Extorsión,Fraude,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2024-07-02,Bajo,No resuelto,51,26,45,58,98,5,1,0,67,6
+Alta,Acoso verbal,Financiera,Mexicali,9419,4127,Secuestro,Fraude,Lavado de dinero,Racismo,Despecho,Asalto,Tráfico de especies,Financiera,2024-05-12,Ninguno,No resuelto,15,68,40,38,653,21,0,0,61,46
+Alta,Contrabando,Financiera,Puebla,920,6705,Violación,Fraude,Lavado de dinero,Xenofobia,Celos,Asalto,Caza ilegal,Fraude,2024-09-05,Bajo,Resuelto,97,37,11,71,121,8,1,0,26,28
+Baja,Contrabando,Personal,Reynosa,6617,3967,Extorsión,Hurto,Lavado de dinero,Homofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-04-24,Ninguno,Resuelto,34,48,93,10,711,5,1,0,51,92
+Media,Robo de vehículos,Fraude,Querétaro,2152,3886,Homicidio,Fraude,Fraude bancario,Xenofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-01-29,Alto,Resuelto,29,24,50,40,381,18,1,1,3,11
+Baja,Secuestro,Fraude,Ciudad de México,6969,7063,Violación,Hurto,Fraude bancario,Racismo,Celos,Robo,Caza ilegal,Criminal,2023-10-23,Bajo,No resuelto,95,24,56,44,503,5,0,1,19,33
+Baja,Fraude bancario,Fraude,Zacatecas,6703,7613,Secuestro,Robo menor,Fraude bancario,Xenofobia,Celos,Vandalismo,Tráfico de especies,Fraude,2024-02-16,Alto,No resuelto,90,20,46,38,968,9,0,1,20,74
+Alta,Extorsión,Oportunidad,Zacatecas,4860,5037,Homicidio,Hurto,Fraude bancario,Racismo,Despecho,Asalto,Robo de ganado,Fraude,2023-11-10,Ninguno,Resuelto,65,91,41,34,531,15,0,1,16,80
+Baja,Violencia doméstica,Protesta,Veracruz,3119,9967,Homicidio,Estafa,Fraude bancario,Xenofobia,Despecho,Vandalismo,Robo de ganado,Criminal,2024-10-06,Ninguno,Resuelto,29,70,89,49,537,7,1,1,50,10
+Alta,Hurto,Criminal,Torreón,3580,902,Extorsión,Estafa,Fraude bancario,Xenofobia,Rencor,Asalto,Tráfico de especies,Fraude,2024-08-20,Ninguno,Resuelto,10,88,6,97,760,9,1,0,0,77
+Media,Asalto con violencia,Económica,Guadalajara,1272,6617,Asalto,Robo menor,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-07-18,Alto,Resuelto,79,70,56,26,50,20,0,0,0,65
+Media,Asalto con violencia,Rescate,Guadalajara,4004,8095,Secuestro,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Robo de ganado,Criminal,2024-06-17,Bajo,No resuelto,51,56,34,81,999,22,1,1,59,54
+Media,Tráfico de drogas,Económica,Hermosillo,8903,6156,Secuestro,Robo menor,Fraude bancario,Racismo,Celos,Asalto,Robo de ganado,Fraude,2023-12-06,Ninguno,Resuelto,66,1,58,5,512,6,0,1,63,90
+Alta,Hurto menor,Fraude,Querétaro,5341,7497,Secuestro,Hurto,Lavado de dinero,Xenofobia,Celos,Asalto,Robo de ganado,Fraude,2024-01-24,Alto,Resuelto,55,94,17,75,351,3,0,0,47,77
+Alta,Vandalismo,Económica,Guadalajara,7447,7828,Violación,Robo menor,Contrabando,Racismo,Despecho,Vandalismo,Tráfico de especies,Oportunidad,2024-07-05,Alto,Resuelto,60,63,41,7,926,16,1,1,8,75
+Media,Fraude bancario,Criminal,Puebla,1779,1304,Homicidio,Hurto,Contrabando,Racismo,Celos,Robo,Robo de ganado,Oportunidad,2024-09-27,Bajo,No resuelto,41,44,62,67,774,17,0,1,55,32
+Media,Contrabando,Rencor,La Paz,7444,9587,Extorsión,Estafa,Lavado de dinero,Xenofobia,Despecho,Asalto,Tráfico de especies,Criminal,2023-11-02,Alto,No resuelto,57,25,79,3,778,15,1,1,71,97
+Media,Asalto con violencia,Financiera,La Paz,5083,724,Secuestro,Fraude,Contrabando,Racismo,Rencor,Vandalismo,Caza ilegal,Fraude,2024-01-11,Ninguno,No resuelto,87,98,20,97,1,1,1,0,52,93
+Media,Extorsión,Económica,León,138,3859,Extorsión,Hurto,Lavado de dinero,Homofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-09-10,Ninguno,No resuelto,43,46,64,33,557,19,1,0,12,68
+Media,Tráfico de drogas,Fraude,Mérida,6162,910,Violación,Fraude,Lavado de dinero,Racismo,Despecho,Robo,Caza ilegal,Financiera,2024-07-20,Bajo,Resuelto,92,39,45,41,170,9,0,0,37,95
+Media,Tráfico de drogas,Personal,Puebla,7205,5222,Extorsión,Robo menor,Lavado de dinero,Homofobia,Celos,Asalto,Tráfico de especies,Fraude,2023-12-07,Alto,Resuelto,21,11,52,13,227,21,1,0,66,84
+Baja,Robo de vehículos,Personal,Querétaro,5049,7509,Violación,Estafa,Fraude bancario,Homofobia,Despecho,Vandalismo,Robo de ganado,Fraude,2023-11-02,Alto,Resuelto,78,58,52,72,389,16,1,1,53,66
+Baja,Tráfico de drogas,Protesta,León,1017,690,Violación,Fraude,Contrabando,Xenofobia,Celos,Asalto,Caza ilegal,Financiera,2024-08-01,Bajo,Resuelto,54,28,2,51,438,22,0,1,14,5
+Alta,Vandalismo,Rescate,Querétaro,5551,3209,Violación,Estafa,Fraude bancario,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2023-12-03,Alto,Resuelto,69,10,45,69,576,5,1,1,62,4
+Media,Fraude bancario,Protesta,León,607,6146,Violación,Hurto,Contrabando,Racismo,Despecho,Asalto,Robo de ganado,Financiera,2024-02-25,Bajo,No resuelto,45,49,46,18,150,17,0,0,0,5
+Baja,Fraude electrónico,Rescate,Torreón,312,1136,Homicidio,Hurto,Contrabando,Homofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2023-12-21,Ninguno,No resuelto,65,22,92,11,330,6,0,1,66,73
+Baja,Secuestro,Personal,Veracruz,5620,1745,Homicidio,Hurto,Contrabando,Racismo,Rencor,Vandalismo,Robo de ganado,Fraude,2024-02-15,Ninguno,Resuelto,79,48,6,67,882,13,0,0,76,78
+Media,Hurto menor,Financiera,Zacatecas,2200,4648,Violación,Robo menor,Contrabando,Xenofobia,Rencor,Robo,Caza ilegal,Oportunidad,2024-05-25,Bajo,Resuelto,27,25,27,34,778,16,1,1,67,41
+Media,Fraude bancario,Rencor,Hermosillo,1268,7472,Asalto,Fraude,Contrabando,Racismo,Celos,Robo,Caza ilegal,Financiera,2023-11-26,Ninguno,Resuelto,58,55,88,18,938,21,1,1,34,16
+Baja,Daños a la propiedad,Oportunidad,Aguascalientes,912,7263,Homicidio,Hurto,Lavado de dinero,Xenofobia,Celos,Vandalismo,Robo de ganado,Fraude,2024-07-03,Ninguno,Resuelto,17,92,15,64,848,21,1,0,63,40
+Baja,Ciberacoso,Protesta,Monterrey,959,9272,Secuestro,Hurto,Fraude bancario,Racismo,Celos,Asalto,Tráfico de especies,Financiera,2024-03-04,Bajo,Resuelto,43,56,58,15,144,18,0,1,54,100
+Alta,Homicidio,Rencor,Reynosa,5912,168,Extorsión,Robo menor,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Fraude,2024-05-17,Alto,Resuelto,59,60,75,59,723,2,0,1,58,21
+Baja,Tráfico de drogas,Oportunidad,Hermosillo,4655,5007,Secuestro,Hurto,Contrabando,Xenofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-06-26,Bajo,No resuelto,71,3,92,99,509,0,1,1,76,45
+Baja,Robo de vehículos,Criminal,Monterrey,1156,843,Asalto,Robo menor,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Financiera,2024-09-18,Bajo,No resuelto,36,52,39,10,312,4,0,1,48,64
+Media,Hurto menor,Oportunidad,Aguascalientes,8053,7668,Extorsión,Estafa,Fraude bancario,Homofobia,Despecho,Asalto,Robo de ganado,Oportunidad,2024-03-05,Alto,No resuelto,77,52,99,84,472,22,1,0,47,60
+Baja,Secuestro,Oportunidad,Durango,7605,1048,Asalto,Estafa,Fraude bancario,Homofobia,Celos,Robo,Caza ilegal,Financiera,2024-01-19,Ninguno,Resuelto,37,35,20,21,281,18,1,1,29,26
+Media,Daños a la propiedad,Rencor,Hermosillo,9494,3000,Asalto,Robo menor,Fraude bancario,Homofobia,Despecho,Asalto,Tráfico de especies,Fraude,2024-04-12,Alto,No resuelto,31,88,49,76,938,6,1,1,18,28
+Alta,Daños a la propiedad,Personal,León,5021,3247,Asalto,Robo menor,Lavado de dinero,Homofobia,Rencor,Robo,Robo de ganado,Oportunidad,2023-12-30,Bajo,No resuelto,14,45,67,3,974,23,0,0,0,59
+Baja,Asalto con violencia,Económica,Chihuahua,7334,2602,Homicidio,Fraude,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Criminal,2024-02-12,Alto,No resuelto,51,40,4,100,107,14,0,0,16,44
+Alta,Secuestro,Económica,Chihuahua,6773,7342,Extorsión,Estafa,Lavado de dinero,Homofobia,Rencor,Vandalismo,Tráfico de especies,Oportunidad,2024-08-15,Alto,No resuelto,55,89,80,58,410,24,0,1,88,100
+Alta,Vandalismo,Rescate,La Paz,2401,7296,Homicidio,Robo menor,Contrabando,Xenofobia,Celos,Robo,Robo de ganado,Criminal,2023-11-03,Ninguno,Resuelto,42,82,49,94,338,4,1,1,38,90
+Media,Secuestro,Protesta,Veracruz,6043,8577,Violación,Hurto,Fraude bancario,Xenofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2024-01-03,Alto,Resuelto,68,36,84,46,182,4,1,0,70,86
+Media,Daños a la propiedad,Financiera,Reynosa,9847,8915,Homicidio,Estafa,Lavado de dinero,Homofobia,Despecho,Robo,Caza ilegal,Financiera,2024-03-09,Alto,Resuelto,97,39,72,15,701,19,0,0,21,4
+Baja,Daños a la propiedad,Económica,Chihuahua,429,5200,Asalto,Robo menor,Contrabando,Homofobia,Celos,Asalto,Robo de ganado,Criminal,2024-03-19,Bajo,No resuelto,77,14,82,0,873,10,1,0,6,79
+Media,Fraude electrónico,Personal,Mexicali,1292,8900,Extorsión,Fraude,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Fraude,2024-01-26,Alto,Resuelto,15,18,63,63,12,3,0,1,97,61
+Baja,Tráfico de drogas,Personal,Mexicali,4147,9924,Violación,Fraude,Contrabando,Racismo,Rencor,Vandalismo,Caza ilegal,Criminal,2023-12-02,Bajo,No resuelto,60,51,50,67,740,9,1,0,59,98
+Media,Hurto,Rescate,Toluca,1927,992,Asalto,Robo menor,Fraude bancario,Homofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-01-30,Ninguno,No resuelto,12,4,44,17,979,5,0,0,15,79
+Media,Daños a la propiedad,Económica,Toluca,9135,5055,Extorsión,Hurto,Contrabando,Homofobia,Despecho,Robo,Robo de ganado,Fraude,2024-02-27,Alto,Resuelto,53,33,80,4,338,18,0,1,89,79
+Alta,Ciberacoso,Fraude,La Paz,9689,853,Extorsión,Estafa,Contrabando,Homofobia,Celos,Asalto,Robo de ganado,Fraude,2024-07-07,Ninguno,Resuelto,48,84,43,95,754,12,0,0,60,53
+Baja,Vandalismo,Rencor,Zacatecas,1207,5978,Asalto,Estafa,Fraude bancario,Xenofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-08-30,Ninguno,Resuelto,30,55,79,12,975,3,1,1,57,98
+Alta,Fraude electrónico,Rencor,Veracruz,1281,9107,Extorsión,Fraude,Contrabando,Xenofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-09-11,Bajo,No resuelto,99,0,44,100,340,8,1,0,71,89
+Alta,Robo de identidad,Rencor,Ciudad de México,7160,6656,Asalto,Robo menor,Lavado de dinero,Xenofobia,Despecho,Robo,Robo de ganado,Financiera,2024-06-25,Ninguno,Resuelto,90,71,75,73,366,18,0,1,71,0
+Alta,Fraude bancario,Oportunidad,La Paz,1463,6664,Homicidio,Robo menor,Fraude bancario,Racismo,Celos,Asalto,Tráfico de especies,Financiera,2024-04-23,Ninguno,No resuelto,8,64,85,72,792,15,1,0,72,87
+Baja,Homicidio,Económica,Veracruz,9981,9427,Homicidio,Hurto,Lavado de dinero,Xenofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-03-25,Alto,Resuelto,89,88,70,2,642,8,0,1,23,80
+Media,Robo de vehículos,Protesta,León,7740,239,Asalto,Robo menor,Lavado de dinero,Homofobia,Despecho,Asalto,Robo de ganado,Criminal,2024-04-05,Alto,Resuelto,88,88,86,48,791,14,1,1,82,71
+Alta,Ciberacoso,Personal,Mexicali,347,4527,Violación,Hurto,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2023-11-10,Bajo,No resuelto,16,17,66,91,485,5,0,1,47,27
+Media,Tráfico de drogas,Rencor,Saltillo,3389,6184,Secuestro,Robo menor,Lavado de dinero,Racismo,Rencor,Asalto,Tráfico de especies,Oportunidad,2023-11-10,Bajo,No resuelto,79,92,91,97,562,22,0,1,11,76
+Baja,Fraude bancario,Rencor,Tijuana,7635,2122,Asalto,Robo menor,Lavado de dinero,Homofobia,Celos,Robo,Tráfico de especies,Financiera,2024-07-16,Ninguno,No resuelto,100,5,14,18,881,14,0,0,80,72
+Media,Violencia doméstica,Protesta,Durango,8151,5704,Secuestro,Estafa,Contrabando,Racismo,Rencor,Vandalismo,Robo de ganado,Fraude,2024-06-13,Ninguno,Resuelto,14,50,90,86,129,18,0,1,13,82
+Baja,Violencia doméstica,Económica,La Paz,2384,383,Homicidio,Fraude,Contrabando,Racismo,Rencor,Asalto,Caza ilegal,Financiera,2024-04-23,Bajo,No resuelto,47,15,3,87,255,16,0,0,42,71
+Alta,Secuestro,Financiera,Reynosa,1102,1810,Secuestro,Fraude,Contrabando,Homofobia,Despecho,Asalto,Robo de ganado,Criminal,2024-10-03,Alto,Resuelto,6,75,87,38,749,5,0,0,66,100
+Media,Ciberacoso,Económica,Monterrey,8013,823,Asalto,Hurto,Contrabando,Homofobia,Despecho,Asalto,Caza ilegal,Fraude,2024-04-28,Bajo,No resuelto,84,55,21,57,174,22,0,1,77,67
+Media,Asalto con violencia,Financiera,Durango,498,8787,Asalto,Robo menor,Fraude bancario,Xenofobia,Despecho,Vandalismo,Caza ilegal,Oportunidad,2024-01-14,Alto,Resuelto,52,53,63,63,708,0,0,1,99,45
+Media,Homicidio,Protesta,Torreón,3977,5014,Homicidio,Estafa,Contrabando,Homofobia,Rencor,Asalto,Robo de ganado,Financiera,2024-08-24,Ninguno,Resuelto,4,80,62,77,270,13,0,0,51,77
+Media,Asalto con violencia,Financiera,Ciudad de México,4204,6670,Asalto,Hurto,Lavado de dinero,Homofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-04-03,Alto,No resuelto,87,11,27,98,839,2,1,1,13,51
+Media,Asalto con violencia,Oportunidad,Mexicali,5621,6700,Asalto,Estafa,Fraude bancario,Xenofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2023-12-23,Bajo,Resuelto,25,69,71,16,161,8,0,0,48,60
+Alta,Violencia doméstica,Fraude,Torreón,6313,8744,Asalto,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-02-29,Alto,No resuelto,48,59,79,44,994,8,0,0,53,16
+Media,Robo de identidad,Personal,Zacatecas,1296,9630,Extorsión,Fraude,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Criminal,2023-11-25,Ninguno,Resuelto,32,46,5,78,103,13,0,0,64,43
+Baja,Hurto,Rescate,Mérida,4365,4457,Asalto,Hurto,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Fraude,2024-05-09,Alto,Resuelto,25,98,41,77,87,20,0,1,60,47
+Media,Violencia doméstica,Oportunidad,Veracruz,9368,554,Homicidio,Hurto,Fraude bancario,Homofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-08-15,Ninguno,Resuelto,17,8,81,22,247,7,1,0,62,77
+Media,Hurto menor,Financiera,León,5282,8566,Secuestro,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2024-06-26,Ninguno,Resuelto,15,49,49,13,328,24,1,1,72,74
+Alta,Vandalismo,Rescate,Querétaro,183,7003,Secuestro,Fraude,Fraude bancario,Xenofobia,Celos,Robo,Robo de ganado,Criminal,2023-10-28,Bajo,Resuelto,43,36,88,95,791,18,0,0,68,44
+Baja,Asalto con violencia,Oportunidad,Chihuahua,2939,3490,Violación,Fraude,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Caza ilegal,Fraude,2023-11-19,Bajo,Resuelto,14,70,47,76,893,2,1,1,31,63
+Media,Robo de vehículos,Criminal,Aguascalientes,2501,8387,Extorsión,Hurto,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2023-11-13,Alto,No resuelto,35,63,56,35,11,13,1,1,55,73
+Media,Estafa,Criminal,León,8711,9882,Secuestro,Hurto,Contrabando,Xenofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-05-07,Bajo,Resuelto,78,80,6,60,288,5,1,1,98,42
+Baja,Hurto menor,Protesta,Monterrey,21,5922,Extorsión,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Oportunidad,2024-02-23,Bajo,No resuelto,74,75,0,28,826,5,1,0,59,46
+Baja,Extorsión,Rescate,Torreón,6477,5804,Extorsión,Estafa,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Criminal,2024-02-20,Bajo,Resuelto,78,6,100,95,130,4,1,1,97,99
+Baja,Tráfico de drogas,Financiera,Guadalajara,5474,8938,Asalto,Fraude,Fraude bancario,Xenofobia,Despecho,Robo,Caza ilegal,Fraude,2024-07-16,Alto,No resuelto,49,75,87,79,589,3,0,0,4,52
+Alta,Vandalismo,Rencor,Saltillo,6505,5736,Homicidio,Estafa,Lavado de dinero,Homofobia,Rencor,Asalto,Robo de ganado,Fraude,2023-11-22,Bajo,No resuelto,16,16,40,65,561,8,0,1,65,78
+Baja,Asalto con violencia,Oportunidad,Toluca,4582,4090,Secuestro,Hurto,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-07-21,Ninguno,Resuelto,71,44,15,90,978,0,1,1,83,40
+Media,Contrabando,Criminal,Ciudad de México,5250,9021,Extorsión,Fraude,Contrabando,Homofobia,Despecho,Vandalismo,Robo de ganado,Financiera,2024-05-25,Bajo,Resuelto,65,94,99,91,104,1,0,0,4,65
+Alta,Fraude bancario,Rescate,Durango,8152,8451,Violación,Hurto,Contrabando,Homofobia,Celos,Robo,Caza ilegal,Fraude,2024-01-31,Ninguno,No resuelto,33,66,96,16,494,20,0,1,81,7
+Alta,Robo de vehículos,Protesta,Guadalajara,9340,9143,Homicidio,Fraude,Contrabando,Xenofobia,Despecho,Asalto,Tráfico de especies,Financiera,2024-09-11,Bajo,No resuelto,59,92,12,28,937,3,1,1,30,22
+Baja,Secuestro,Personal,Mérida,7095,8302,Secuestro,Hurto,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-09-29,Ninguno,No resuelto,40,22,56,2,395,0,1,1,84,1
+Media,Estafa,Fraude,Tijuana,9457,26,Homicidio,Hurto,Contrabando,Racismo,Rencor,Asalto,Tráfico de especies,Oportunidad,2024-03-23,Ninguno,No resuelto,97,53,24,4,132,13,1,1,97,17
+Baja,Robo de identidad,Económica,Toluca,3559,4807,Homicidio,Estafa,Lavado de dinero,Homofobia,Rencor,Asalto,Robo de ganado,Financiera,2023-11-30,Ninguno,Resuelto,57,78,14,77,186,2,1,0,50,15
+Alta,Robo de vehículos,Rescate,Chihuahua,1586,3463,Extorsión,Robo menor,Lavado de dinero,Xenofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-05-27,Bajo,Resuelto,20,49,3,89,314,10,1,1,26,52
+Alta,Robo de vehículos,Económica,Veracruz,9984,7492,Homicidio,Fraude,Lavado de dinero,Racismo,Celos,Asalto,Tráfico de especies,Fraude,2024-04-26,Alto,No resuelto,83,31,47,40,12,0,1,1,16,96
+Alta,Acoso verbal,Rencor,Torreón,3002,8056,Homicidio,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Tráfico de especies,Financiera,2023-12-21,Bajo,Resuelto,62,23,24,4,81,6,1,1,54,52
+Alta,Ciberacoso,Fraude,Querétaro,2199,7409,Violación,Estafa,Lavado de dinero,Homofobia,Despecho,Robo,Robo de ganado,Criminal,2023-11-02,Alto,No resuelto,65,84,29,41,3,23,0,1,52,44
+Baja,Acoso verbal,Fraude,Mérida,2010,2966,Extorsión,Hurto,Contrabando,Homofobia,Despecho,Vandalismo,Robo de ganado,Oportunidad,2024-05-26,Bajo,No resuelto,57,19,70,75,448,18,0,0,79,62
+Alta,Homicidio,Criminal,Ciudad de México,8852,6015,Asalto,Hurto,Fraude bancario,Racismo,Despecho,Vandalismo,Robo de ganado,Financiera,2024-07-29,Ninguno,No resuelto,13,60,3,85,909,7,0,1,72,92
+Media,Asalto con violencia,Criminal,Aguascalientes,3723,727,Extorsión,Fraude,Lavado de dinero,Racismo,Celos,Asalto,Caza ilegal,Fraude,2023-11-01,Ninguno,No resuelto,65,49,95,41,975,18,1,1,18,93
+Alta,Estafa,Criminal,La Paz,496,813,Asalto,Hurto,Fraude bancario,Racismo,Despecho,Vandalismo,Tráfico de especies,Oportunidad,2024-05-16,Bajo,Resuelto,3,3,2,62,99,9,1,0,52,31
+Alta,Acoso verbal,Económica,León,3082,1593,Violación,Estafa,Fraude bancario,Racismo,Despecho,Vandalismo,Caza ilegal,Oportunidad,2024-06-29,Ninguno,No resuelto,9,51,16,14,652,9,1,0,5,40
+Media,Contrabando,Personal,La Paz,5182,7633,Secuestro,Robo menor,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-06-18,Alto,No resuelto,0,42,2,52,721,11,1,1,31,54
+Alta,Daños a la propiedad,Rescate,Durango,7831,5645,Secuestro,Fraude,Fraude bancario,Racismo,Despecho,Robo,Robo de ganado,Criminal,2024-01-22,Ninguno,Resuelto,24,86,42,36,4,14,0,1,16,45
+Baja,Fraude electrónico,Oportunidad,Chihuahua,8541,1801,Homicidio,Fraude,Contrabando,Homofobia,Celos,Vandalismo,Robo de ganado,Financiera,2024-08-13,Bajo,No resuelto,79,63,73,42,659,15,0,1,58,99
+Media,Ciberacoso,Criminal,Mexicali,581,470,Homicidio,Robo menor,Lavado de dinero,Racismo,Rencor,Vandalismo,Caza ilegal,Financiera,2024-03-13,Bajo,Resuelto,58,31,38,3,485,2,0,0,98,45
+Media,Contrabando,Fraude,Toluca,130,6505,Asalto,Fraude,Lavado de dinero,Xenofobia,Celos,Asalto,Tráfico de especies,Financiera,2023-12-19,Alto,Resuelto,32,74,68,93,213,14,1,0,51,60
+Media,Contrabando,Económica,Toluca,2974,9280,Homicidio,Robo menor,Lavado de dinero,Racismo,Despecho,Asalto,Robo de ganado,Oportunidad,2024-09-18,Bajo,No resuelto,66,87,17,89,63,1,0,0,62,24
+Alta,Ciberacoso,Rencor,Mérida,913,6355,Asalto,Hurto,Contrabando,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-06-26,Bajo,Resuelto,95,99,8,37,669,6,1,1,36,68
+Alta,Asalto con violencia,Oportunidad,Mérida,2293,3150,Extorsión,Estafa,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-05-24,Alto,No resuelto,46,37,46,73,241,8,0,1,57,87
+Alta,Vandalismo,Financiera,La Paz,8107,6662,Secuestro,Fraude,Fraude bancario,Racismo,Rencor,Vandalismo,Tráfico de especies,Financiera,2024-01-25,Ninguno,No resuelto,70,40,41,81,845,3,1,0,6,33
+Alta,Secuestro,Financiera,Durango,8373,669,Homicidio,Hurto,Contrabando,Racismo,Celos,Robo,Tráfico de especies,Fraude,2024-04-19,Ninguno,No resuelto,50,91,61,21,991,10,0,0,55,95
+Alta,Fraude electrónico,Criminal,La Paz,6842,2524,Violación,Hurto,Lavado de dinero,Homofobia,Celos,Vandalismo,Caza ilegal,Financiera,2024-09-02,Bajo,No resuelto,5,84,57,99,434,18,1,0,52,15
+Media,Fraude bancario,Rencor,Durango,6880,7641,Extorsión,Estafa,Contrabando,Racismo,Rencor,Vandalismo,Caza ilegal,Fraude,2024-01-31,Alto,No resuelto,37,17,16,74,32,18,0,1,18,5
+Media,Contrabando,Criminal,Tijuana,366,452,Asalto,Estafa,Contrabando,Xenofobia,Celos,Vandalismo,Robo de ganado,Oportunidad,2024-03-15,Alto,Resuelto,6,99,77,20,542,5,1,1,48,87
+Baja,Homicidio,Rescate,Guadalajara,8612,1061,Violación,Hurto,Lavado de dinero,Homofobia,Celos,Asalto,Robo de ganado,Criminal,2024-09-21,Alto,Resuelto,70,71,65,76,927,12,1,0,19,42
+Media,Tráfico de drogas,Rencor,Torreón,6534,5406,Violación,Fraude,Contrabando,Xenofobia,Celos,Asalto,Tráfico de especies,Criminal,2024-09-21,Ninguno,No resuelto,28,36,47,17,472,19,0,0,14,15
+Baja,Ciberacoso,Protesta,Reynosa,5263,7605,Violación,Hurto,Contrabando,Homofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2023-11-04,Alto,No resuelto,54,63,86,85,327,3,0,1,59,8
+Media,Ciberacoso,Económica,Puebla,6086,3015,Extorsión,Hurto,Fraude bancario,Homofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2023-11-15,Bajo,No resuelto,56,33,52,36,275,1,0,1,45,100
+Baja,Hurto menor,Oportunidad,Tijuana,2678,8079,Violación,Fraude,Lavado de dinero,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-09-08,Alto,No resuelto,26,34,76,100,348,17,0,1,73,93
+Baja,Violencia doméstica,Personal,Durango,1589,5903,Secuestro,Estafa,Contrabando,Racismo,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-09-28,Ninguno,Resuelto,41,45,72,61,774,7,1,1,8,23
+Alta,Fraude bancario,Protesta,Querétaro,7285,3432,Extorsión,Hurto,Lavado de dinero,Homofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2023-11-07,Bajo,Resuelto,19,14,38,62,406,2,0,0,68,7
+Alta,Secuestro,Personal,Mexicali,1456,674,Violación,Robo menor,Contrabando,Racismo,Despecho,Asalto,Caza ilegal,Financiera,2024-09-29,Ninguno,No resuelto,90,73,81,29,969,23,0,1,91,13
+Alta,Fraude electrónico,Fraude,Aguascalientes,633,2702,Secuestro,Estafa,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Criminal,2024-09-16,Alto,Resuelto,12,9,44,30,928,21,1,0,61,20
+Media,Robo de vehículos,Económica,Saltillo,6545,9905,Asalto,Robo menor,Contrabando,Racismo,Despecho,Asalto,Tráfico de especies,Oportunidad,2024-03-25,Ninguno,Resuelto,23,93,80,74,123,22,1,1,8,3
+Baja,Extorsión,Protesta,Reynosa,9954,4268,Extorsión,Fraude,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Fraude,2024-07-24,Ninguno,Resuelto,16,97,59,49,629,10,0,1,33,13
+Alta,Tráfico de drogas,Rencor,Zacatecas,4220,5117,Asalto,Robo menor,Fraude bancario,Racismo,Despecho,Robo,Tráfico de especies,Financiera,2024-05-13,Alto,No resuelto,92,7,38,21,248,22,1,1,32,97
+Baja,Extorsión,Criminal,Guadalajara,7934,184,Violación,Estafa,Lavado de dinero,Racismo,Celos,Asalto,Caza ilegal,Fraude,2024-06-11,Bajo,No resuelto,39,2,49,53,262,21,0,1,48,96
+Media,Homicidio,Fraude,La Paz,9572,4021,Homicidio,Estafa,Contrabando,Homofobia,Celos,Robo,Robo de ganado,Criminal,2024-05-15,Alto,No resuelto,49,57,22,96,298,18,0,0,57,81
+Baja,Violencia doméstica,Oportunidad,Monterrey,4160,9874,Homicidio,Robo menor,Fraude bancario,Xenofobia,Despecho,Robo,Caza ilegal,Oportunidad,2024-08-02,Bajo,Resuelto,53,67,95,5,67,12,0,0,45,93
+Baja,Robo de vehículos,Criminal,Reynosa,8563,1623,Violación,Hurto,Fraude bancario,Xenofobia,Celos,Robo,Robo de ganado,Fraude,2023-12-27,Bajo,Resuelto,27,70,30,5,381,2,1,0,32,96
+Baja,Estafa,Protesta,Toluca,3710,3582,Homicidio,Hurto,Lavado de dinero,Homofobia,Rencor,Asalto,Robo de ganado,Financiera,2024-08-18,Bajo,Resuelto,72,70,10,5,15,7,0,0,18,77
+Baja,Homicidio,Rencor,Durango,9450,8430,Violación,Hurto,Lavado de dinero,Xenofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2024-04-29,Alto,No resuelto,90,36,95,35,570,24,0,1,98,0
+Media,Contrabando,Protesta,Chihuahua,5804,8648,Violación,Robo menor,Contrabando,Homofobia,Despecho,Asalto,Caza ilegal,Oportunidad,2024-08-02,Bajo,No resuelto,21,50,87,54,142,21,0,0,25,80
+Baja,Contrabando,Oportunidad,Puebla,6135,3047,Secuestro,Fraude,Fraude bancario,Racismo,Despecho,Asalto,Tráfico de especies,Criminal,2024-01-17,Alto,Resuelto,33,58,13,88,940,15,1,1,56,50
+Baja,Ciberacoso,Económica,Puebla,2221,5472,Secuestro,Hurto,Lavado de dinero,Xenofobia,Celos,Robo,Tráfico de especies,Criminal,2024-03-31,Alto,No resuelto,15,78,70,33,515,7,1,0,2,62
+Media,Estafa,Personal,Tijuana,6806,173,Violación,Estafa,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-05-29,Bajo,No resuelto,32,11,70,90,902,13,1,1,36,30
+Alta,Robo de vehículos,Oportunidad,Toluca,4157,345,Asalto,Hurto,Lavado de dinero,Homofobia,Despecho,Robo,Caza ilegal,Financiera,2024-01-13,Bajo,Resuelto,36,98,66,78,656,16,0,0,11,42
+Baja,Secuestro,Rencor,Ciudad de México,8209,1612,Violación,Fraude,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2023-12-21,Bajo,Resuelto,48,72,47,37,805,16,1,0,43,30
+Media,Tráfico de drogas,Criminal,Reynosa,2189,1215,Violación,Robo menor,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Fraude,2023-10-19,Ninguno,No resuelto,79,21,69,81,207,14,0,1,88,42
+Baja,Ciberacoso,Oportunidad,Mérida,7134,8301,Extorsión,Fraude,Contrabando,Racismo,Celos,Robo,Tráfico de especies,Fraude,2024-06-05,Bajo,No resuelto,69,51,63,82,706,20,1,1,33,43
+Alta,Fraude bancario,Rencor,Tijuana,2037,2466,Asalto,Fraude,Contrabando,Homofobia,Rencor,Robo,Robo de ganado,Fraude,2023-11-08,Bajo,Resuelto,11,63,20,4,314,0,1,1,53,12
+Alta,Vandalismo,Fraude,Aguascalientes,5790,6080,Extorsión,Fraude,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Oportunidad,2023-11-01,Alto,No resuelto,21,22,18,36,713,6,1,1,82,51
+Media,Contrabando,Fraude,Mexicali,7411,9799,Asalto,Hurto,Fraude bancario,Racismo,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-06-03,Ninguno,Resuelto,8,50,14,83,118,2,1,0,83,51
+Baja,Acoso verbal,Rencor,León,2262,8126,Secuestro,Hurto,Contrabando,Homofobia,Celos,Robo,Caza ilegal,Criminal,2024-06-24,Ninguno,Resuelto,1,76,66,87,719,0,0,0,66,33
+Media,Acoso verbal,Rencor,Guadalajara,3862,9887,Homicidio,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Robo de ganado,Criminal,2024-09-18,Bajo,No resuelto,49,47,49,45,749,5,0,1,100,54
+Media,Vandalismo,Protesta,Chihuahua,6258,301,Asalto,Hurto,Lavado de dinero,Racismo,Rencor,Asalto,Tráfico de especies,Fraude,2024-10-01,Bajo,No resuelto,59,86,12,9,410,9,0,1,33,10
+Media,Fraude bancario,Personal,Tijuana,1334,9711,Violación,Robo menor,Contrabando,Racismo,Celos,Asalto,Tráfico de especies,Fraude,2023-10-22,Ninguno,Resuelto,83,61,35,98,66,17,0,1,31,98
+Baja,Tráfico de drogas,Rencor,Mexicali,3705,1178,Homicidio,Fraude,Lavado de dinero,Racismo,Despecho,Robo,Robo de ganado,Criminal,2024-02-25,Ninguno,No resuelto,30,5,77,71,277,3,0,1,65,69
+Baja,Vandalismo,Económica,Puebla,8783,1161,Secuestro,Fraude,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2024-06-29,Ninguno,No resuelto,97,75,35,79,355,3,0,0,32,72
+Baja,Ciberacoso,Fraude,Mexicali,6258,5115,Extorsión,Robo menor,Contrabando,Xenofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-01-17,Bajo,Resuelto,86,69,45,70,158,18,0,0,98,17
+Alta,Hurto menor,Personal,Veracruz,264,2336,Extorsión,Robo menor,Fraude bancario,Homofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2023-11-05,Alto,Resuelto,46,18,77,49,765,1,0,1,65,47
+Media,Fraude bancario,Personal,Toluca,4306,7427,Asalto,Hurto,Fraude bancario,Xenofobia,Despecho,Asalto,Robo de ganado,Oportunidad,2024-06-12,Ninguno,No resuelto,36,3,86,84,234,20,0,1,73,2
+Baja,Acoso verbal,Rescate,Reynosa,573,875,Asalto,Robo menor,Fraude bancario,Homofobia,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-05-20,Bajo,Resuelto,32,27,1,61,292,1,0,0,15,31
+Alta,Fraude electrónico,Fraude,Aguascalientes,8514,5553,Asalto,Estafa,Contrabando,Racismo,Rencor,Robo,Tráfico de especies,Oportunidad,2024-04-12,Ninguno,Resuelto,97,31,76,54,873,0,0,0,91,9
+Alta,Hurto menor,Rescate,Tijuana,8302,7866,Extorsión,Estafa,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Fraude,2024-10-05,Alto,No resuelto,96,43,61,9,905,24,1,1,93,38
+Baja,Asalto con violencia,Económica,La Paz,2639,3650,Secuestro,Fraude,Lavado de dinero,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-08-16,Alto,Resuelto,54,45,89,5,864,18,1,0,59,16
+Alta,Tráfico de drogas,Económica,Hermosillo,5263,1249,Violación,Fraude,Contrabando,Xenofobia,Celos,Asalto,Tráfico de especies,Criminal,2024-10-03,Ninguno,No resuelto,21,21,53,22,144,23,0,0,12,13
+Alta,Hurto menor,Oportunidad,Zacatecas,4250,2140,Violación,Fraude,Fraude bancario,Homofobia,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-09-01,Ninguno,Resuelto,62,44,53,76,719,1,0,1,34,45
+Baja,Tráfico de drogas,Personal,Mérida,8176,7779,Asalto,Estafa,Fraude bancario,Racismo,Celos,Asalto,Robo de ganado,Fraude,2024-03-25,Alto,Resuelto,55,5,58,31,404,16,0,1,63,90
+Alta,Contrabando,Criminal,Tijuana,1526,2939,Asalto,Estafa,Lavado de dinero,Xenofobia,Rencor,Robo,Robo de ganado,Fraude,2023-11-07,Ninguno,Resuelto,71,100,50,68,850,19,1,1,3,9
+Baja,Extorsión,Financiera,Chihuahua,757,188,Violación,Estafa,Lavado de dinero,Racismo,Rencor,Asalto,Caza ilegal,Financiera,2023-11-23,Alto,Resuelto,16,19,58,71,395,12,1,1,42,63
+Media,Fraude bancario,Personal,Ciudad de México,3466,1246,Homicidio,Hurto,Contrabando,Xenofobia,Rencor,Robo,Caza ilegal,Financiera,2023-11-30,Ninguno,Resuelto,5,56,50,55,995,7,1,0,92,11
+Alta,Robo de vehículos,Financiera,Chihuahua,4362,931,Secuestro,Robo menor,Lavado de dinero,Homofobia,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-01-28,Bajo,Resuelto,43,26,35,81,703,18,1,1,13,82
+Baja,Hurto,Oportunidad,Durango,1837,7991,Violación,Estafa,Contrabando,Homofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-05-21,Bajo,No resuelto,72,77,66,61,729,6,1,0,40,60
+Alta,Hurto menor,Personal,Mexicali,3781,3160,Homicidio,Robo menor,Fraude bancario,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2023-10-15,Bajo,Resuelto,21,69,48,59,387,7,1,0,79,76
+Baja,Contrabando,Criminal,La Paz,3592,1441,Asalto,Fraude,Contrabando,Racismo,Celos,Asalto,Tráfico de especies,Oportunidad,2024-09-19,Ninguno,No resuelto,99,25,19,64,17,6,0,1,2,91
+Alta,Hurto menor,Fraude,Tijuana,3181,6287,Secuestro,Fraude,Contrabando,Racismo,Rencor,Vandalismo,Robo de ganado,Oportunidad,2023-11-04,Bajo,No resuelto,55,38,16,13,227,1,1,0,41,72
+Media,Fraude bancario,Rescate,Mérida,5422,2543,Violación,Fraude,Contrabando,Xenofobia,Despecho,Asalto,Tráfico de especies,Criminal,2024-05-29,Bajo,No resuelto,60,52,49,64,425,6,0,0,63,96
+Alta,Extorsión,Protesta,Toluca,3327,8719,Homicidio,Robo menor,Contrabando,Racismo,Rencor,Asalto,Tráfico de especies,Oportunidad,2024-03-12,Bajo,No resuelto,11,71,75,28,785,14,0,1,92,11
+Media,Fraude bancario,Criminal,La Paz,2447,3805,Asalto,Robo menor,Lavado de dinero,Racismo,Celos,Asalto,Robo de ganado,Criminal,2024-05-22,Bajo,No resuelto,15,83,77,15,462,10,1,1,31,6
+Alta,Extorsión,Oportunidad,Guadalajara,2515,8339,Asalto,Fraude,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-09-15,Bajo,No resuelto,34,45,71,87,725,2,0,1,46,51
+Media,Homicidio,Oportunidad,Toluca,6167,6741,Violación,Hurto,Contrabando,Xenofobia,Rencor,Asalto,Tráfico de especies,Financiera,2024-06-14,Ninguno,No resuelto,46,30,81,0,400,10,1,1,94,37
+Baja,Fraude bancario,Oportunidad,Zacatecas,8392,4873,Asalto,Fraude,Lavado de dinero,Racismo,Despecho,Asalto,Tráfico de especies,Financiera,2024-06-11,Ninguno,No resuelto,97,59,68,93,260,9,0,1,100,39
+Alta,Estafa,Fraude,Saltillo,4472,7882,Secuestro,Hurto,Fraude bancario,Homofobia,Despecho,Asalto,Caza ilegal,Criminal,2024-06-02,Alto,No resuelto,35,2,72,30,191,0,1,0,37,56
+Baja,Robo de identidad,Protesta,Tijuana,1917,6956,Homicidio,Fraude,Fraude bancario,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Financiera,2024-08-09,Alto,Resuelto,78,83,58,55,924,10,0,0,98,92
+Media,Tráfico de drogas,Rescate,Tijuana,9066,6458,Asalto,Hurto,Fraude bancario,Homofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-07-15,Alto,Resuelto,49,74,23,39,504,17,0,1,38,21
+Baja,Acoso verbal,Fraude,Veracruz,6244,2106,Secuestro,Robo menor,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-07-31,Alto,Resuelto,25,77,31,100,321,23,0,0,27,45
+Alta,Acoso verbal,Rescate,León,1142,7780,Homicidio,Fraude,Lavado de dinero,Racismo,Celos,Robo,Tráfico de especies,Oportunidad,2024-03-20,Ninguno,No resuelto,16,29,78,81,894,0,1,0,57,30
+Media,Vandalismo,Criminal,Guadalajara,8129,2305,Extorsión,Estafa,Contrabando,Homofobia,Rencor,Robo,Caza ilegal,Financiera,2024-10-03,Ninguno,Resuelto,81,85,70,44,362,7,0,1,97,10
+Baja,Contrabando,Personal,Durango,2312,5314,Asalto,Fraude,Fraude bancario,Racismo,Rencor,Robo,Caza ilegal,Financiera,2024-01-13,Alto,No resuelto,18,87,81,87,675,22,1,0,20,16
+Baja,Tráfico de drogas,Protesta,Torreón,4928,3977,Homicidio,Estafa,Lavado de dinero,Racismo,Rencor,Robo,Tráfico de especies,Oportunidad,2024-04-13,Ninguno,Resuelto,98,15,33,23,881,9,0,1,70,21
+Alta,Tráfico de drogas,Protesta,Mérida,341,3672,Extorsión,Estafa,Fraude bancario,Racismo,Despecho,Vandalismo,Robo de ganado,Oportunidad,2024-10-05,Ninguno,Resuelto,19,54,5,65,785,5,0,0,8,77
+Alta,Violencia doméstica,Personal,Veracruz,7654,1077,Secuestro,Robo menor,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Oportunidad,2024-02-25,Ninguno,Resuelto,18,85,90,72,292,1,0,0,56,92
+Baja,Estafa,Rencor,Toluca,4052,3005,Homicidio,Fraude,Contrabando,Xenofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2024-09-14,Alto,Resuelto,50,88,81,87,154,16,0,0,11,69
+Media,Tráfico de drogas,Rescate,Durango,6375,204,Violación,Fraude,Lavado de dinero,Racismo,Celos,Robo,Caza ilegal,Oportunidad,2024-05-08,Ninguno,Resuelto,59,93,87,76,673,4,0,0,41,67
+Baja,Secuestro,Criminal,Chihuahua,2046,3770,Homicidio,Robo menor,Contrabando,Xenofobia,Celos,Robo,Robo de ganado,Financiera,2024-09-11,Bajo,Resuelto,6,69,32,81,766,2,0,0,14,30
+Media,Secuestro,Rencor,Reynosa,4029,7295,Extorsión,Robo menor,Lavado de dinero,Racismo,Despecho,Robo,Robo de ganado,Criminal,2024-09-05,Ninguno,Resuelto,86,90,83,17,962,16,0,0,45,60
+Baja,Tráfico de drogas,Personal,Aguascalientes,5429,294,Extorsión,Hurto,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Oportunidad,2024-03-25,Bajo,Resuelto,37,74,99,64,860,23,1,0,41,60
+Media,Ciberacoso,Oportunidad,Puebla,8534,9134,Homicidio,Hurto,Contrabando,Racismo,Celos,Robo,Robo de ganado,Oportunidad,2023-10-20,Alto,Resuelto,79,29,7,38,816,6,1,1,96,50
+Baja,Fraude bancario,Financiera,Guadalajara,1157,3357,Extorsión,Robo menor,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Oportunidad,2024-04-25,Bajo,No resuelto,18,67,31,89,629,6,1,1,19,14
+Baja,Fraude electrónico,Rescate,León,7553,8852,Asalto,Estafa,Fraude bancario,Homofobia,Rencor,Robo,Tráfico de especies,Criminal,2024-08-03,Alto,No resuelto,9,35,87,93,820,8,0,1,35,96
+Media,Violencia doméstica,Criminal,Querétaro,5660,6060,Asalto,Robo menor,Lavado de dinero,Homofobia,Despecho,Robo,Tráfico de especies,Financiera,2024-07-13,Bajo,No resuelto,7,63,19,28,293,22,0,1,16,6
+Alta,Hurto menor,Protesta,Tijuana,9703,5956,Secuestro,Fraude,Lavado de dinero,Racismo,Rencor,Vandalismo,Robo de ganado,Oportunidad,2023-11-13,Ninguno,Resuelto,78,64,37,67,365,8,0,0,22,78
+Media,Hurto menor,Fraude,Ciudad de México,1265,1029,Extorsión,Fraude,Fraude bancario,Racismo,Celos,Robo,Tráfico de especies,Fraude,2024-06-19,Ninguno,Resuelto,100,24,30,65,620,10,0,0,46,80
+Alta,Hurto,Económica,Veracruz,568,6362,Extorsión,Robo menor,Contrabando,Xenofobia,Celos,Vandalismo,Robo de ganado,Oportunidad,2024-10-04,Ninguno,No resuelto,39,29,13,20,911,10,1,0,54,1
+Alta,Fraude electrónico,Criminal,Veracruz,2560,7268,Asalto,Hurto,Contrabando,Homofobia,Celos,Vandalismo,Caza ilegal,Financiera,2024-04-25,Bajo,No resuelto,45,24,48,26,247,6,1,1,34,81
+Media,Robo de vehículos,Económica,Toluca,5848,2046,Violación,Fraude,Fraude bancario,Xenofobia,Celos,Vandalismo,Robo de ganado,Criminal,2023-12-06,Alto,Resuelto,23,9,41,39,661,22,1,1,13,71
+Media,Hurto,Criminal,Mexicali,7544,2489,Violación,Robo menor,Contrabando,Xenofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2024-08-09,Ninguno,No resuelto,62,4,45,41,876,18,1,0,84,95
+Baja,Robo de vehículos,Personal,Aguascalientes,8746,528,Secuestro,Hurto,Fraude bancario,Racismo,Celos,Asalto,Tráfico de especies,Oportunidad,2024-01-28,Alto,Resuelto,11,70,26,25,323,18,0,1,65,50
+Alta,Robo de vehículos,Oportunidad,La Paz,2020,4228,Extorsión,Estafa,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Financiera,2024-02-14,Bajo,No resuelto,39,8,42,81,48,4,0,1,63,76
+Baja,Acoso verbal,Protesta,Puebla,4802,4269,Asalto,Fraude,Contrabando,Xenofobia,Despecho,Asalto,Caza ilegal,Criminal,2024-05-02,Ninguno,Resuelto,31,42,84,30,554,10,0,1,81,62
+Media,Acoso verbal,Criminal,León,9896,2977,Extorsión,Hurto,Contrabando,Xenofobia,Celos,Asalto,Robo de ganado,Fraude,2024-04-21,Ninguno,Resuelto,89,94,65,15,962,11,1,1,24,99
+Baja,Hurto,Personal,La Paz,3270,1072,Extorsión,Hurto,Contrabando,Xenofobia,Celos,Asalto,Caza ilegal,Criminal,2024-05-14,Ninguno,Resuelto,51,84,86,79,599,13,1,0,97,89
+Media,Ciberacoso,Personal,Mérida,9194,8447,Extorsión,Hurto,Fraude bancario,Homofobia,Despecho,Robo,Robo de ganado,Criminal,2024-04-12,Alto,No resuelto,54,87,77,33,347,24,0,1,59,60
+Alta,Hurto menor,Fraude,Reynosa,5535,7771,Asalto,Robo menor,Fraude bancario,Xenofobia,Celos,Asalto,Tráfico de especies,Financiera,2024-09-10,Ninguno,Resuelto,61,39,97,2,113,14,0,1,40,53
+Baja,Vandalismo,Fraude,Durango,4798,7743,Homicidio,Fraude,Contrabando,Homofobia,Rencor,Robo,Tráfico de especies,Oportunidad,2024-06-28,Ninguno,No resuelto,89,93,73,22,786,10,0,0,51,70
+Alta,Robo de vehículos,Financiera,Hermosillo,1462,2705,Secuestro,Fraude,Fraude bancario,Homofobia,Rencor,Asalto,Tráfico de especies,Fraude,2024-01-01,Alto,No resuelto,49,71,80,89,802,16,0,1,95,38
+Baja,Homicidio,Económica,Mexicali,3619,4672,Violación,Fraude,Lavado de dinero,Racismo,Celos,Robo,Caza ilegal,Oportunidad,2024-05-08,Bajo,Resuelto,71,87,13,15,685,8,1,0,13,65
+Media,Secuestro,Protesta,Torreón,2484,4800,Violación,Robo menor,Lavado de dinero,Racismo,Rencor,Asalto,Tráfico de especies,Criminal,2024-06-04,Alto,Resuelto,84,68,66,91,756,16,1,0,78,37
+Media,Ciberacoso,Rescate,Guadalajara,3267,3482,Secuestro,Hurto,Lavado de dinero,Homofobia,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-09-07,Ninguno,No resuelto,87,68,71,73,594,21,1,1,62,9
+Alta,Tráfico de drogas,Financiera,Chihuahua,555,9843,Secuestro,Robo menor,Fraude bancario,Racismo,Rencor,Vandalismo,Robo de ganado,Fraude,2024-03-26,Bajo,Resuelto,54,38,7,43,478,1,0,1,12,17
+Alta,Hurto,Protesta,Querétaro,1064,3338,Asalto,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Robo de ganado,Financiera,2024-03-05,Alto,No resuelto,19,45,58,43,102,18,1,1,50,46
+Media,Hurto menor,Rescate,Tijuana,5451,411,Asalto,Hurto,Lavado de dinero,Racismo,Rencor,Vandalismo,Caza ilegal,Criminal,2024-02-04,Ninguno,No resuelto,27,74,89,46,956,1,0,1,48,62
+Media,Acoso verbal,Fraude,León,6176,708,Secuestro,Estafa,Lavado de dinero,Homofobia,Despecho,Vandalismo,Robo de ganado,Fraude,2024-01-28,Bajo,Resuelto,73,81,13,78,134,0,0,1,59,31
+Media,Vandalismo,Personal,Torreón,5638,1903,Violación,Fraude,Fraude bancario,Racismo,Celos,Asalto,Tráfico de especies,Fraude,2024-09-22,Alto,No resuelto,42,53,77,24,743,19,1,1,37,4
+Alta,Contrabando,Criminal,La Paz,6046,3973,Secuestro,Hurto,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Criminal,2024-07-21,Alto,Resuelto,97,29,2,83,303,16,0,0,92,84
+Alta,Vandalismo,Protesta,Querétaro,1904,6594,Extorsión,Robo menor,Fraude bancario,Racismo,Despecho,Vandalismo,Tráfico de especies,Financiera,2024-07-31,Bajo,Resuelto,88,16,79,20,290,3,0,0,43,23
+Alta,Fraude electrónico,Fraude,Puebla,783,5224,Violación,Estafa,Fraude bancario,Xenofobia,Celos,Robo,Tráfico de especies,Financiera,2023-12-17,Alto,Resuelto,8,76,4,6,622,14,0,0,38,23
+Baja,Contrabando,Financiera,León,3683,4795,Extorsión,Hurto,Fraude bancario,Racismo,Despecho,Asalto,Tráfico de especies,Oportunidad,2023-11-06,Alto,Resuelto,87,99,51,72,374,15,0,1,22,66
+Baja,Fraude electrónico,Rescate,Mexicali,4730,1954,Asalto,Hurto,Contrabando,Racismo,Despecho,Robo,Caza ilegal,Oportunidad,2024-08-26,Ninguno,No resuelto,17,17,66,80,170,21,0,0,10,78
+Media,Robo de vehículos,Rescate,Querétaro,1377,2622,Asalto,Estafa,Lavado de dinero,Xenofobia,Celos,Vandalismo,Caza ilegal,Criminal,2024-10-04,Bajo,No resuelto,54,45,50,22,33,4,1,0,30,26
+Baja,Daños a la propiedad,Protesta,Guadalajara,8888,4220,Extorsión,Hurto,Lavado de dinero,Xenofobia,Rencor,Robo,Robo de ganado,Financiera,2024-06-01,Bajo,No resuelto,72,40,57,5,934,12,1,1,42,53
+Baja,Vandalismo,Económica,Ciudad de México,2687,963,Asalto,Fraude,Lavado de dinero,Racismo,Celos,Asalto,Tráfico de especies,Oportunidad,2024-08-03,Ninguno,No resuelto,10,29,100,69,52,8,1,1,1,18
+Media,Vandalismo,Rescate,Ciudad de México,9106,1947,Secuestro,Estafa,Contrabando,Homofobia,Rencor,Vandalismo,Caza ilegal,Criminal,2024-09-26,Bajo,Resuelto,85,24,66,36,567,2,0,1,37,93
+Baja,Homicidio,Rescate,Saltillo,2823,1157,Homicidio,Hurto,Lavado de dinero,Xenofobia,Despecho,Vandalismo,Caza ilegal,Oportunidad,2023-11-30,Ninguno,Resuelto,97,92,52,42,797,4,1,0,92,3
+Baja,Extorsión,Rescate,Zacatecas,8422,1090,Violación,Hurto,Fraude bancario,Homofobia,Rencor,Vandalismo,Robo de ganado,Fraude,2024-01-03,Alto,Resuelto,100,86,40,27,69,24,0,1,61,2
+Media,Ciberacoso,Protesta,Torreón,4952,918,Asalto,Robo menor,Contrabando,Xenofobia,Despecho,Vandalismo,Robo de ganado,Financiera,2023-12-17,Bajo,No resuelto,80,100,17,76,660,16,1,1,15,24
+Alta,Daños a la propiedad,Oportunidad,Durango,8002,7233,Asalto,Hurto,Lavado de dinero,Racismo,Despecho,Asalto,Robo de ganado,Financiera,2024-09-14,Bajo,Resuelto,73,27,33,43,296,5,1,1,65,11
+Media,Estafa,Económica,Hermosillo,7575,3454,Secuestro,Estafa,Lavado de dinero,Xenofobia,Despecho,Vandalismo,Robo de ganado,Financiera,2024-06-08,Bajo,Resuelto,74,52,44,9,264,19,0,0,98,86
+Alta,Secuestro,Criminal,Monterrey,9574,9398,Homicidio,Fraude,Lavado de dinero,Xenofobia,Celos,Robo,Robo de ganado,Fraude,2024-09-02,Alto,Resuelto,61,2,50,16,782,15,1,1,66,19
+Media,Secuestro,Personal,Guadalajara,9920,5115,Secuestro,Estafa,Fraude bancario,Homofobia,Despecho,Robo,Robo de ganado,Financiera,2023-10-12,Bajo,No resuelto,45,2,3,10,101,16,0,0,28,89
+Alta,Robo de vehículos,Rescate,Veracruz,7104,374,Secuestro,Estafa,Contrabando,Homofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-08-05,Alto,Resuelto,31,53,37,89,228,12,0,1,49,74
+Media,Acoso verbal,Fraude,Mérida,152,6541,Asalto,Robo menor,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-05-03,Bajo,No resuelto,48,85,57,42,804,0,1,1,90,36
+Media,Robo de identidad,Fraude,Mérida,9995,4643,Homicidio,Robo menor,Contrabando,Homofobia,Celos,Asalto,Robo de ganado,Financiera,2023-12-29,Ninguno,No resuelto,37,3,95,58,43,19,0,0,8,40
+Baja,Hurto menor,Fraude,Chihuahua,7656,9261,Extorsión,Hurto,Contrabando,Homofobia,Celos,Robo,Robo de ganado,Criminal,2024-07-14,Alto,No resuelto,74,0,7,59,568,10,0,0,79,60
+Alta,Tráfico de drogas,Criminal,Toluca,998,2189,Homicidio,Robo menor,Lavado de dinero,Racismo,Rencor,Asalto,Caza ilegal,Fraude,2023-10-28,Ninguno,No resuelto,16,43,19,55,188,9,0,0,65,83
+Alta,Robo de vehículos,Personal,La Paz,3481,6329,Asalto,Fraude,Contrabando,Homofobia,Rencor,Robo,Caza ilegal,Fraude,2024-04-01,Ninguno,Resuelto,28,94,95,13,903,14,1,0,85,66
+Media,Estafa,Rencor,Durango,1403,7278,Asalto,Estafa,Fraude bancario,Homofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2024-08-26,Ninguno,No resuelto,46,64,12,89,791,24,1,1,20,17
+Media,Secuestro,Rencor,Mexicali,5359,6553,Secuestro,Fraude,Contrabando,Xenofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2023-11-14,Bajo,Resuelto,83,34,44,46,877,18,1,0,91,6
+Alta,Secuestro,Criminal,Chihuahua,4953,3637,Homicidio,Hurto,Lavado de dinero,Xenofobia,Rencor,Asalto,Tráfico de especies,Financiera,2024-05-24,Ninguno,No resuelto,27,77,33,59,342,21,0,0,45,35
+Alta,Hurto,Económica,Toluca,5465,9273,Violación,Hurto,Contrabando,Homofobia,Despecho,Vandalismo,Robo de ganado,Fraude,2024-04-07,Bajo,No resuelto,17,38,17,17,422,23,0,1,5,38
+Media,Contrabando,Criminal,Durango,8021,1485,Extorsión,Robo menor,Lavado de dinero,Homofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-05-04,Alto,No resuelto,97,18,78,100,880,9,0,0,91,64
+Alta,Estafa,Financiera,Puebla,982,410,Asalto,Robo menor,Contrabando,Homofobia,Rencor,Vandalismo,Caza ilegal,Criminal,2024-05-31,Bajo,No resuelto,83,4,53,11,69,14,0,1,91,74
+Media,Hurto,Rescate,Aguascalientes,677,5644,Secuestro,Robo menor,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-09-27,Bajo,Resuelto,90,22,54,7,695,6,0,0,50,45
+Baja,Fraude electrónico,Fraude,Guadalajara,2094,7630,Homicidio,Robo menor,Fraude bancario,Racismo,Rencor,Vandalismo,Tráfico de especies,Financiera,2023-12-03,Alto,Resuelto,81,11,65,82,63,16,0,1,5,65
+Alta,Secuestro,Financiera,Mexicali,5952,9166,Extorsión,Fraude,Lavado de dinero,Homofobia,Rencor,Vandalismo,Tráfico de especies,Fraude,2024-02-07,Alto,Resuelto,8,37,99,19,152,4,1,1,25,73
+Media,Estafa,Criminal,Toluca,1667,2981,Secuestro,Robo menor,Fraude bancario,Racismo,Despecho,Asalto,Tráfico de especies,Criminal,2024-01-15,Bajo,No resuelto,30,15,30,36,374,14,1,0,5,96
+Baja,Fraude electrónico,Rescate,León,9859,242,Homicidio,Robo menor,Contrabando,Racismo,Celos,Robo,Robo de ganado,Criminal,2023-10-29,Ninguno,Resuelto,81,53,44,72,254,13,0,0,27,24
+Baja,Secuestro,Financiera,Chihuahua,9507,7371,Extorsión,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Tráfico de especies,Fraude,2024-05-15,Ninguno,No resuelto,17,33,21,96,896,8,0,1,93,51
+Media,Homicidio,Personal,Hermosillo,2717,3007,Homicidio,Fraude,Contrabando,Xenofobia,Rencor,Asalto,Robo de ganado,Criminal,2023-10-16,Ninguno,Resuelto,36,65,8,82,75,19,0,0,44,100
+Baja,Vandalismo,Criminal,Durango,4892,3608,Extorsión,Estafa,Fraude bancario,Racismo,Despecho,Vandalismo,Robo de ganado,Fraude,2024-07-31,Bajo,No resuelto,60,4,44,16,376,15,1,0,23,51
+Baja,Hurto,Fraude,Mexicali,4321,9210,Violación,Fraude,Fraude bancario,Homofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2024-05-13,Ninguno,No resuelto,25,38,1,36,496,4,1,1,16,26
+Media,Estafa,Personal,Tijuana,4285,6741,Extorsión,Robo menor,Contrabando,Racismo,Celos,Vandalismo,Tráfico de especies,Financiera,2024-03-19,Alto,No resuelto,81,8,52,99,759,11,1,0,87,11
+Alta,Violencia doméstica,Económica,Aguascalientes,1070,698,Violación,Robo menor,Lavado de dinero,Xenofobia,Despecho,Robo,Caza ilegal,Oportunidad,2024-06-08,Ninguno,Resuelto,76,1,92,92,879,10,1,1,26,53
+Alta,Fraude bancario,Protesta,León,4492,8820,Secuestro,Hurto,Contrabando,Racismo,Despecho,Asalto,Tráfico de especies,Financiera,2024-08-05,Ninguno,Resuelto,9,20,41,1,635,17,1,0,70,38
+Baja,Robo de vehículos,Rescate,Aguascalientes,5111,4043,Homicidio,Hurto,Contrabando,Racismo,Despecho,Vandalismo,Robo de ganado,Fraude,2024-10-02,Ninguno,No resuelto,67,97,33,2,415,21,1,0,66,40
+Alta,Vandalismo,Criminal,Monterrey,2862,6992,Homicidio,Robo menor,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Oportunidad,2024-03-11,Bajo,No resuelto,0,54,52,17,123,8,1,0,26,37
+Alta,Homicidio,Personal,Saltillo,7902,1502,Secuestro,Hurto,Fraude bancario,Homofobia,Rencor,Asalto,Robo de ganado,Criminal,2023-12-23,Bajo,Resuelto,73,75,25,40,583,6,0,1,74,15
+Alta,Secuestro,Protesta,León,5321,8832,Asalto,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Fraude,2024-09-19,Ninguno,Resuelto,20,72,82,98,542,5,1,1,89,75
+Alta,Hurto menor,Rescate,Hermosillo,4131,2150,Violación,Hurto,Fraude bancario,Racismo,Rencor,Asalto,Tráfico de especies,Criminal,2024-04-16,Alto,Resuelto,86,33,42,50,14,8,0,0,65,25
+Alta,Vandalismo,Fraude,Torreón,1349,7658,Extorsión,Hurto,Lavado de dinero,Xenofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2023-10-23,Alto,Resuelto,57,95,81,7,550,7,1,0,16,54
+Baja,Vandalismo,Rencor,Guadalajara,4711,3,Extorsión,Estafa,Contrabando,Racismo,Celos,Vandalismo,Robo de ganado,Oportunidad,2024-07-05,Ninguno,Resuelto,100,33,14,96,904,7,1,1,59,90
+Alta,Robo de vehículos,Personal,Mérida,7820,2171,Violación,Fraude,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2023-10-20,Alto,Resuelto,74,4,84,56,505,20,1,0,96,41
+Media,Ciberacoso,Fraude,Saltillo,686,4940,Homicidio,Estafa,Contrabando,Xenofobia,Rencor,Asalto,Caza ilegal,Criminal,2024-06-27,Bajo,Resuelto,90,58,58,12,897,23,0,0,97,59
+Alta,Ciberacoso,Criminal,Zacatecas,8029,5338,Violación,Estafa,Contrabando,Racismo,Rencor,Asalto,Robo de ganado,Criminal,2024-02-10,Bajo,No resuelto,27,71,4,76,954,4,0,0,32,61
+Alta,Acoso verbal,Rencor,Ciudad de México,4846,7950,Homicidio,Hurto,Fraude bancario,Racismo,Celos,Robo,Tráfico de especies,Fraude,2024-05-02,Ninguno,No resuelto,98,70,100,7,16,16,0,1,43,40
+Baja,Tráfico de drogas,Protesta,Zacatecas,8227,4029,Violación,Estafa,Lavado de dinero,Xenofobia,Rencor,Robo,Tráfico de especies,Oportunidad,2023-11-15,Alto,Resuelto,17,47,68,52,281,20,0,1,47,41
+Media,Hurto menor,Financiera,La Paz,7466,7537,Secuestro,Hurto,Lavado de dinero,Racismo,Despecho,Asalto,Caza ilegal,Financiera,2024-04-19,Alto,Resuelto,78,44,2,77,915,2,0,0,46,30
+Alta,Contrabando,Criminal,Mérida,1293,1178,Homicidio,Robo menor,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Fraude,2024-01-28,Bajo,No resuelto,94,66,28,98,376,13,1,1,3,96
+Alta,Contrabando,Criminal,Chihuahua,645,9606,Asalto,Robo menor,Fraude bancario,Homofobia,Despecho,Robo,Caza ilegal,Criminal,2023-11-18,Ninguno,No resuelto,39,9,61,66,927,14,0,1,57,34
+Alta,Daños a la propiedad,Financiera,Reynosa,4320,2981,Extorsión,Estafa,Contrabando,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-04-18,Ninguno,Resuelto,97,64,28,29,527,9,1,1,11,74
+Media,Contrabando,Protesta,León,8088,2210,Asalto,Robo menor,Fraude bancario,Homofobia,Despecho,Vandalismo,Robo de ganado,Fraude,2024-02-25,Ninguno,No resuelto,47,83,65,57,562,14,1,0,22,72
+Baja,Robo de identidad,Fraude,Saltillo,6662,7740,Violación,Estafa,Lavado de dinero,Homofobia,Celos,Vandalismo,Robo de ganado,Financiera,2024-10-11,Bajo,No resuelto,12,100,51,41,300,0,1,0,31,6
+Media,Ciberacoso,Rencor,Mexicali,2823,9865,Asalto,Hurto,Contrabando,Xenofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-10-02,Alto,Resuelto,84,49,48,12,878,22,0,1,70,37
+Media,Fraude bancario,Criminal,Hermosillo,2311,8157,Extorsión,Hurto,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-08-07,Bajo,Resuelto,100,76,74,50,273,3,0,1,34,30
+Alta,Hurto,Económica,Torreón,2276,8774,Violación,Fraude,Lavado de dinero,Racismo,Rencor,Robo,Caza ilegal,Criminal,2024-09-28,Ninguno,Resuelto,54,47,25,83,901,3,0,0,81,48
+Media,Tráfico de drogas,Rencor,Querétaro,5727,5803,Extorsión,Estafa,Lavado de dinero,Homofobia,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-10-01,Ninguno,No resuelto,74,69,54,44,870,9,0,0,2,81
+Alta,Robo de identidad,Criminal,Mérida,4134,684,Homicidio,Robo menor,Contrabando,Xenofobia,Celos,Robo,Caza ilegal,Fraude,2024-05-16,Ninguno,Resuelto,22,53,18,85,495,13,0,1,38,56
+Media,Secuestro,Oportunidad,Ciudad de México,8609,2203,Violación,Fraude,Fraude bancario,Racismo,Celos,Asalto,Robo de ganado,Financiera,2024-05-24,Alto,No resuelto,49,54,22,69,297,18,1,1,83,53
+Baja,Hurto menor,Oportunidad,Zacatecas,813,6058,Secuestro,Hurto,Contrabando,Xenofobia,Rencor,Robo,Robo de ganado,Criminal,2023-11-27,Bajo,Resuelto,9,25,22,4,581,1,1,1,52,4
+Media,Hurto menor,Económica,Tijuana,3453,9902,Homicidio,Fraude,Fraude bancario,Xenofobia,Celos,Vandalismo,Tráfico de especies,Fraude,2024-05-03,Alto,Resuelto,46,82,96,31,81,18,1,0,56,50
+Media,Extorsión,Fraude,Durango,2062,5439,Asalto,Robo menor,Contrabando,Racismo,Despecho,Asalto,Robo de ganado,Fraude,2024-10-04,Bajo,No resuelto,83,88,65,41,452,15,0,0,59,64
+Alta,Robo de vehículos,Rescate,Ciudad de México,9752,1942,Homicidio,Fraude,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Financiera,2024-05-16,Alto,No resuelto,6,46,43,84,257,2,1,0,11,85
+Alta,Vandalismo,Oportunidad,Saltillo,7951,904,Violación,Robo menor,Contrabando,Racismo,Rencor,Robo,Tráfico de especies,Criminal,2024-08-30,Bajo,Resuelto,28,74,55,55,337,24,1,1,63,38
+Baja,Asalto con violencia,Fraude,Monterrey,9494,7971,Homicidio,Hurto,Contrabando,Racismo,Celos,Asalto,Tráfico de especies,Criminal,2023-10-30,Bajo,No resuelto,8,88,81,43,969,18,1,1,24,58
+Alta,Robo de vehículos,Protesta,Mérida,1756,4075,Homicidio,Fraude,Contrabando,Homofobia,Despecho,Vandalismo,Tráfico de especies,Oportunidad,2024-03-22,Ninguno,No resuelto,93,97,10,94,545,3,0,1,65,92
+Media,Acoso verbal,Económica,León,4301,5345,Violación,Fraude,Lavado de dinero,Xenofobia,Despecho,Asalto,Tráfico de especies,Criminal,2024-07-11,Alto,No resuelto,25,68,60,49,476,1,1,1,63,22
+Media,Hurto,Rencor,Tijuana,2732,9712,Homicidio,Hurto,Lavado de dinero,Racismo,Rencor,Asalto,Tráfico de especies,Financiera,2023-11-15,Ninguno,Resuelto,91,39,18,76,949,23,1,1,11,32
+Baja,Hurto,Financiera,Mexicali,2912,14,Homicidio,Hurto,Lavado de dinero,Racismo,Celos,Robo,Tráfico de especies,Financiera,2024-04-14,Bajo,Resuelto,50,24,57,13,842,19,1,0,57,8
+Alta,Daños a la propiedad,Financiera,Torreón,9044,7210,Homicidio,Robo menor,Fraude bancario,Racismo,Despecho,Vandalismo,Caza ilegal,Financiera,2024-06-26,Alto,No resuelto,12,89,47,27,318,1,1,0,40,69
+Media,Robo de identidad,Financiera,Mexicali,9464,5134,Secuestro,Fraude,Lavado de dinero,Xenofobia,Rencor,Asalto,Robo de ganado,Financiera,2024-01-07,Bajo,Resuelto,74,96,98,9,74,18,1,1,16,23
+Media,Fraude electrónico,Financiera,Puebla,587,4000,Secuestro,Hurto,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Fraude,2024-03-04,Ninguno,Resuelto,59,60,13,59,217,11,0,1,65,28
+Alta,Secuestro,Personal,Monterrey,1613,9570,Secuestro,Estafa,Fraude bancario,Homofobia,Celos,Vandalismo,Robo de ganado,Criminal,2024-08-01,Bajo,Resuelto,62,73,47,56,250,5,1,1,23,18
+Media,Vandalismo,Rencor,Mexicali,2220,9383,Asalto,Robo menor,Fraude bancario,Homofobia,Celos,Asalto,Tráfico de especies,Financiera,2024-05-17,Alto,Resuelto,18,74,2,92,859,14,1,1,39,11
+Baja,Hurto menor,Económica,Guadalajara,8960,9587,Secuestro,Fraude,Fraude bancario,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-10-07,Alto,No resuelto,16,11,99,26,673,24,0,1,42,51
+Baja,Homicidio,Rescate,Zacatecas,8915,8606,Secuestro,Estafa,Contrabando,Homofobia,Despecho,Robo,Robo de ganado,Fraude,2024-05-09,Ninguno,Resuelto,30,11,69,57,532,24,0,0,51,88
+Media,Violencia doméstica,Financiera,La Paz,9865,5167,Violación,Estafa,Fraude bancario,Racismo,Celos,Robo,Robo de ganado,Oportunidad,2024-09-02,Bajo,No resuelto,11,2,4,2,237,18,0,0,37,45
+Baja,Violencia doméstica,Protesta,Monterrey,1943,8978,Homicidio,Robo menor,Fraude bancario,Xenofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-01-23,Bajo,Resuelto,98,73,70,94,538,11,0,0,14,18
+Baja,Daños a la propiedad,Rencor,Querétaro,8625,8535,Homicidio,Hurto,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Financiera,2024-07-29,Bajo,Resuelto,26,1,27,67,915,19,1,1,17,11
+Media,Asalto con violencia,Fraude,Puebla,9606,5492,Homicidio,Estafa,Fraude bancario,Xenofobia,Rencor,Asalto,Tráfico de especies,Financiera,2024-05-11,Ninguno,No resuelto,81,64,5,26,259,13,0,1,5,54
+Media,Fraude bancario,Oportunidad,Monterrey,3543,5730,Extorsión,Hurto,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Financiera,2024-01-16,Bajo,No resuelto,49,46,57,40,251,16,1,0,99,5
+Baja,Vandalismo,Económica,Toluca,3769,3797,Extorsión,Hurto,Contrabando,Xenofobia,Rencor,Vandalismo,Robo de ganado,Criminal,2023-12-03,Alto,No resuelto,97,34,16,43,519,8,1,1,24,49
+Media,Extorsión,Personal,Monterrey,1098,5734,Asalto,Hurto,Lavado de dinero,Homofobia,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-04-15,Ninguno,No resuelto,4,73,33,36,991,16,0,1,36,26
+Alta,Homicidio,Fraude,Mérida,1718,7513,Homicidio,Fraude,Lavado de dinero,Homofobia,Rencor,Asalto,Caza ilegal,Fraude,2024-03-03,Alto,No resuelto,40,4,67,17,493,5,0,1,99,87
+Media,Contrabando,Personal,Tijuana,4231,7828,Asalto,Fraude,Fraude bancario,Homofobia,Celos,Asalto,Robo de ganado,Criminal,2024-09-08,Bajo,Resuelto,26,0,71,83,701,9,0,1,67,38
+Media,Violencia doméstica,Rencor,Torreón,5392,3118,Homicidio,Estafa,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-03-03,Alto,Resuelto,14,83,12,69,215,22,1,1,45,33
+Baja,Daños a la propiedad,Criminal,Aguascalientes,2639,2966,Secuestro,Fraude,Fraude bancario,Homofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-10-08,Bajo,No resuelto,99,81,58,78,84,23,0,1,77,43
+Media,Estafa,Económica,Zacatecas,1863,2466,Secuestro,Robo menor,Fraude bancario,Xenofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-07-12,Alto,No resuelto,30,58,94,69,572,18,1,0,43,22
+Media,Vandalismo,Oportunidad,Zacatecas,3413,2747,Homicidio,Estafa,Lavado de dinero,Xenofobia,Rencor,Asalto,Caza ilegal,Financiera,2024-02-12,Alto,Resuelto,84,82,69,59,802,19,1,0,86,53
+Media,Ciberacoso,Personal,Tijuana,8232,7867,Homicidio,Estafa,Contrabando,Racismo,Celos,Vandalismo,Caza ilegal,Criminal,2024-05-11,Ninguno,No resuelto,40,63,88,65,876,21,0,1,5,53
+Alta,Vandalismo,Económica,Mérida,2007,5602,Homicidio,Fraude,Contrabando,Homofobia,Celos,Robo,Robo de ganado,Fraude,2024-08-15,Ninguno,No resuelto,39,22,77,41,44,5,1,1,37,31
+Alta,Violencia doméstica,Criminal,Querétaro,5886,88,Violación,Hurto,Fraude bancario,Homofobia,Despecho,Asalto,Tráfico de especies,Criminal,2024-07-12,Bajo,No resuelto,30,84,4,52,444,1,0,1,40,80
+Media,Fraude bancario,Fraude,Toluca,4037,5810,Asalto,Fraude,Fraude bancario,Xenofobia,Celos,Robo,Caza ilegal,Fraude,2023-11-23,Alto,Resuelto,65,78,46,73,539,10,1,1,1,31
+Baja,Contrabando,Rencor,Saltillo,9584,7986,Violación,Hurto,Lavado de dinero,Xenofobia,Rencor,Asalto,Tráfico de especies,Fraude,2024-04-08,Ninguno,No resuelto,39,87,11,3,564,4,0,0,20,4
+Alta,Daños a la propiedad,Rescate,Mexicali,4030,8529,Secuestro,Robo menor,Contrabando,Xenofobia,Celos,Vandalismo,Caza ilegal,Financiera,2024-01-28,Ninguno,Resuelto,98,50,76,39,598,1,1,1,29,9
+Media,Vandalismo,Personal,Veracruz,1443,3543,Secuestro,Hurto,Fraude bancario,Xenofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2024-05-18,Bajo,No resuelto,25,44,57,43,863,8,0,0,2,71
+Alta,Acoso verbal,Rencor,Hermosillo,2527,534,Extorsión,Robo menor,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Oportunidad,2024-03-11,Bajo,No resuelto,64,18,58,74,983,0,0,0,77,98
+Baja,Robo de vehículos,Oportunidad,Monterrey,9658,9956,Asalto,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Caza ilegal,Financiera,2024-03-19,Ninguno,Resuelto,69,92,73,6,532,10,1,0,26,20
+Baja,Estafa,Personal,Veracruz,7966,3123,Extorsión,Estafa,Fraude bancario,Xenofobia,Rencor,Asalto,Tráfico de especies,Financiera,2023-11-24,Alto,No resuelto,33,21,77,58,305,12,0,0,12,11
+Baja,Homicidio,Criminal,Tijuana,3551,4139,Secuestro,Fraude,Fraude bancario,Homofobia,Despecho,Asalto,Tráfico de especies,Fraude,2023-11-06,Bajo,Resuelto,54,67,60,40,674,4,0,0,61,41
+Baja,Vandalismo,Económica,Zacatecas,2243,6667,Extorsión,Estafa,Lavado de dinero,Racismo,Despecho,Robo,Caza ilegal,Financiera,2024-02-18,Bajo,Resuelto,87,14,19,56,210,8,1,0,83,99
+Baja,Ciberacoso,Rescate,Durango,6323,8071,Secuestro,Estafa,Contrabando,Homofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-04-28,Alto,No resuelto,3,97,22,47,373,5,1,1,55,7
+Baja,Violencia doméstica,Financiera,Mérida,5793,9248,Extorsión,Robo menor,Contrabando,Homofobia,Celos,Vandalismo,Robo de ganado,Fraude,2024-01-13,Ninguno,No resuelto,0,89,67,93,990,2,0,0,31,95
+Media,Robo de identidad,Rencor,Durango,6849,5959,Asalto,Estafa,Lavado de dinero,Homofobia,Rencor,Robo,Tráfico de especies,Fraude,2024-05-04,Bajo,No resuelto,36,93,20,71,862,3,1,1,25,78
+Media,Ciberacoso,Oportunidad,Reynosa,4014,7400,Violación,Robo menor,Contrabando,Racismo,Celos,Vandalismo,Caza ilegal,Criminal,2024-06-07,Ninguno,Resuelto,63,70,48,59,201,19,1,1,80,52
+Baja,Hurto menor,Fraude,Reynosa,7580,6082,Homicidio,Estafa,Contrabando,Homofobia,Celos,Robo,Caza ilegal,Oportunidad,2024-08-09,Ninguno,Resuelto,20,6,83,66,594,8,0,0,40,88
+Baja,Hurto,Fraude,Torreón,4938,3386,Violación,Robo menor,Fraude bancario,Homofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-01-10,Bajo,No resuelto,55,62,1,23,757,18,1,0,6,97
+Alta,Violencia doméstica,Oportunidad,Querétaro,5717,7648,Homicidio,Robo menor,Fraude bancario,Racismo,Despecho,Robo,Tráfico de especies,Fraude,2024-02-04,Bajo,No resuelto,18,2,18,5,636,6,1,1,56,93
+Media,Ciberacoso,Financiera,Aguascalientes,8449,3681,Asalto,Robo menor,Fraude bancario,Racismo,Despecho,Vandalismo,Caza ilegal,Criminal,2023-11-03,Bajo,No resuelto,5,30,10,88,865,6,1,0,18,6
+Baja,Fraude electrónico,Oportunidad,Mexicali,6738,3503,Secuestro,Robo menor,Lavado de dinero,Racismo,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-01-09,Ninguno,Resuelto,87,98,36,5,477,22,1,0,34,44
+Alta,Acoso verbal,Protesta,Saltillo,7195,7893,Violación,Robo menor,Contrabando,Xenofobia,Celos,Robo,Caza ilegal,Criminal,2024-05-26,Bajo,Resuelto,13,70,58,78,858,16,0,1,51,12
+Alta,Acoso verbal,Oportunidad,Reynosa,497,6847,Asalto,Estafa,Contrabando,Xenofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-03-08,Bajo,Resuelto,86,96,50,82,482,4,0,0,24,91
+Alta,Hurto,Oportunidad,La Paz,5425,1510,Asalto,Estafa,Fraude bancario,Racismo,Celos,Robo,Tráfico de especies,Fraude,2024-04-13,Bajo,Resuelto,91,18,97,88,769,0,0,1,58,55
+Baja,Vandalismo,Rescate,Guadalajara,8319,1130,Homicidio,Estafa,Lavado de dinero,Racismo,Despecho,Robo,Robo de ganado,Financiera,2024-03-17,Alto,Resuelto,3,92,6,36,329,20,0,1,99,10
+Alta,Asalto con violencia,Financiera,Querétaro,1203,7014,Asalto,Robo menor,Contrabando,Xenofobia,Celos,Vandalismo,Caza ilegal,Financiera,2023-12-19,Ninguno,Resuelto,8,79,78,100,982,4,0,1,74,55
+Alta,Robo de vehículos,Oportunidad,Chihuahua,8951,3581,Homicidio,Fraude,Contrabando,Racismo,Celos,Asalto,Tráfico de especies,Financiera,2024-03-21,Bajo,Resuelto,39,20,99,9,476,17,1,0,67,39
+Alta,Ciberacoso,Rescate,Saltillo,6,8404,Violación,Fraude,Contrabando,Racismo,Rencor,Robo,Tráfico de especies,Oportunidad,2024-04-05,Bajo,Resuelto,37,43,54,45,474,21,0,0,55,40
+Media,Ciberacoso,Personal,Puebla,8187,1281,Secuestro,Hurto,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-03-22,Ninguno,Resuelto,56,30,78,14,964,6,1,1,32,63
+Media,Contrabando,Oportunidad,Chihuahua,1236,8231,Secuestro,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Robo de ganado,Fraude,2024-01-30,Bajo,Resuelto,10,29,97,9,32,10,0,0,18,18
+Alta,Violencia doméstica,Personal,Puebla,2316,9303,Secuestro,Estafa,Fraude bancario,Racismo,Celos,Asalto,Robo de ganado,Fraude,2024-09-28,Ninguno,Resuelto,20,25,71,53,934,2,1,1,40,76
+Baja,Estafa,Financiera,Puebla,8018,4637,Homicidio,Estafa,Lavado de dinero,Xenofobia,Celos,Vandalismo,Tráfico de especies,Financiera,2024-10-06,Alto,Resuelto,40,11,83,13,73,17,1,1,47,6
+Alta,Homicidio,Fraude,Hermosillo,1252,4310,Extorsión,Fraude,Lavado de dinero,Xenofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-08-09,Alto,Resuelto,8,28,24,47,72,11,1,0,60,47
+Media,Hurto,Financiera,Durango,3838,8896,Extorsión,Estafa,Contrabando,Racismo,Celos,Robo,Caza ilegal,Financiera,2024-06-16,Bajo,No resuelto,42,3,75,14,627,2,0,1,93,34
+Alta,Extorsión,Financiera,León,2868,2146,Secuestro,Hurto,Lavado de dinero,Homofobia,Celos,Robo,Caza ilegal,Oportunidad,2024-05-14,Ninguno,No resuelto,68,56,82,17,79,18,0,0,34,30
+Media,Homicidio,Financiera,Puebla,9249,6153,Asalto,Estafa,Fraude bancario,Xenofobia,Despecho,Vandalismo,Caza ilegal,Financiera,2024-07-07,Alto,No resuelto,84,19,64,13,450,15,1,0,32,78
+Media,Hurto menor,Financiera,Puebla,3345,9468,Asalto,Estafa,Lavado de dinero,Homofobia,Celos,Robo,Robo de ganado,Fraude,2024-07-30,Ninguno,Resuelto,69,80,5,57,552,10,1,1,50,58
+Baja,Extorsión,Personal,Monterrey,3557,8144,Homicidio,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-08-03,Alto,Resuelto,45,8,71,38,137,22,0,1,27,19
+Media,Vandalismo,Rescate,Mexicali,2347,7845,Homicidio,Hurto,Fraude bancario,Homofobia,Despecho,Vandalismo,Robo de ganado,Financiera,2024-05-02,Ninguno,No resuelto,23,57,80,31,881,3,0,0,20,49
+Media,Vandalismo,Personal,Tijuana,2727,5424,Secuestro,Fraude,Lavado de dinero,Racismo,Celos,Robo,Tráfico de especies,Oportunidad,2023-10-23,Ninguno,No resuelto,36,96,96,19,928,3,0,0,72,64
+Alta,Contrabando,Criminal,Mérida,2204,9527,Secuestro,Hurto,Contrabando,Homofobia,Despecho,Robo,Tráfico de especies,Criminal,2024-06-08,Alto,Resuelto,20,13,73,37,457,1,1,0,92,91
+Alta,Contrabando,Económica,Chihuahua,5076,7051,Extorsión,Robo menor,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Fraude,2024-08-05,Bajo,Resuelto,54,34,29,98,613,13,0,0,56,88
+Baja,Extorsión,Oportunidad,Chihuahua,1969,8189,Violación,Robo menor,Contrabando,Homofobia,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-06-09,Alto,No resuelto,16,47,34,17,217,24,0,1,75,35
+Media,Vandalismo,Fraude,La Paz,4850,708,Asalto,Robo menor,Fraude bancario,Racismo,Rencor,Robo,Tráfico de especies,Criminal,2024-09-29,Alto,No resuelto,82,49,76,31,637,9,0,1,59,86
+Media,Robo de identidad,Financiera,Veracruz,9589,5400,Asalto,Robo menor,Lavado de dinero,Racismo,Rencor,Robo,Robo de ganado,Criminal,2023-10-23,Ninguno,Resuelto,41,13,51,11,323,23,1,1,87,36
+Media,Violencia doméstica,Financiera,León,3602,6023,Extorsión,Hurto,Contrabando,Racismo,Celos,Robo,Robo de ganado,Criminal,2024-04-04,Bajo,No resuelto,48,64,13,14,110,6,1,0,12,41
+Baja,Fraude electrónico,Personal,La Paz,2547,3141,Violación,Hurto,Lavado de dinero,Racismo,Despecho,Robo,Caza ilegal,Criminal,2024-09-29,Ninguno,Resuelto,54,68,28,3,617,4,1,1,65,73
+Alta,Acoso verbal,Protesta,La Paz,4566,5222,Extorsión,Fraude,Contrabando,Xenofobia,Despecho,Vandalismo,Robo de ganado,Oportunidad,2024-02-18,Ninguno,Resuelto,48,44,83,30,76,17,0,0,43,54
+Alta,Extorsión,Criminal,Toluca,8939,3875,Homicidio,Hurto,Lavado de dinero,Racismo,Despecho,Robo,Tráfico de especies,Oportunidad,2024-01-05,Alto,Resuelto,53,25,3,0,54,8,1,1,96,93
+Media,Extorsión,Criminal,Puebla,4849,8230,Violación,Fraude,Lavado de dinero,Homofobia,Celos,Asalto,Robo de ganado,Fraude,2024-07-31,Ninguno,No resuelto,33,47,96,37,784,22,1,0,7,18
+Baja,Estafa,Rencor,Torreón,4635,4281,Homicidio,Fraude,Fraude bancario,Homofobia,Celos,Vandalismo,Robo de ganado,Fraude,2024-09-08,Bajo,No resuelto,44,44,92,50,704,2,0,1,65,28
+Baja,Hurto menor,Protesta,Reynosa,5637,6291,Extorsión,Robo menor,Fraude bancario,Racismo,Despecho,Robo,Tráfico de especies,Criminal,2024-02-06,Bajo,Resuelto,34,1,58,52,348,4,1,1,35,18
+Baja,Asalto con violencia,Criminal,Saltillo,2804,4981,Extorsión,Estafa,Contrabando,Racismo,Rencor,Robo,Robo de ganado,Fraude,2023-11-28,Alto,No resuelto,92,92,71,31,864,3,1,0,80,75
+Baja,Estafa,Criminal,Aguascalientes,5291,8066,Asalto,Fraude,Lavado de dinero,Homofobia,Celos,Vandalismo,Robo de ganado,Financiera,2024-03-31,Alto,Resuelto,64,96,50,48,568,14,1,0,57,63
+Baja,Violencia doméstica,Rencor,Chihuahua,3926,9620,Extorsión,Estafa,Contrabando,Homofobia,Rencor,Vandalismo,Tráfico de especies,Fraude,2024-02-17,Bajo,Resuelto,23,69,43,31,408,23,1,0,13,29
+Alta,Robo de vehículos,Personal,Reynosa,9233,7437,Violación,Hurto,Contrabando,Homofobia,Despecho,Asalto,Caza ilegal,Fraude,2024-01-24,Alto,Resuelto,80,86,86,80,956,13,0,0,94,47
+Baja,Vandalismo,Financiera,Guadalajara,6809,1501,Violación,Robo menor,Lavado de dinero,Xenofobia,Celos,Asalto,Robo de ganado,Financiera,2024-03-10,Bajo,No resuelto,22,42,10,35,652,7,0,0,36,8
+Alta,Fraude bancario,Financiera,Guadalajara,5257,7182,Homicidio,Fraude,Lavado de dinero,Homofobia,Celos,Vandalismo,Robo de ganado,Oportunidad,2023-12-16,Ninguno,No resuelto,41,97,80,8,488,17,0,0,18,34
+Media,Vandalismo,Personal,Aguascalientes,1204,8251,Homicidio,Robo menor,Fraude bancario,Xenofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-03-04,Ninguno,No resuelto,57,5,88,24,187,16,1,1,30,72
+Alta,Hurto,Oportunidad,Aguascalientes,6378,731,Homicidio,Fraude,Lavado de dinero,Xenofobia,Despecho,Robo,Tráfico de especies,Financiera,2023-12-31,Alto,No resuelto,35,15,94,57,669,23,0,0,39,7
+Media,Acoso verbal,Protesta,La Paz,946,4867,Homicidio,Hurto,Contrabando,Xenofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2024-10-11,Ninguno,Resuelto,4,58,74,5,803,3,0,0,66,74
+Alta,Violencia doméstica,Protesta,Saltillo,4361,9806,Asalto,Hurto,Lavado de dinero,Xenofobia,Rencor,Asalto,Caza ilegal,Fraude,2023-11-20,Ninguno,Resuelto,32,90,63,46,498,5,0,1,38,92
+Media,Robo de vehículos,Criminal,León,2546,7792,Secuestro,Robo menor,Fraude bancario,Racismo,Despecho,Robo,Tráfico de especies,Fraude,2024-08-04,Ninguno,Resuelto,22,57,31,73,343,14,1,1,46,99
+Baja,Daños a la propiedad,Fraude,Torreón,1591,3604,Asalto,Fraude,Contrabando,Xenofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-08-13,Ninguno,Resuelto,41,14,14,44,545,13,1,0,89,79
+Baja,Extorsión,Económica,León,7395,9582,Asalto,Hurto,Contrabando,Homofobia,Celos,Vandalismo,Robo de ganado,Financiera,2024-09-27,Ninguno,No resuelto,30,47,14,53,560,14,1,1,30,16
+Baja,Hurto menor,Económica,Monterrey,9412,678,Extorsión,Robo menor,Lavado de dinero,Homofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-09-09,Bajo,No resuelto,42,73,24,91,500,7,1,1,78,27
+Alta,Tráfico de drogas,Criminal,Mérida,3542,3355,Homicidio,Estafa,Contrabando,Xenofobia,Rencor,Vandalismo,Caza ilegal,Criminal,2024-06-27,Bajo,No resuelto,88,33,27,98,111,4,1,0,93,52
+Baja,Fraude bancario,Personal,Toluca,2483,312,Violación,Hurto,Lavado de dinero,Racismo,Celos,Asalto,Caza ilegal,Financiera,2024-05-19,Bajo,Resuelto,47,85,74,48,764,24,0,0,62,9
+Baja,Tráfico de drogas,Fraude,Reynosa,604,854,Homicidio,Robo menor,Contrabando,Racismo,Despecho,Robo,Tráfico de especies,Fraude,2024-07-27,Ninguno,Resuelto,63,58,24,60,458,6,0,0,97,34
+Alta,Ciberacoso,Económica,Puebla,7275,8428,Homicidio,Robo menor,Contrabando,Homofobia,Despecho,Asalto,Tráfico de especies,Financiera,2023-10-22,Ninguno,No resuelto,48,4,77,21,156,17,1,0,4,21
+Media,Robo de identidad,Protesta,Durango,4807,2666,Violación,Estafa,Fraude bancario,Homofobia,Rencor,Vandalismo,Caza ilegal,Criminal,2024-10-07,Bajo,Resuelto,23,65,66,15,866,8,0,1,9,66
+Baja,Ciberacoso,Rencor,Aguascalientes,2528,5983,Asalto,Hurto,Contrabando,Homofobia,Celos,Asalto,Tráfico de especies,Criminal,2024-05-25,Bajo,No resuelto,7,87,97,50,48,4,0,1,73,38
+Alta,Daños a la propiedad,Fraude,Mexicali,6090,3562,Secuestro,Hurto,Lavado de dinero,Racismo,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-08-20,Ninguno,Resuelto,62,73,4,0,782,18,1,1,66,54
+Media,Robo de identidad,Oportunidad,Durango,9341,375,Secuestro,Fraude,Fraude bancario,Racismo,Despecho,Vandalismo,Tráfico de especies,Financiera,2024-09-12,Ninguno,Resuelto,25,34,94,36,510,8,1,0,19,35
+Baja,Robo de vehículos,Personal,Saltillo,8285,4304,Secuestro,Robo menor,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Robo de ganado,Fraude,2024-07-09,Bajo,No resuelto,82,98,90,34,805,16,1,1,14,78
+Baja,Secuestro,Rencor,Mexicali,9027,2085,Violación,Robo menor,Fraude bancario,Racismo,Despecho,Asalto,Caza ilegal,Fraude,2023-11-22,Alto,Resuelto,2,66,31,3,48,22,1,1,89,64
+Baja,Asalto con violencia,Protesta,Reynosa,6424,917,Extorsión,Robo menor,Contrabando,Xenofobia,Despecho,Vandalismo,Caza ilegal,Financiera,2023-10-26,Ninguno,Resuelto,84,33,85,48,24,15,0,1,62,61
+Alta,Vandalismo,Oportunidad,Puebla,8855,7803,Asalto,Hurto,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Fraude,2024-05-24,Ninguno,No resuelto,70,32,6,14,147,1,0,1,39,21
+Baja,Robo de vehículos,Protesta,Mérida,9394,4110,Violación,Estafa,Lavado de dinero,Racismo,Celos,Vandalismo,Caza ilegal,Financiera,2023-11-26,Alto,Resuelto,7,81,14,25,678,18,1,0,48,55
+Baja,Asalto con violencia,Rescate,Guadalajara,2274,5601,Secuestro,Hurto,Fraude bancario,Xenofobia,Rencor,Robo,Tráfico de especies,Oportunidad,2024-01-18,Bajo,No resuelto,52,16,61,83,945,13,1,0,86,79
+Media,Fraude electrónico,Rencor,Veracruz,8159,6358,Asalto,Fraude,Fraude bancario,Racismo,Despecho,Vandalismo,Tráfico de especies,Fraude,2024-07-06,Ninguno,No resuelto,53,37,64,90,661,22,1,1,18,83
+Media,Robo de identidad,Criminal,Guadalajara,6469,6913,Extorsión,Estafa,Fraude bancario,Racismo,Celos,Asalto,Tráfico de especies,Financiera,2023-12-20,Alto,Resuelto,19,7,89,53,331,23,0,0,32,28
+Alta,Homicidio,Personal,Monterrey,4990,9921,Extorsión,Hurto,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Criminal,2023-11-22,Ninguno,Resuelto,52,84,36,67,846,14,0,0,97,97
+Baja,Extorsión,Criminal,Toluca,9183,8573,Homicidio,Fraude,Contrabando,Homofobia,Rencor,Robo,Robo de ganado,Oportunidad,2024-09-26,Alto,Resuelto,52,27,69,27,260,8,1,0,66,31
+Media,Secuestro,Protesta,Veracruz,7168,4188,Extorsión,Robo menor,Lavado de dinero,Racismo,Despecho,Vandalismo,Robo de ganado,Fraude,2024-07-17,Ninguno,Resuelto,37,32,14,59,447,24,1,1,36,51
+Alta,Secuestro,Personal,Tijuana,473,8579,Secuestro,Robo menor,Lavado de dinero,Homofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-07-14,Ninguno,No resuelto,67,15,90,61,654,8,1,1,95,24
+Media,Acoso verbal,Económica,Mexicali,860,6095,Asalto,Hurto,Fraude bancario,Racismo,Celos,Vandalismo,Tráfico de especies,Fraude,2024-03-27,Alto,No resuelto,17,20,55,29,411,1,1,0,25,72
+Alta,Extorsión,Oportunidad,Tijuana,2702,8992,Secuestro,Hurto,Contrabando,Racismo,Despecho,Robo,Robo de ganado,Financiera,2024-10-04,Alto,Resuelto,69,45,91,1,442,17,0,1,14,75
+Alta,Tráfico de drogas,Protesta,Zacatecas,7714,4035,Violación,Fraude,Lavado de dinero,Homofobia,Despecho,Vandalismo,Caza ilegal,Financiera,2024-02-01,Bajo,No resuelto,24,13,56,17,796,23,0,1,23,3
+Media,Hurto menor,Rescate,Mérida,9446,8483,Asalto,Robo menor,Contrabando,Xenofobia,Celos,Robo,Caza ilegal,Oportunidad,2023-12-03,Alto,Resuelto,18,38,5,44,654,7,1,1,97,20
+Alta,Homicidio,Rescate,Monterrey,3707,3237,Secuestro,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Caza ilegal,Fraude,2023-11-09,Bajo,No resuelto,34,81,70,80,506,18,1,0,82,24
+Alta,Asalto con violencia,Personal,Querétaro,7317,3983,Asalto,Fraude,Fraude bancario,Racismo,Celos,Asalto,Tráfico de especies,Criminal,2024-08-16,Bajo,No resuelto,88,42,56,64,520,3,1,1,42,36
+Alta,Contrabando,Económica,Mexicali,9846,3349,Secuestro,Estafa,Lavado de dinero,Homofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-09-04,Bajo,No resuelto,95,41,25,68,524,1,0,0,31,65
+Media,Fraude electrónico,Financiera,Chihuahua,5693,7440,Homicidio,Fraude,Lavado de dinero,Racismo,Despecho,Vandalismo,Robo de ganado,Financiera,2024-02-02,Bajo,No resuelto,95,20,56,22,287,4,1,1,3,96
+Baja,Vandalismo,Financiera,Saltillo,4942,9595,Secuestro,Robo menor,Contrabando,Racismo,Rencor,Asalto,Caza ilegal,Financiera,2023-12-14,Ninguno,No resuelto,57,30,29,58,807,10,1,1,60,57
+Baja,Robo de vehículos,Rescate,Zacatecas,8137,6220,Asalto,Fraude,Contrabando,Xenofobia,Rencor,Asalto,Tráfico de especies,Fraude,2023-10-12,Bajo,Resuelto,16,35,45,46,58,5,1,0,71,8
+Alta,Robo de identidad,Oportunidad,Mexicali,5639,7967,Secuestro,Fraude,Fraude bancario,Xenofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-08-17,Ninguno,Resuelto,82,12,58,91,496,13,0,0,2,10
+Baja,Fraude bancario,Rescate,Mérida,1226,1621,Violación,Fraude,Fraude bancario,Racismo,Despecho,Vandalismo,Robo de ganado,Criminal,2024-01-22,Alto,Resuelto,91,14,72,22,577,11,1,0,100,1
+Media,Daños a la propiedad,Oportunidad,Reynosa,6421,9993,Asalto,Robo menor,Fraude bancario,Xenofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2023-11-17,Bajo,No resuelto,16,9,83,24,778,2,1,0,99,14
+Alta,Estafa,Rencor,Saltillo,3449,6842,Homicidio,Estafa,Fraude bancario,Xenofobia,Despecho,Vandalismo,Caza ilegal,Criminal,2024-03-19,Bajo,No resuelto,40,92,87,67,922,22,0,0,55,67
+Alta,Violencia doméstica,Oportunidad,Tijuana,1219,5741,Violación,Hurto,Lavado de dinero,Homofobia,Despecho,Vandalismo,Robo de ganado,Oportunidad,2023-10-25,Bajo,No resuelto,11,2,10,92,17,21,0,1,49,52
+Media,Extorsión,Fraude,Torreón,8079,6188,Violación,Robo menor,Lavado de dinero,Racismo,Rencor,Robo,Caza ilegal,Oportunidad,2024-09-04,Bajo,Resuelto,29,83,13,58,51,1,1,1,30,97
+Baja,Ciberacoso,Oportunidad,Reynosa,9412,320,Asalto,Hurto,Contrabando,Racismo,Celos,Vandalismo,Tráfico de especies,Fraude,2024-04-07,Ninguno,Resuelto,43,87,41,42,965,2,0,0,60,40
+Media,Contrabando,Financiera,Mérida,2302,2624,Violación,Robo menor,Lavado de dinero,Xenofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-06-24,Alto,Resuelto,94,29,83,67,248,11,1,1,65,63
+Baja,Hurto menor,Financiera,Hermosillo,6036,8894,Secuestro,Fraude,Fraude bancario,Racismo,Celos,Asalto,Robo de ganado,Oportunidad,2023-12-26,Ninguno,No resuelto,33,37,69,74,31,16,1,1,62,2
+Baja,Hurto,Criminal,Torreón,9481,5494,Asalto,Robo menor,Fraude bancario,Homofobia,Celos,Robo,Caza ilegal,Financiera,2024-01-25,Alto,No resuelto,99,26,29,86,731,16,0,0,39,25
+Alta,Robo de identidad,Rencor,Chihuahua,4255,9306,Extorsión,Hurto,Contrabando,Xenofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-03-08,Bajo,No resuelto,54,54,71,59,598,17,0,1,64,64
+Alta,Robo de vehículos,Rescate,Torreón,3873,5758,Homicidio,Robo menor,Contrabando,Homofobia,Celos,Vandalismo,Caza ilegal,Financiera,2024-04-18,Bajo,Resuelto,66,84,77,1,882,5,1,1,93,60
+Baja,Estafa,Financiera,Querétaro,6550,365,Asalto,Fraude,Fraude bancario,Xenofobia,Rencor,Asalto,Robo de ganado,Criminal,2024-01-12,Alto,No resuelto,87,70,80,16,713,23,1,1,31,16
+Alta,Fraude bancario,Financiera,Chihuahua,1498,3559,Violación,Estafa,Fraude bancario,Xenofobia,Rencor,Vandalismo,Robo de ganado,Criminal,2024-08-30,Bajo,No resuelto,74,31,14,92,980,24,0,1,59,42
+Media,Daños a la propiedad,Personal,Toluca,2729,8906,Violación,Fraude,Fraude bancario,Xenofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-08-14,Bajo,Resuelto,8,73,92,26,29,11,1,0,23,83
+Alta,Estafa,Rescate,Mérida,9651,5709,Homicidio,Hurto,Lavado de dinero,Racismo,Despecho,Asalto,Tráfico de especies,Financiera,2024-07-18,Bajo,No resuelto,65,41,67,30,870,17,0,1,64,23
+Baja,Hurto menor,Rescate,Zacatecas,4324,7144,Extorsión,Hurto,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-06-16,Ninguno,Resuelto,92,92,51,71,236,8,0,0,40,42
+Baja,Homicidio,Fraude,Hermosillo,5,8179,Homicidio,Hurto,Fraude bancario,Xenofobia,Celos,Asalto,Robo de ganado,Fraude,2024-02-15,Alto,No resuelto,53,46,81,30,39,15,1,1,23,9
+Alta,Daños a la propiedad,Protesta,León,263,5267,Homicidio,Fraude,Lavado de dinero,Racismo,Celos,Asalto,Caza ilegal,Oportunidad,2024-03-24,Alto,Resuelto,42,91,84,82,148,12,1,1,46,42
+Media,Estafa,Financiera,Tijuana,2590,2021,Asalto,Robo menor,Lavado de dinero,Racismo,Rencor,Robo,Tráfico de especies,Financiera,2024-03-12,Ninguno,No resuelto,64,18,88,40,19,5,0,1,73,25
+Media,Secuestro,Criminal,Zacatecas,422,9939,Extorsión,Hurto,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2023-12-17,Bajo,Resuelto,26,73,49,73,341,24,1,1,39,86
+Baja,Secuestro,Protesta,Reynosa,1950,3632,Asalto,Estafa,Contrabando,Racismo,Despecho,Vandalismo,Robo de ganado,Criminal,2023-10-24,Alto,Resuelto,25,43,29,56,898,22,0,0,96,15
+Baja,Robo de identidad,Oportunidad,Saltillo,4077,6709,Violación,Robo menor,Contrabando,Homofobia,Despecho,Asalto,Robo de ganado,Criminal,2023-12-12,Bajo,No resuelto,90,40,25,1,872,22,0,0,51,48
+Baja,Daños a la propiedad,Criminal,Guadalajara,4186,3502,Extorsión,Robo menor,Fraude bancario,Xenofobia,Rencor,Robo,Tráfico de especies,Financiera,2024-07-02,Bajo,No resuelto,56,37,57,59,50,2,1,1,68,49
+Media,Acoso verbal,Personal,Tijuana,4207,2166,Violación,Robo menor,Lavado de dinero,Racismo,Rencor,Vandalismo,Robo de ganado,Fraude,2024-07-15,Bajo,No resuelto,62,14,37,56,268,6,0,0,8,34
+Baja,Extorsión,Económica,Veracruz,1144,7811,Homicidio,Estafa,Lavado de dinero,Xenofobia,Rencor,Robo,Tráfico de especies,Fraude,2024-04-19,Bajo,Resuelto,87,91,24,98,586,20,1,0,13,71
+Media,Fraude electrónico,Fraude,Torreón,642,4371,Asalto,Hurto,Lavado de dinero,Xenofobia,Despecho,Vandalismo,Robo de ganado,Fraude,2024-09-26,Alto,Resuelto,38,78,15,79,261,10,0,0,33,61
+Alta,Homicidio,Personal,Querétaro,9095,135,Homicidio,Robo menor,Lavado de dinero,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2024-09-26,Bajo,No resuelto,47,95,46,37,902,3,0,0,40,21
+Baja,Daños a la propiedad,Fraude,Puebla,7611,2684,Secuestro,Estafa,Contrabando,Homofobia,Despecho,Robo,Tráfico de especies,Financiera,2024-06-11,Alto,Resuelto,35,93,57,77,654,2,1,0,82,37
+Alta,Contrabando,Personal,Querétaro,2598,5837,Homicidio,Fraude,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-04-03,Alto,Resuelto,48,11,98,9,36,11,0,0,73,97
+Alta,Acoso verbal,Económica,Reynosa,1149,2183,Violación,Fraude,Contrabando,Xenofobia,Rencor,Vandalismo,Caza ilegal,Criminal,2024-03-03,Ninguno,Resuelto,70,35,24,14,452,24,0,1,3,83
+Baja,Violencia doméstica,Personal,Hermosillo,2223,1977,Violación,Hurto,Lavado de dinero,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2024-01-30,Alto,Resuelto,54,5,89,32,368,4,1,1,16,94
+Alta,Fraude bancario,Fraude,Torreón,5090,1412,Violación,Fraude,Fraude bancario,Racismo,Celos,Vandalismo,Tráfico de especies,Fraude,2024-03-12,Bajo,Resuelto,15,97,51,69,376,11,0,1,75,93
+Baja,Daños a la propiedad,Personal,Guadalajara,7514,7024,Secuestro,Hurto,Lavado de dinero,Xenofobia,Rencor,Robo,Robo de ganado,Criminal,2024-01-15,Bajo,Resuelto,68,43,81,51,701,0,0,1,4,53
+Baja,Acoso verbal,Protesta,Querétaro,825,1296,Homicidio,Hurto,Fraude bancario,Homofobia,Celos,Vandalismo,Caza ilegal,Criminal,2023-12-31,Alto,Resuelto,9,22,65,57,155,0,0,0,57,65
+Media,Violencia doméstica,Fraude,Tijuana,5983,3331,Secuestro,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Caza ilegal,Criminal,2023-10-13,Alto,Resuelto,95,21,49,11,900,6,0,0,11,87
+Alta,Ciberacoso,Rencor,Zacatecas,3670,207,Violación,Estafa,Contrabando,Racismo,Celos,Robo,Tráfico de especies,Financiera,2024-06-23,Alto,No resuelto,30,55,71,5,341,4,1,1,54,61
+Baja,Homicidio,Personal,Durango,7326,9534,Asalto,Fraude,Lavado de dinero,Xenofobia,Despecho,Asalto,Tráfico de especies,Fraude,2024-08-09,Ninguno,No resuelto,23,0,47,28,789,4,0,1,86,7
+Baja,Ciberacoso,Financiera,La Paz,8329,6213,Asalto,Estafa,Contrabando,Homofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-05-24,Bajo,Resuelto,75,69,32,61,788,11,0,0,98,92
+Alta,Violencia doméstica,Fraude,Torreón,8058,8873,Extorsión,Fraude,Contrabando,Homofobia,Despecho,Asalto,Tráfico de especies,Fraude,2024-01-05,Ninguno,No resuelto,86,50,37,33,163,21,0,1,37,71
+Baja,Secuestro,Protesta,Chihuahua,7962,2735,Secuestro,Hurto,Contrabando,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-05-18,Bajo,Resuelto,21,53,6,55,580,13,1,0,3,38
+Baja,Ciberacoso,Económica,León,9601,1877,Homicidio,Estafa,Lavado de dinero,Racismo,Despecho,Robo,Robo de ganado,Criminal,2024-02-14,Bajo,Resuelto,32,8,97,91,541,5,0,1,66,85
+Alta,Fraude bancario,Rescate,Veracruz,557,5642,Homicidio,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Caza ilegal,Oportunidad,2023-10-16,Bajo,Resuelto,43,44,80,32,695,7,0,1,89,43
+Alta,Robo de vehículos,Personal,Tijuana,7719,1308,Secuestro,Robo menor,Lavado de dinero,Xenofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-08-31,Bajo,Resuelto,61,98,18,56,44,12,1,0,65,19
+Baja,Hurto menor,Protesta,Chihuahua,999,2075,Violación,Estafa,Contrabando,Xenofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-02-03,Ninguno,No resuelto,22,66,53,6,320,14,0,0,78,63
+Alta,Asalto con violencia,Protesta,Guadalajara,7477,3898,Homicidio,Estafa,Lavado de dinero,Homofobia,Despecho,Asalto,Robo de ganado,Financiera,2024-08-17,Bajo,No resuelto,39,62,64,19,724,10,0,0,2,69
+Media,Robo de identidad,Rescate,Toluca,4183,2595,Homicidio,Hurto,Lavado de dinero,Racismo,Despecho,Robo,Tráfico de especies,Criminal,2024-05-25,Ninguno,No resuelto,69,100,34,76,375,9,0,1,65,85
+Media,Hurto,Fraude,Monterrey,6743,4379,Asalto,Estafa,Fraude bancario,Racismo,Rencor,Vandalismo,Robo de ganado,Criminal,2024-03-15,Ninguno,Resuelto,28,60,7,74,526,5,1,0,75,59
+Alta,Extorsión,Económica,León,9554,3500,Asalto,Estafa,Contrabando,Homofobia,Despecho,Asalto,Tráfico de especies,Financiera,2024-07-25,Bajo,No resuelto,42,95,100,32,680,4,0,0,73,82
+Baja,Acoso verbal,Fraude,Mexicali,1690,8110,Secuestro,Fraude,Lavado de dinero,Racismo,Celos,Robo,Robo de ganado,Criminal,2024-07-19,Bajo,Resuelto,42,86,46,15,826,12,0,1,55,57
+Baja,Daños a la propiedad,Financiera,Hermosillo,95,2095,Secuestro,Hurto,Lavado de dinero,Racismo,Celos,Vandalismo,Robo de ganado,Criminal,2024-06-12,Alto,No resuelto,62,48,100,21,199,23,1,0,7,89
+Media,Daños a la propiedad,Personal,Monterrey,3635,3663,Violación,Estafa,Fraude bancario,Racismo,Despecho,Robo,Tráfico de especies,Oportunidad,2024-08-14,Bajo,No resuelto,76,8,69,13,347,6,1,0,46,35
+Alta,Extorsión,Financiera,Aguascalientes,3191,4993,Violación,Estafa,Fraude bancario,Xenofobia,Celos,Robo,Caza ilegal,Fraude,2024-05-27,Alto,Resuelto,96,67,84,11,572,0,1,1,57,28
+Alta,Acoso verbal,Rescate,La Paz,4946,6617,Asalto,Robo menor,Fraude bancario,Xenofobia,Celos,Asalto,Tráfico de especies,Financiera,2024-07-08,Alto,No resuelto,28,24,11,48,434,20,0,1,43,58
+Alta,Extorsión,Protesta,Durango,7339,68,Extorsión,Estafa,Contrabando,Racismo,Despecho,Robo,Robo de ganado,Fraude,2024-02-23,Bajo,Resuelto,68,74,76,30,972,9,0,1,14,74
+Alta,Ciberacoso,Financiera,Chihuahua,4887,6715,Asalto,Hurto,Fraude bancario,Homofobia,Celos,Vandalismo,Caza ilegal,Financiera,2024-01-01,Bajo,Resuelto,94,96,26,43,132,7,0,0,26,38
+Baja,Asalto con violencia,Rescate,Guadalajara,8250,2366,Homicidio,Estafa,Fraude bancario,Homofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-06-09,Bajo,No resuelto,50,95,10,51,786,19,0,0,81,95
+Baja,Estafa,Rescate,La Paz,7498,4485,Asalto,Hurto,Fraude bancario,Racismo,Celos,Vandalismo,Robo de ganado,Oportunidad,2024-02-19,Alto,No resuelto,36,49,62,50,677,12,1,0,91,98
+Alta,Robo de identidad,Protesta,Monterrey,513,1304,Violación,Hurto,Fraude bancario,Xenofobia,Rencor,Vandalismo,Robo de ganado,Fraude,2024-07-29,Bajo,No resuelto,71,77,24,85,851,24,1,0,8,32
+Alta,Vandalismo,Rencor,Veracruz,6313,6333,Secuestro,Hurto,Fraude bancario,Racismo,Rencor,Robo,Caza ilegal,Financiera,2024-04-14,Ninguno,Resuelto,88,23,100,68,545,8,0,0,93,56
+Baja,Asalto con violencia,Criminal,Monterrey,7111,707,Homicidio,Robo menor,Contrabando,Racismo,Despecho,Vandalismo,Caza ilegal,Fraude,2024-07-02,Bajo,No resuelto,38,82,18,55,494,15,1,1,32,66
+Baja,Tráfico de drogas,Criminal,Hermosillo,6797,7387,Homicidio,Robo menor,Contrabando,Xenofobia,Rencor,Robo,Robo de ganado,Oportunidad,2024-04-17,Alto,Resuelto,81,14,54,63,772,9,1,1,74,42
+Alta,Homicidio,Protesta,Monterrey,2119,9706,Homicidio,Estafa,Contrabando,Racismo,Celos,Asalto,Tráfico de especies,Criminal,2023-12-06,Ninguno,No resuelto,50,69,92,100,461,9,0,1,47,26
+Media,Fraude electrónico,Financiera,Monterrey,7857,4741,Violación,Estafa,Lavado de dinero,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-05-24,Alto,Resuelto,10,42,27,31,342,21,1,0,3,89
+Media,Daños a la propiedad,Financiera,Torreón,7054,6037,Asalto,Fraude,Contrabando,Homofobia,Despecho,Robo,Robo de ganado,Financiera,2024-04-18,Alto,No resuelto,8,58,69,24,82,14,1,0,91,46
+Alta,Homicidio,Oportunidad,León,873,2802,Extorsión,Robo menor,Contrabando,Homofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-01-29,Alto,Resuelto,22,48,45,75,971,13,1,1,58,98
+Baja,Fraude bancario,Rescate,Monterrey,4242,8137,Violación,Robo menor,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Financiera,2024-04-08,Bajo,Resuelto,83,57,39,67,426,12,1,0,43,20
+Baja,Robo de vehículos,Protesta,Aguascalientes,6934,8274,Secuestro,Estafa,Lavado de dinero,Racismo,Celos,Robo,Tráfico de especies,Oportunidad,2024-03-28,Ninguno,No resuelto,6,26,91,39,874,16,0,1,45,62
+Alta,Fraude bancario,Financiera,Hermosillo,1975,7449,Secuestro,Fraude,Contrabando,Homofobia,Rencor,Robo,Tráfico de especies,Financiera,2024-08-26,Bajo,No resuelto,42,62,44,46,64,21,0,0,32,22
+Alta,Violencia doméstica,Rescate,Saltillo,8985,684,Asalto,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Robo de ganado,Fraude,2024-05-08,Alto,No resuelto,80,37,86,96,973,13,0,0,24,91
+Media,Fraude electrónico,Financiera,Torreón,3069,801,Violación,Estafa,Lavado de dinero,Homofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-08-27,Bajo,Resuelto,25,56,5,75,923,12,0,1,5,63
+Baja,Violencia doméstica,Rencor,Toluca,623,6215,Violación,Fraude,Contrabando,Homofobia,Despecho,Vandalismo,Caza ilegal,Criminal,2024-07-10,Bajo,No resuelto,38,78,33,12,42,1,0,0,24,46
+Baja,Hurto,Rencor,Durango,8981,5551,Homicidio,Robo menor,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Oportunidad,2024-03-13,Bajo,Resuelto,5,46,19,11,947,7,0,0,84,64
+Media,Asalto con violencia,Protesta,Querétaro,8852,7208,Extorsión,Estafa,Contrabando,Racismo,Celos,Asalto,Robo de ganado,Criminal,2024-07-14,Ninguno,No resuelto,14,90,15,60,119,11,1,1,14,71
+Media,Asalto con violencia,Criminal,Toluca,6407,1128,Violación,Robo menor,Lavado de dinero,Xenofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-05-11,Bajo,No resuelto,4,84,58,66,631,21,1,1,71,34
+Baja,Tráfico de drogas,Económica,Durango,7134,8472,Extorsión,Fraude,Lavado de dinero,Racismo,Rencor,Vandalismo,Robo de ganado,Criminal,2024-10-11,Alto,Resuelto,7,71,82,10,562,8,0,1,16,19
+Alta,Asalto con violencia,Rescate,Toluca,2412,9231,Violación,Estafa,Contrabando,Racismo,Rencor,Asalto,Caza ilegal,Oportunidad,2024-10-04,Ninguno,Resuelto,16,92,5,12,110,9,0,1,10,71
+Baja,Ciberacoso,Personal,Saltillo,9407,9813,Extorsión,Robo menor,Contrabando,Xenofobia,Despecho,Vandalismo,Robo de ganado,Oportunidad,2023-11-12,Bajo,No resuelto,35,57,92,74,57,22,0,1,67,84
+Baja,Homicidio,Económica,Ciudad de México,7599,2933,Asalto,Fraude,Contrabando,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-03-04,Bajo,No resuelto,66,97,38,3,308,17,1,0,88,73
+Alta,Vandalismo,Protesta,Saltillo,3499,2596,Homicidio,Estafa,Contrabando,Homofobia,Despecho,Robo,Caza ilegal,Financiera,2023-11-19,Alto,Resuelto,6,18,100,69,712,18,0,0,16,94
+Alta,Vandalismo,Rencor,Monterrey,7665,3608,Secuestro,Robo menor,Contrabando,Xenofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-01-10,Bajo,No resuelto,10,92,86,95,267,19,0,1,77,46
+Baja,Robo de vehículos,Oportunidad,Zacatecas,8909,2023,Extorsión,Hurto,Contrabando,Homofobia,Despecho,Vandalismo,Tráfico de especies,Financiera,2024-01-01,Alto,Resuelto,68,34,38,64,915,24,1,0,67,22
+Alta,Secuestro,Rencor,Puebla,7057,4774,Secuestro,Estafa,Lavado de dinero,Homofobia,Despecho,Vandalismo,Tráfico de especies,Fraude,2024-07-06,Alto,Resuelto,97,41,48,72,529,2,0,1,17,0
+Alta,Ciberacoso,Rescate,Tijuana,2746,3389,Secuestro,Hurto,Lavado de dinero,Xenofobia,Rencor,Robo,Caza ilegal,Fraude,2024-05-05,Alto,Resuelto,13,75,69,20,675,24,1,0,71,61
+Alta,Ciberacoso,Rencor,Puebla,2320,425,Asalto,Robo menor,Fraude bancario,Homofobia,Celos,Robo,Robo de ganado,Criminal,2024-06-09,Alto,No resuelto,64,39,42,36,216,22,1,0,10,65
+Alta,Extorsión,Fraude,Toluca,4744,1681,Violación,Robo menor,Lavado de dinero,Homofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2023-11-18,Alto,No resuelto,24,5,22,4,574,10,1,0,6,61
+Alta,Ciberacoso,Económica,Ciudad de México,9393,327,Homicidio,Hurto,Contrabando,Xenofobia,Despecho,Robo,Tráfico de especies,Financiera,2024-03-20,Alto,Resuelto,87,27,34,39,146,1,0,1,24,95
+Alta,Contrabando,Criminal,Querétaro,6602,7026,Extorsión,Fraude,Fraude bancario,Xenofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2024-06-28,Alto,Resuelto,45,76,71,21,688,17,1,0,85,94
+Media,Tráfico de drogas,Oportunidad,Tijuana,5845,1584,Secuestro,Hurto,Lavado de dinero,Racismo,Despecho,Vandalismo,Tráfico de especies,Fraude,2024-02-16,Bajo,Resuelto,64,99,10,35,429,6,0,0,57,39
+Baja,Asalto con violencia,Protesta,Mexicali,5023,7803,Secuestro,Fraude,Contrabando,Racismo,Celos,Robo,Caza ilegal,Financiera,2024-01-06,Ninguno,No resuelto,25,27,72,1,94,2,1,0,8,85
+Baja,Asalto con violencia,Financiera,Puebla,9769,8304,Violación,Robo menor,Fraude bancario,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Oportunidad,2023-11-02,Alto,No resuelto,57,87,67,97,142,21,0,0,0,40
+Baja,Acoso verbal,Oportunidad,La Paz,1226,9280,Homicidio,Robo menor,Fraude bancario,Xenofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-09-19,Ninguno,Resuelto,10,6,71,89,293,6,1,1,77,60
+Alta,Violencia doméstica,Rencor,Ciudad de México,2070,9706,Secuestro,Estafa,Contrabando,Racismo,Despecho,Vandalismo,Caza ilegal,Oportunidad,2024-06-17,Bajo,Resuelto,45,41,66,82,845,24,1,0,8,15
+Alta,Acoso verbal,Financiera,Durango,3599,3430,Homicidio,Hurto,Contrabando,Homofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-10-03,Alto,No resuelto,16,11,74,34,28,4,1,0,71,37
+Baja,Homicidio,Personal,León,7830,140,Secuestro,Estafa,Contrabando,Xenofobia,Despecho,Asalto,Robo de ganado,Fraude,2024-03-24,Bajo,Resuelto,34,73,51,86,701,13,1,1,23,67
+Media,Hurto menor,Fraude,Chihuahua,5517,7475,Violación,Hurto,Fraude bancario,Racismo,Rencor,Vandalismo,Caza ilegal,Fraude,2024-05-23,Ninguno,Resuelto,4,51,58,17,898,19,0,0,42,67
+Media,Tráfico de drogas,Criminal,La Paz,9724,2099,Asalto,Robo menor,Fraude bancario,Homofobia,Rencor,Robo,Robo de ganado,Financiera,2024-05-23,Bajo,No resuelto,2,17,39,49,972,3,0,1,75,83
+Media,Hurto,Oportunidad,León,7701,4234,Extorsión,Robo menor,Contrabando,Homofobia,Celos,Vandalismo,Tráfico de especies,Financiera,2024-02-12,Alto,Resuelto,20,30,38,21,241,0,0,0,74,33
+Alta,Ciberacoso,Protesta,Torreón,1523,1632,Violación,Fraude,Lavado de dinero,Racismo,Rencor,Vandalismo,Robo de ganado,Fraude,2024-01-17,Bajo,No resuelto,81,22,79,10,268,10,0,0,72,32
+Alta,Tráfico de drogas,Fraude,León,2854,5086,Homicidio,Fraude,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Criminal,2024-06-24,Bajo,Resuelto,54,14,55,41,621,4,1,1,52,6
+Alta,Ciberacoso,Personal,Zacatecas,1076,910,Extorsión,Fraude,Contrabando,Xenofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-06-25,Bajo,No resuelto,80,58,6,4,770,24,1,0,12,59
+Media,Ciberacoso,Financiera,Torreón,9272,3527,Asalto,Fraude,Lavado de dinero,Xenofobia,Rencor,Robo,Tráfico de especies,Fraude,2023-11-15,Alto,No resuelto,76,36,6,7,61,20,1,0,85,2
+Media,Fraude electrónico,Rescate,Chihuahua,5146,7385,Secuestro,Hurto,Fraude bancario,Homofobia,Despecho,Asalto,Caza ilegal,Fraude,2024-05-19,Bajo,No resuelto,32,86,31,24,304,18,1,1,85,89
+Media,Violencia doméstica,Rescate,La Paz,633,38,Asalto,Hurto,Lavado de dinero,Xenofobia,Celos,Robo,Robo de ganado,Financiera,2024-01-30,Ninguno,Resuelto,64,0,30,56,136,19,0,0,44,23
+Baja,Ciberacoso,Económica,Toluca,828,8084,Asalto,Robo menor,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Oportunidad,2024-04-02,Alto,Resuelto,8,41,62,79,94,4,0,0,74,64
+Baja,Contrabando,Oportunidad,Monterrey,3101,4427,Secuestro,Fraude,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-08-15,Ninguno,Resuelto,60,14,67,26,569,10,1,1,100,100
+Alta,Fraude bancario,Protesta,Saltillo,3140,4666,Secuestro,Robo menor,Fraude bancario,Homofobia,Despecho,Asalto,Caza ilegal,Oportunidad,2024-06-17,Bajo,No resuelto,20,52,73,93,434,3,0,1,75,25
+Media,Ciberacoso,Personal,Reynosa,4208,8393,Violación,Estafa,Contrabando,Xenofobia,Rencor,Asalto,Caza ilegal,Oportunidad,2023-10-25,Ninguno,No resuelto,100,70,28,60,904,5,0,1,7,58
+Media,Estafa,Financiera,Torreón,4020,3141,Violación,Estafa,Contrabando,Xenofobia,Celos,Robo,Robo de ganado,Financiera,2024-07-18,Ninguno,No resuelto,69,4,38,63,560,16,1,0,98,70
+Baja,Homicidio,Oportunidad,Torreón,8255,4025,Asalto,Robo menor,Lavado de dinero,Xenofobia,Celos,Vandalismo,Caza ilegal,Financiera,2024-07-27,Bajo,No resuelto,12,17,52,1,878,6,1,0,20,91
+Alta,Violencia doméstica,Fraude,Veracruz,4357,1874,Extorsión,Hurto,Lavado de dinero,Xenofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-03-07,Ninguno,Resuelto,28,41,76,74,545,24,0,1,74,39
+Baja,Daños a la propiedad,Protesta,Zacatecas,9534,8806,Homicidio,Hurto,Contrabando,Racismo,Despecho,Asalto,Caza ilegal,Fraude,2023-12-06,Ninguno,No resuelto,63,73,0,7,838,5,1,0,12,14
+Baja,Extorsión,Oportunidad,Torreón,9933,8110,Asalto,Hurto,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Caza ilegal,Fraude,2024-06-26,Ninguno,No resuelto,12,89,58,1,248,21,1,0,73,28
+Media,Homicidio,Financiera,Mexicali,239,4808,Asalto,Hurto,Fraude bancario,Racismo,Rencor,Asalto,Caza ilegal,Criminal,2023-12-21,Ninguno,No resuelto,84,68,20,54,839,16,1,0,44,40
+Media,Fraude bancario,Económica,Zacatecas,8094,3329,Extorsión,Fraude,Contrabando,Homofobia,Celos,Vandalismo,Caza ilegal,Fraude,2023-10-30,Ninguno,No resuelto,35,32,37,99,273,20,1,1,84,88
+Alta,Violencia doméstica,Protesta,Saltillo,1420,6342,Extorsión,Fraude,Contrabando,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-06-20,Bajo,No resuelto,67,18,82,8,156,3,0,0,40,18
+Media,Acoso verbal,Económica,Toluca,798,6828,Extorsión,Hurto,Fraude bancario,Xenofobia,Rencor,Robo,Robo de ganado,Oportunidad,2024-02-07,Ninguno,No resuelto,86,9,76,48,622,9,1,1,51,63
+Baja,Robo de identidad,Oportunidad,Toluca,9186,1780,Secuestro,Hurto,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Criminal,2024-06-21,Alto,No resuelto,75,31,65,44,747,21,0,1,14,45
+Baja,Hurto menor,Fraude,Zacatecas,2790,4708,Secuestro,Robo menor,Contrabando,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-05-20,Alto,Resuelto,74,57,90,7,540,11,1,1,24,1
+Alta,Fraude bancario,Fraude,Toluca,8713,2901,Asalto,Fraude,Contrabando,Homofobia,Celos,Asalto,Robo de ganado,Financiera,2024-02-14,Ninguno,Resuelto,17,10,80,3,75,2,0,1,91,94
+Baja,Tráfico de drogas,Oportunidad,Tijuana,3698,1585,Secuestro,Fraude,Contrabando,Homofobia,Despecho,Vandalismo,Caza ilegal,Financiera,2023-10-13,Ninguno,Resuelto,30,86,89,84,760,20,0,0,43,25
+Alta,Fraude bancario,Oportunidad,Ciudad de México,5468,6328,Asalto,Fraude,Lavado de dinero,Homofobia,Despecho,Asalto,Caza ilegal,Oportunidad,2024-04-19,Bajo,Resuelto,79,29,58,90,539,1,1,0,1,47
+Alta,Hurto menor,Rescate,La Paz,3689,8234,Asalto,Estafa,Fraude bancario,Racismo,Celos,Asalto,Robo de ganado,Fraude,2023-10-18,Ninguno,Resuelto,56,24,96,60,312,10,1,1,2,59
+Alta,Hurto menor,Protesta,Ciudad de México,5680,6484,Extorsión,Estafa,Lavado de dinero,Racismo,Rencor,Asalto,Caza ilegal,Criminal,2024-04-24,Alto,No resuelto,55,27,27,79,131,15,0,0,58,94
+Alta,Fraude electrónico,Personal,Veracruz,3899,4043,Secuestro,Hurto,Contrabando,Xenofobia,Despecho,Robo,Caza ilegal,Fraude,2024-06-01,Alto,Resuelto,3,62,48,50,145,0,1,0,37,91
+Baja,Fraude electrónico,Protesta,Durango,7637,1495,Violación,Fraude,Fraude bancario,Homofobia,Despecho,Vandalismo,Caza ilegal,Criminal,2024-05-03,Ninguno,No resuelto,66,100,76,23,878,14,0,1,100,62
+Baja,Estafa,Fraude,Reynosa,6924,1176,Secuestro,Estafa,Fraude bancario,Homofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-06-23,Bajo,Resuelto,93,45,55,97,741,16,0,0,54,51
+Baja,Contrabando,Rencor,Ciudad de México,5811,6451,Secuestro,Robo menor,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-06-21,Alto,Resuelto,15,34,16,99,701,16,0,0,32,56
+Alta,Estafa,Criminal,Mérida,3265,7347,Violación,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2024-08-12,Bajo,No resuelto,21,44,96,27,681,2,0,1,45,42
+Alta,Secuestro,Personal,Hermosillo,6647,1067,Asalto,Robo menor,Lavado de dinero,Racismo,Despecho,Vandalismo,Caza ilegal,Oportunidad,2024-01-08,Ninguno,Resuelto,52,10,14,96,938,23,1,0,41,51
+Media,Hurto menor,Económica,Querétaro,5834,9995,Extorsión,Robo menor,Fraude bancario,Homofobia,Despecho,Robo,Caza ilegal,Criminal,2024-01-22,Alto,No resuelto,83,73,98,94,372,19,1,0,72,85
+Alta,Acoso verbal,Financiera,Chihuahua,8304,5987,Violación,Hurto,Lavado de dinero,Xenofobia,Celos,Vandalismo,Tráfico de especies,Fraude,2023-10-15,Bajo,No resuelto,86,62,48,71,432,22,1,1,85,61
+Alta,Acoso verbal,Oportunidad,Reynosa,8436,175,Asalto,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Robo de ganado,Fraude,2024-02-04,Ninguno,No resuelto,57,79,37,69,373,22,0,0,38,31
+Alta,Vandalismo,Rencor,Mexicali,2960,9690,Extorsión,Hurto,Lavado de dinero,Racismo,Despecho,Robo,Caza ilegal,Oportunidad,2024-05-28,Ninguno,Resuelto,41,63,61,67,352,1,0,1,71,99
+Baja,Estafa,Económica,Mexicali,5857,4746,Secuestro,Hurto,Contrabando,Homofobia,Despecho,Robo,Robo de ganado,Fraude,2024-03-29,Bajo,Resuelto,5,17,49,39,886,7,0,1,2,15
+Alta,Fraude electrónico,Financiera,Reynosa,2736,4994,Extorsión,Robo menor,Lavado de dinero,Racismo,Despecho,Vandalismo,Tráfico de especies,Criminal,2024-01-31,Ninguno,No resuelto,42,23,93,65,27,19,1,1,0,95
+Baja,Fraude bancario,Protesta,Hermosillo,3253,4398,Asalto,Estafa,Lavado de dinero,Racismo,Rencor,Vandalismo,Tráfico de especies,Financiera,2024-01-31,Ninguno,Resuelto,17,6,43,12,961,3,1,0,75,46
+Baja,Estafa,Protesta,Hermosillo,7508,8121,Secuestro,Hurto,Contrabando,Racismo,Despecho,Vandalismo,Robo de ganado,Financiera,2023-10-22,Alto,No resuelto,44,39,70,0,560,0,0,1,74,80
+Baja,Asalto con violencia,Financiera,Puebla,8436,5612,Violación,Hurto,Lavado de dinero,Homofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2023-10-31,Ninguno,No resuelto,6,41,21,12,798,18,1,1,0,100
+Baja,Acoso verbal,Criminal,Ciudad de México,7370,3668,Secuestro,Hurto,Lavado de dinero,Racismo,Celos,Vandalismo,Robo de ganado,Financiera,2024-05-08,Bajo,No resuelto,75,28,83,21,294,11,0,1,78,37
+Media,Fraude electrónico,Protesta,Puebla,4128,5493,Homicidio,Hurto,Contrabando,Racismo,Despecho,Robo,Robo de ganado,Financiera,2023-11-23,Ninguno,No resuelto,45,96,9,42,586,24,0,0,40,88
+Media,Asalto con violencia,Económica,Saltillo,6238,1443,Asalto,Fraude,Fraude bancario,Xenofobia,Despecho,Robo,Caza ilegal,Oportunidad,2024-08-08,Bajo,Resuelto,46,98,41,33,789,17,1,1,9,51
+Alta,Homicidio,Protesta,León,8704,241,Violación,Hurto,Lavado de dinero,Homofobia,Rencor,Vandalismo,Tráfico de especies,Financiera,2024-07-23,Bajo,No resuelto,37,28,76,99,564,20,0,1,70,62
+Alta,Fraude bancario,Rescate,Zacatecas,4494,7509,Homicidio,Hurto,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2024-08-20,Alto,Resuelto,23,72,21,21,281,19,0,1,76,24
+Alta,Acoso verbal,Oportunidad,Ciudad de México,3655,9396,Extorsión,Robo menor,Contrabando,Racismo,Celos,Vandalismo,Caza ilegal,Fraude,2024-08-08,Ninguno,Resuelto,2,43,96,1,679,22,1,1,1,65
+Baja,Daños a la propiedad,Rescate,Puebla,1310,1941,Homicidio,Fraude,Fraude bancario,Racismo,Despecho,Robo,Tráfico de especies,Financiera,2023-10-13,Ninguno,Resuelto,11,89,11,25,256,15,0,1,77,57
+Media,Hurto,Financiera,Aguascalientes,9536,8188,Asalto,Hurto,Lavado de dinero,Racismo,Celos,Vandalismo,Tráfico de especies,Financiera,2024-06-09,Ninguno,Resuelto,81,29,62,70,222,22,1,0,99,11
+Alta,Fraude electrónico,Personal,Aguascalientes,6164,4419,Extorsión,Hurto,Lavado de dinero,Xenofobia,Rencor,Asalto,Robo de ganado,Financiera,2023-12-21,Ninguno,Resuelto,94,28,56,79,394,12,1,0,71,17
+Baja,Acoso verbal,Criminal,Toluca,2990,827,Asalto,Robo menor,Fraude bancario,Homofobia,Celos,Vandalismo,Robo de ganado,Criminal,2024-05-30,Bajo,No resuelto,77,80,44,45,249,7,0,0,66,73
+Alta,Fraude bancario,Rescate,Reynosa,8910,8636,Extorsión,Fraude,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Financiera,2023-10-24,Bajo,No resuelto,84,89,54,71,658,9,0,1,57,79
+Media,Estafa,Personal,Guadalajara,1079,9311,Secuestro,Fraude,Lavado de dinero,Homofobia,Celos,Robo,Tráfico de especies,Oportunidad,2023-11-15,Bajo,Resuelto,56,41,40,90,69,3,0,1,19,38
+Baja,Hurto,Rencor,Toluca,3863,3103,Secuestro,Robo menor,Fraude bancario,Homofobia,Celos,Asalto,Tráfico de especies,Criminal,2024-01-25,Alto,Resuelto,8,15,17,77,245,14,1,0,16,7
+Alta,Estafa,Rencor,Puebla,9869,494,Homicidio,Estafa,Lavado de dinero,Racismo,Celos,Asalto,Robo de ganado,Oportunidad,2024-01-01,Alto,No resuelto,19,62,62,50,33,20,0,1,13,47
+Alta,Hurto,Criminal,Torreón,1650,5569,Violación,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Financiera,2024-07-03,Ninguno,No resuelto,32,67,11,24,229,3,0,1,90,24
+Alta,Asalto con violencia,Personal,La Paz,5790,593,Extorsión,Fraude,Contrabando,Racismo,Despecho,Robo,Robo de ganado,Financiera,2023-12-06,Ninguno,No resuelto,95,95,15,52,721,22,0,1,98,34
+Alta,Robo de identidad,Rescate,Mexicali,1231,4534,Asalto,Robo menor,Contrabando,Homofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-06-23,Bajo,Resuelto,29,37,29,13,747,14,1,1,13,85
+Baja,Fraude electrónico,Criminal,Mérida,261,7901,Secuestro,Hurto,Fraude bancario,Homofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-03-11,Alto,No resuelto,77,34,94,62,391,21,1,0,65,45
+Media,Secuestro,Económica,Monterrey,761,1712,Asalto,Estafa,Lavado de dinero,Xenofobia,Rencor,Robo,Tráfico de especies,Financiera,2023-12-24,Alto,No resuelto,89,60,96,93,167,21,1,0,74,76
+Media,Acoso verbal,Protesta,Tijuana,4417,1930,Homicidio,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Tráfico de especies,Criminal,2023-12-20,Alto,Resuelto,64,3,22,58,707,23,0,0,96,49
+Media,Robo de identidad,Personal,Saltillo,5285,8969,Extorsión,Estafa,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Fraude,2023-11-05,Alto,No resuelto,99,16,57,82,32,10,0,0,26,55
+Alta,Violencia doméstica,Rencor,Puebla,4399,7628,Extorsión,Estafa,Lavado de dinero,Xenofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-04-30,Alto,Resuelto,30,20,95,48,178,16,1,0,19,92
+Alta,Hurto menor,Financiera,Tijuana,7915,4931,Homicidio,Estafa,Contrabando,Homofobia,Despecho,Robo,Robo de ganado,Financiera,2023-12-11,Ninguno,Resuelto,90,70,98,56,329,2,1,1,39,46
+Baja,Extorsión,Económica,León,4247,6059,Asalto,Fraude,Lavado de dinero,Xenofobia,Celos,Asalto,Tráfico de especies,Criminal,2023-12-29,Ninguno,Resuelto,82,49,74,71,692,12,1,0,62,67
+Baja,Vandalismo,Personal,Reynosa,8759,6280,Secuestro,Fraude,Fraude bancario,Xenofobia,Celos,Asalto,Tráfico de especies,Criminal,2023-12-02,Ninguno,No resuelto,89,93,31,57,709,17,1,0,73,5
+Baja,Robo de vehículos,Fraude,Toluca,8546,1552,Homicidio,Hurto,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Criminal,2024-05-13,Alto,Resuelto,3,19,7,88,31,19,0,0,96,76
+Baja,Violencia doméstica,Protesta,Durango,9401,5132,Extorsión,Hurto,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Criminal,2024-06-05,Ninguno,No resuelto,4,47,63,84,713,18,1,1,40,89
+Media,Ciberacoso,Financiera,Durango,1564,7932,Secuestro,Fraude,Fraude bancario,Homofobia,Rencor,Asalto,Robo de ganado,Criminal,2024-09-04,Ninguno,Resuelto,59,6,17,70,796,20,0,0,44,76
+Media,Fraude bancario,Rencor,Chihuahua,4199,64,Asalto,Hurto,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Financiera,2023-10-22,Bajo,Resuelto,79,82,30,64,401,18,1,1,76,91
+Baja,Contrabando,Financiera,Chihuahua,7118,6300,Extorsión,Estafa,Lavado de dinero,Racismo,Despecho,Asalto,Robo de ganado,Oportunidad,2024-10-05,Ninguno,Resuelto,54,85,95,36,143,17,1,0,14,27
+Media,Acoso verbal,Fraude,Monterrey,8886,6758,Homicidio,Robo menor,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Financiera,2024-02-05,Alto,Resuelto,79,2,9,52,287,16,1,0,42,8
+Media,Extorsión,Rescate,Monterrey,233,8381,Extorsión,Fraude,Fraude bancario,Xenofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2023-12-04,Bajo,Resuelto,25,0,33,88,64,20,1,1,32,76
+Media,Tráfico de drogas,Rescate,Aguascalientes,2960,6333,Violación,Hurto,Fraude bancario,Racismo,Rencor,Vandalismo,Caza ilegal,Financiera,2024-01-21,Alto,Resuelto,83,81,15,37,982,21,1,1,33,66
+Media,Contrabando,Económica,Zacatecas,2644,9078,Homicidio,Hurto,Contrabando,Xenofobia,Despecho,Vandalismo,Robo de ganado,Criminal,2024-02-18,Bajo,Resuelto,69,66,84,38,127,14,0,1,23,17
+Baja,Contrabando,Rescate,Guadalajara,8870,3728,Asalto,Hurto,Lavado de dinero,Xenofobia,Celos,Asalto,Robo de ganado,Financiera,2023-10-15,Bajo,No resuelto,37,47,2,44,580,22,1,1,31,28
+Alta,Fraude electrónico,Rescate,Toluca,2601,6985,Violación,Robo menor,Lavado de dinero,Xenofobia,Rencor,Robo,Robo de ganado,Financiera,2024-09-29,Ninguno,No resuelto,4,82,10,14,244,7,1,1,66,39
+Alta,Ciberacoso,Financiera,Durango,2044,3044,Homicidio,Robo menor,Fraude bancario,Racismo,Celos,Vandalismo,Robo de ganado,Fraude,2023-11-07,Ninguno,Resuelto,90,80,36,82,23,15,1,0,30,87
+Baja,Robo de identidad,Financiera,Zacatecas,2551,5522,Secuestro,Hurto,Fraude bancario,Homofobia,Rencor,Asalto,Robo de ganado,Fraude,2023-11-13,Ninguno,Resuelto,5,95,7,72,896,18,0,1,14,65
+Baja,Hurto menor,Criminal,Mexicali,9810,6604,Violación,Robo menor,Fraude bancario,Racismo,Celos,Robo,Robo de ganado,Fraude,2023-11-23,Bajo,Resuelto,12,10,63,77,326,15,1,1,99,58
+Media,Contrabando,Protesta,Zacatecas,7994,4085,Homicidio,Hurto,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Oportunidad,2024-03-22,Ninguno,No resuelto,88,56,25,43,287,11,1,0,61,36
+Baja,Ciberacoso,Criminal,Chihuahua,3702,1448,Extorsión,Hurto,Fraude bancario,Homofobia,Rencor,Asalto,Tráfico de especies,Oportunidad,2023-11-09,Bajo,Resuelto,46,72,16,49,618,10,0,1,63,47
+Alta,Ciberacoso,Fraude,Reynosa,4803,6703,Secuestro,Robo menor,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-05-20,Bajo,Resuelto,91,84,61,73,808,3,0,1,74,11
+Baja,Hurto,Fraude,Ciudad de México,7367,4584,Secuestro,Fraude,Fraude bancario,Homofobia,Despecho,Asalto,Tráfico de especies,Fraude,2024-01-24,Bajo,Resuelto,63,33,74,0,502,5,1,1,15,98
+Baja,Ciberacoso,Oportunidad,Ciudad de México,6850,5480,Extorsión,Fraude,Fraude bancario,Homofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-03-31,Alto,No resuelto,55,61,67,64,198,6,1,0,19,41
+Media,Robo de identidad,Económica,Puebla,4529,9968,Homicidio,Robo menor,Fraude bancario,Racismo,Celos,Vandalismo,Caza ilegal,Criminal,2024-01-29,Alto,Resuelto,18,43,69,65,848,17,0,1,21,6
+Baja,Contrabando,Rencor,León,4808,1027,Homicidio,Hurto,Lavado de dinero,Xenofobia,Despecho,Robo,Caza ilegal,Financiera,2024-06-19,Bajo,No resuelto,67,71,77,21,836,11,0,1,66,13
+Baja,Hurto,Económica,Veracruz,1384,7406,Violación,Estafa,Lavado de dinero,Homofobia,Despecho,Asalto,Robo de ganado,Criminal,2023-10-25,Ninguno,No resuelto,0,74,85,5,242,14,1,1,4,25
+Media,Robo de identidad,Protesta,Torreón,4593,8801,Extorsión,Estafa,Fraude bancario,Racismo,Rencor,Vandalismo,Robo de ganado,Oportunidad,2024-09-03,Alto,Resuelto,43,59,94,1,675,1,0,0,24,49
+Baja,Extorsión,Fraude,La Paz,6082,1801,Homicidio,Estafa,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Oportunidad,2024-04-10,Alto,No resuelto,22,52,80,68,816,4,0,0,28,66
+Media,Ciberacoso,Personal,Mexicali,6811,2977,Asalto,Hurto,Contrabando,Homofobia,Despecho,Vandalismo,Robo de ganado,Financiera,2024-01-16,Bajo,No resuelto,35,46,95,24,429,21,1,1,56,80
+Baja,Ciberacoso,Fraude,Reynosa,7020,2760,Extorsión,Estafa,Lavado de dinero,Homofobia,Despecho,Robo,Caza ilegal,Financiera,2024-02-05,Alto,No resuelto,65,32,25,72,164,24,0,0,64,3
+Media,Tráfico de drogas,Económica,Tijuana,7389,9334,Secuestro,Hurto,Contrabando,Homofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-08-07,Bajo,No resuelto,29,16,91,47,22,8,0,1,81,25
+Alta,Asalto con violencia,Rencor,Puebla,9990,7083,Homicidio,Robo menor,Lavado de dinero,Homofobia,Rencor,Asalto,Caza ilegal,Fraude,2024-06-08,Alto,Resuelto,62,31,61,0,1,0,0,1,75,19
+Alta,Contrabando,Criminal,Zacatecas,5495,4285,Extorsión,Fraude,Fraude bancario,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-02-18,Bajo,Resuelto,48,40,97,73,270,5,0,1,8,34
+Alta,Violencia doméstica,Personal,Ciudad de México,347,1368,Violación,Estafa,Contrabando,Xenofobia,Celos,Robo,Caza ilegal,Fraude,2023-12-20,Alto,Resuelto,25,30,74,86,454,15,1,1,13,0
+Baja,Contrabando,Rencor,Durango,5082,2350,Asalto,Fraude,Contrabando,Racismo,Celos,Robo,Caza ilegal,Oportunidad,2024-01-12,Ninguno,Resuelto,97,90,3,13,839,5,0,0,46,100
+Alta,Robo de vehículos,Financiera,Monterrey,9541,2853,Violación,Estafa,Fraude bancario,Xenofobia,Rencor,Robo,Caza ilegal,Fraude,2023-10-17,Alto,No resuelto,83,49,37,100,302,3,1,0,16,30
+Baja,Ciberacoso,Económica,Tijuana,8984,573,Secuestro,Robo menor,Fraude bancario,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Oportunidad,2024-07-26,Ninguno,No resuelto,84,95,87,12,241,2,1,1,23,3
+Media,Hurto,Fraude,Puebla,7098,4150,Homicidio,Fraude,Contrabando,Racismo,Despecho,Asalto,Tráfico de especies,Criminal,2023-11-12,Bajo,No resuelto,91,18,58,39,328,17,1,1,71,18
+Alta,Hurto menor,Oportunidad,Aguascalientes,752,2782,Asalto,Robo menor,Contrabando,Xenofobia,Celos,Asalto,Caza ilegal,Criminal,2024-09-30,Alto,No resuelto,62,56,97,97,994,7,0,0,63,53
+Alta,Estafa,Rencor,Saltillo,8320,4530,Homicidio,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Tráfico de especies,Financiera,2024-05-23,Ninguno,Resuelto,21,44,32,84,838,5,1,0,40,91
+Baja,Vandalismo,Rencor,Veracruz,33,3647,Violación,Robo menor,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Oportunidad,2024-06-23,Bajo,No resuelto,18,47,14,62,474,11,0,1,100,5
+Alta,Extorsión,Protesta,Ciudad de México,7837,9170,Violación,Robo menor,Lavado de dinero,Racismo,Celos,Asalto,Robo de ganado,Fraude,2024-06-28,Alto,Resuelto,17,22,77,75,308,22,0,1,16,55
+Media,Robo de identidad,Rencor,La Paz,4095,2216,Extorsión,Estafa,Lavado de dinero,Racismo,Despecho,Asalto,Caza ilegal,Oportunidad,2023-12-15,Alto,Resuelto,25,74,4,6,328,16,0,0,62,64
+Baja,Robo de identidad,Rencor,Hermosillo,8353,6342,Homicidio,Robo menor,Fraude bancario,Racismo,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-05-15,Bajo,Resuelto,70,60,4,70,709,18,1,0,2,21
+Alta,Secuestro,Personal,Reynosa,9370,8605,Violación,Hurto,Fraude bancario,Homofobia,Celos,Robo,Caza ilegal,Oportunidad,2024-07-29,Ninguno,Resuelto,97,64,23,64,700,19,1,0,26,36
+Baja,Fraude electrónico,Personal,Torreón,747,9860,Homicidio,Hurto,Fraude bancario,Xenofobia,Rencor,Vandalismo,Robo de ganado,Financiera,2023-12-30,Ninguno,Resuelto,63,22,61,74,779,4,0,1,31,73
+Media,Extorsión,Económica,Querétaro,6520,9441,Violación,Hurto,Contrabando,Racismo,Despecho,Robo,Robo de ganado,Financiera,2024-03-16,Bajo,No resuelto,64,93,1,8,452,7,0,0,19,25
+Alta,Secuestro,Financiera,La Paz,4255,3592,Extorsión,Fraude,Fraude bancario,Racismo,Despecho,Asalto,Caza ilegal,Fraude,2024-02-19,Bajo,Resuelto,11,15,33,10,902,2,1,0,55,3
+Media,Extorsión,Protesta,Zacatecas,4864,6534,Homicidio,Hurto,Fraude bancario,Homofobia,Celos,Robo,Robo de ganado,Criminal,2024-04-12,Ninguno,Resuelto,66,26,18,69,961,7,0,0,66,1
+Media,Estafa,Oportunidad,Torreón,2331,8760,Homicidio,Hurto,Lavado de dinero,Xenofobia,Celos,Asalto,Robo de ganado,Criminal,2024-01-01,Alto,Resuelto,22,3,59,93,320,14,0,1,66,26
+Alta,Tráfico de drogas,Personal,La Paz,4585,5042,Extorsión,Estafa,Lavado de dinero,Racismo,Celos,Asalto,Tráfico de especies,Financiera,2024-08-15,Alto,Resuelto,5,78,47,58,662,12,0,0,96,65
+Media,Homicidio,Rescate,Reynosa,8144,438,Asalto,Robo menor,Lavado de dinero,Racismo,Celos,Asalto,Robo de ganado,Oportunidad,2024-04-04,Ninguno,Resuelto,57,58,13,73,895,23,1,0,22,40
+Media,Robo de vehículos,Económica,Chihuahua,156,847,Secuestro,Robo menor,Lavado de dinero,Homofobia,Celos,Robo,Tráfico de especies,Fraude,2024-02-11,Bajo,Resuelto,26,70,89,84,526,6,1,0,65,5
+Baja,Contrabando,Rencor,Zacatecas,9270,551,Homicidio,Fraude,Fraude bancario,Homofobia,Despecho,Vandalismo,Tráfico de especies,Fraude,2024-04-11,Alto,Resuelto,81,21,96,99,858,20,0,1,93,25
+Alta,Robo de identidad,Personal,Mexicali,9100,7075,Secuestro,Robo menor,Contrabando,Homofobia,Rencor,Robo,Caza ilegal,Financiera,2023-12-08,Ninguno,No resuelto,24,85,72,85,220,22,0,0,41,93
+Baja,Hurto menor,Fraude,León,9709,94,Homicidio,Robo menor,Contrabando,Homofobia,Rencor,Robo,Caza ilegal,Fraude,2024-04-10,Alto,Resuelto,14,88,99,43,720,7,1,1,28,97
+Alta,Hurto menor,Económica,Chihuahua,8662,4744,Secuestro,Robo menor,Fraude bancario,Homofobia,Despecho,Vandalismo,Caza ilegal,Fraude,2024-09-10,Bajo,No resuelto,77,2,5,86,753,11,0,1,98,46
+Media,Tráfico de drogas,Criminal,Veracruz,2551,9375,Extorsión,Estafa,Lavado de dinero,Xenofobia,Despecho,Robo,Tráfico de especies,Criminal,2024-06-21,Bajo,Resuelto,36,65,56,83,996,19,1,1,93,9
+Alta,Asalto con violencia,Fraude,Tijuana,9510,2519,Violación,Fraude,Fraude bancario,Xenofobia,Rencor,Asalto,Robo de ganado,Financiera,2024-07-18,Bajo,Resuelto,22,68,100,10,671,10,1,0,25,82
+Media,Violencia doméstica,Protesta,Toluca,8120,1887,Asalto,Hurto,Fraude bancario,Homofobia,Celos,Vandalismo,Tráfico de especies,Financiera,2024-05-27,Bajo,No resuelto,45,74,33,23,556,17,0,1,32,61
+Baja,Extorsión,Rencor,Zacatecas,7653,6191,Homicidio,Hurto,Lavado de dinero,Racismo,Despecho,Vandalismo,Caza ilegal,Criminal,2024-06-08,Bajo,Resuelto,72,32,77,20,276,11,1,1,21,26
+Media,Robo de identidad,Rencor,Zacatecas,1441,1080,Violación,Hurto,Lavado de dinero,Racismo,Celos,Vandalismo,Tráfico de especies,Criminal,2023-10-15,Alto,Resuelto,37,79,37,26,266,15,1,0,95,79
+Alta,Vandalismo,Financiera,Reynosa,8849,4163,Secuestro,Estafa,Lavado de dinero,Xenofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-09-06,Alto,Resuelto,80,3,100,57,282,22,0,0,43,85
+Baja,Fraude bancario,Económica,La Paz,7023,4062,Secuestro,Fraude,Lavado de dinero,Homofobia,Rencor,Robo,Robo de ganado,Financiera,2023-10-20,Alto,Resuelto,83,3,75,73,803,6,0,0,65,85
+Media,Extorsión,Criminal,Puebla,4109,7772,Extorsión,Estafa,Lavado de dinero,Racismo,Despecho,Robo,Robo de ganado,Fraude,2024-06-21,Alto,No resuelto,37,81,1,55,582,16,1,1,61,87
+Baja,Daños a la propiedad,Protesta,La Paz,1056,7105,Secuestro,Hurto,Fraude bancario,Homofobia,Despecho,Vandalismo,Robo de ganado,Fraude,2024-01-01,Ninguno,No resuelto,33,41,15,60,377,9,0,0,82,69
+Alta,Robo de vehículos,Económica,Mérida,154,5475,Asalto,Fraude,Fraude bancario,Xenofobia,Despecho,Asalto,Robo de ganado,Criminal,2024-09-29,Alto,No resuelto,37,97,68,40,162,0,1,0,66,96
+Baja,Robo de vehículos,Personal,Durango,3643,1280,Homicidio,Estafa,Fraude bancario,Homofobia,Rencor,Vandalismo,Tráfico de especies,Oportunidad,2024-09-12,Alto,No resuelto,30,69,7,56,330,10,0,1,16,73
+Alta,Fraude electrónico,Rencor,Guadalajara,8673,7421,Secuestro,Estafa,Contrabando,Homofobia,Rencor,Vandalismo,Robo de ganado,Criminal,2024-09-16,Bajo,No resuelto,56,3,15,34,575,7,0,1,45,81
+Media,Asalto con violencia,Económica,Mérida,5682,9120,Secuestro,Robo menor,Fraude bancario,Racismo,Rencor,Vandalismo,Caza ilegal,Financiera,2024-07-15,Bajo,No resuelto,74,36,13,66,910,18,0,1,53,9
+Baja,Secuestro,Fraude,Hermosillo,4246,144,Extorsión,Estafa,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Criminal,2024-07-20,Alto,No resuelto,95,67,99,61,685,20,0,0,86,70
+Alta,Secuestro,Fraude,Mérida,6178,679,Secuestro,Fraude,Fraude bancario,Racismo,Rencor,Asalto,Caza ilegal,Financiera,2024-03-09,Alto,Resuelto,3,51,32,65,156,10,1,0,38,54
+Alta,Tráfico de drogas,Económica,Hermosillo,513,6809,Violación,Robo menor,Fraude bancario,Xenofobia,Rencor,Asalto,Robo de ganado,Fraude,2024-07-12,Alto,No resuelto,69,11,14,93,450,2,1,0,63,12
+Alta,Extorsión,Protesta,Saltillo,8340,74,Homicidio,Hurto,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Oportunidad,2024-04-30,Alto,Resuelto,3,30,68,96,223,10,0,1,56,35
+Alta,Homicidio,Financiera,Puebla,1485,5611,Homicidio,Hurto,Fraude bancario,Xenofobia,Celos,Asalto,Caza ilegal,Fraude,2024-06-03,Bajo,Resuelto,56,87,66,83,819,0,1,0,92,12
+Media,Asalto con violencia,Oportunidad,Torreón,7334,6925,Violación,Robo menor,Contrabando,Xenofobia,Despecho,Asalto,Caza ilegal,Fraude,2024-03-16,Ninguno,Resuelto,81,16,70,57,640,5,0,0,21,0
+Alta,Contrabando,Protesta,Reynosa,5336,6046,Secuestro,Hurto,Fraude bancario,Xenofobia,Despecho,Robo,Robo de ganado,Financiera,2024-05-28,Bajo,Resuelto,17,67,36,98,481,0,0,0,93,8
+Media,Extorsión,Económica,Mexicali,929,9276,Secuestro,Hurto,Contrabando,Xenofobia,Rencor,Robo,Caza ilegal,Financiera,2024-03-22,Alto,Resuelto,30,41,57,40,514,13,0,1,86,28
+Baja,Hurto,Criminal,La Paz,7414,1674,Secuestro,Hurto,Fraude bancario,Homofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2023-11-22,Bajo,Resuelto,17,5,82,62,880,5,1,0,38,71
+Media,Homicidio,Rencor,Zacatecas,7070,4868,Violación,Estafa,Fraude bancario,Homofobia,Despecho,Robo,Caza ilegal,Fraude,2024-02-05,Bajo,No resuelto,84,39,9,40,160,7,0,0,77,48
+Alta,Robo de vehículos,Personal,Querétaro,8294,5139,Secuestro,Estafa,Fraude bancario,Homofobia,Rencor,Robo,Caza ilegal,Oportunidad,2024-09-29,Alto,No resuelto,85,51,4,25,657,16,1,1,62,61
+Alta,Tráfico de drogas,Financiera,Reynosa,8495,5022,Asalto,Estafa,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Fraude,2024-02-28,Alto,No resuelto,0,17,12,41,30,8,0,0,77,26
+Media,Violencia doméstica,Personal,Saltillo,2166,9240,Homicidio,Fraude,Fraude bancario,Homofobia,Celos,Asalto,Tráfico de especies,Fraude,2024-09-12,Alto,Resuelto,54,14,5,68,858,14,1,1,39,83
+Alta,Asalto con violencia,Criminal,Puebla,9834,2053,Homicidio,Estafa,Fraude bancario,Xenofobia,Despecho,Asalto,Caza ilegal,Criminal,2024-07-17,Bajo,No resuelto,79,93,78,4,420,10,0,1,2,42
+Baja,Contrabando,Oportunidad,Toluca,7324,8865,Extorsión,Estafa,Fraude bancario,Xenofobia,Celos,Vandalismo,Caza ilegal,Fraude,2024-03-23,Alto,No resuelto,64,93,51,6,949,8,1,0,12,28
+Media,Acoso verbal,Fraude,Zacatecas,2120,3479,Secuestro,Hurto,Lavado de dinero,Homofobia,Celos,Asalto,Caza ilegal,Fraude,2024-03-05,Bajo,Resuelto,91,18,47,4,396,9,1,1,28,49
+Media,Extorsión,Económica,Durango,5210,3549,Violación,Hurto,Contrabando,Homofobia,Rencor,Asalto,Robo de ganado,Criminal,2024-02-29,Alto,No resuelto,70,71,68,99,705,2,1,1,98,12
+Alta,Robo de identidad,Rencor,Ciudad de México,2887,2820,Extorsión,Fraude,Contrabando,Racismo,Rencor,Robo,Robo de ganado,Fraude,2024-10-05,Ninguno,No resuelto,26,23,58,85,412,3,0,1,18,54
+Baja,Extorsión,Económica,Torreón,6930,9716,Violación,Estafa,Fraude bancario,Xenofobia,Celos,Asalto,Robo de ganado,Fraude,2023-11-14,Alto,No resuelto,77,54,85,29,8,15,1,1,81,49
+Alta,Estafa,Oportunidad,Querétaro,8991,5038,Extorsión,Fraude,Lavado de dinero,Racismo,Celos,Robo,Caza ilegal,Oportunidad,2024-03-05,Bajo,No resuelto,90,7,72,47,968,4,0,1,8,60
+Media,Hurto menor,Criminal,Veracruz,88,9824,Secuestro,Estafa,Contrabando,Xenofobia,Celos,Robo,Tráfico de especies,Oportunidad,2023-12-31,Alto,No resuelto,58,87,91,7,711,24,1,0,32,28
+Baja,Asalto con violencia,Fraude,Ciudad de México,3855,521,Asalto,Hurto,Lavado de dinero,Homofobia,Rencor,Vandalismo,Caza ilegal,Fraude,2024-07-17,Alto,Resuelto,22,63,15,57,11,22,1,1,61,65
+Media,Fraude bancario,Financiera,La Paz,6552,3289,Asalto,Hurto,Lavado de dinero,Homofobia,Rencor,Robo,Robo de ganado,Fraude,2024-10-02,Ninguno,Resuelto,52,12,34,45,304,9,0,0,55,5
+Media,Fraude electrónico,Financiera,Reynosa,225,4866,Extorsión,Estafa,Fraude bancario,Xenofobia,Rencor,Vandalismo,Tráfico de especies,Financiera,2024-09-13,Alto,Resuelto,60,45,15,100,408,13,1,0,72,45
+Media,Extorsión,Protesta,Saltillo,6862,1422,Extorsión,Hurto,Lavado de dinero,Homofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-10-05,Ninguno,No resuelto,5,72,49,22,862,14,1,0,76,54
+Alta,Tráfico de drogas,Criminal,Ciudad de México,8834,5379,Homicidio,Fraude,Fraude bancario,Racismo,Despecho,Vandalismo,Robo de ganado,Oportunidad,2024-06-15,Alto,No resuelto,74,4,28,87,814,18,0,1,0,82
+Media,Hurto,Financiera,Veracruz,5309,1429,Extorsión,Hurto,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Criminal,2023-12-23,Bajo,Resuelto,45,34,10,71,329,21,0,0,13,60
+Alta,Secuestro,Criminal,Veracruz,1456,1800,Asalto,Robo menor,Lavado de dinero,Xenofobia,Despecho,Robo,Caza ilegal,Oportunidad,2024-10-01,Bajo,No resuelto,2,96,89,89,14,17,1,0,15,50
+Alta,Robo de identidad,Criminal,La Paz,6142,2200,Violación,Robo menor,Contrabando,Racismo,Rencor,Asalto,Tráfico de especies,Criminal,2024-05-24,Bajo,Resuelto,82,87,83,42,698,19,1,0,67,99
+Alta,Fraude bancario,Criminal,Veracruz,2433,7593,Homicidio,Fraude,Contrabando,Racismo,Celos,Asalto,Tráfico de especies,Fraude,2024-06-26,Alto,No resuelto,13,5,58,51,1,18,1,1,89,68
+Alta,Daños a la propiedad,Personal,Saltillo,9832,1150,Asalto,Hurto,Contrabando,Homofobia,Celos,Vandalismo,Robo de ganado,Criminal,2023-11-19,Alto,No resuelto,61,18,99,13,961,5,1,1,34,64
+Media,Secuestro,Oportunidad,Zacatecas,2940,8647,Secuestro,Robo menor,Fraude bancario,Homofobia,Celos,Asalto,Caza ilegal,Oportunidad,2024-04-28,Ninguno,No resuelto,72,35,30,92,710,3,1,1,82,53
+Baja,Ciberacoso,Oportunidad,Chihuahua,7171,405,Secuestro,Robo menor,Fraude bancario,Homofobia,Celos,Vandalismo,Robo de ganado,Fraude,2024-04-14,Alto,Resuelto,80,45,22,78,673,5,0,0,50,16
+Baja,Estafa,Criminal,Veracruz,5168,185,Extorsión,Fraude,Fraude bancario,Racismo,Celos,Asalto,Caza ilegal,Criminal,2023-12-08,Ninguno,No resuelto,59,68,11,16,664,9,1,0,12,60
+Alta,Robo de identidad,Protesta,Toluca,5302,8530,Violación,Estafa,Fraude bancario,Racismo,Despecho,Robo,Robo de ganado,Criminal,2023-12-04,Bajo,Resuelto,74,57,10,27,274,11,1,1,16,7
+Alta,Acoso verbal,Oportunidad,Torreón,3992,74,Asalto,Hurto,Contrabando,Homofobia,Celos,Asalto,Caza ilegal,Fraude,2024-08-17,Ninguno,Resuelto,20,48,23,39,548,13,0,1,96,99
+Baja,Daños a la propiedad,Rescate,Puebla,2131,5705,Secuestro,Estafa,Contrabando,Racismo,Rencor,Robo,Tráfico de especies,Criminal,2024-02-11,Alto,No resuelto,10,68,33,20,162,17,0,0,0,89
+Alta,Robo de vehículos,Protesta,Tijuana,2744,6459,Violación,Robo menor,Contrabando,Xenofobia,Rencor,Robo,Robo de ganado,Fraude,2024-06-24,Alto,Resuelto,19,55,94,1,888,23,1,0,97,87
+Alta,Fraude bancario,Rencor,Aguascalientes,7737,8794,Secuestro,Hurto,Contrabando,Xenofobia,Despecho,Robo,Robo de ganado,Criminal,2024-04-04,Ninguno,No resuelto,22,5,12,30,947,1,0,0,50,99
+Baja,Contrabando,Rencor,Ciudad de México,3116,7566,Extorsión,Fraude,Lavado de dinero,Racismo,Celos,Robo,Robo de ganado,Fraude,2023-11-29,Ninguno,No resuelto,76,12,91,99,529,19,0,0,29,33
+Baja,Vandalismo,Económica,León,8634,4960,Homicidio,Hurto,Fraude bancario,Racismo,Despecho,Vandalismo,Caza ilegal,Criminal,2024-06-17,Ninguno,No resuelto,72,100,26,52,378,12,0,1,19,45
+Alta,Estafa,Personal,Veracruz,4861,4850,Asalto,Estafa,Contrabando,Xenofobia,Rencor,Robo,Tráfico de especies,Oportunidad,2024-04-12,Alto,No resuelto,23,10,26,31,369,0,1,1,65,35
+Media,Asalto con violencia,Criminal,Chihuahua,1135,7082,Violación,Estafa,Lavado de dinero,Homofobia,Rencor,Robo,Robo de ganado,Financiera,2024-09-26,Bajo,No resuelto,2,30,24,78,293,20,1,0,78,14
+Alta,Tráfico de drogas,Protesta,Durango,7012,1174,Secuestro,Fraude,Fraude bancario,Xenofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-10-03,Alto,No resuelto,35,46,63,61,152,13,0,0,59,75
+Media,Ciberacoso,Económica,Puebla,3287,2590,Extorsión,Hurto,Contrabando,Homofobia,Despecho,Vandalismo,Caza ilegal,Criminal,2024-01-06,Ninguno,Resuelto,72,51,93,99,210,23,0,0,30,66
+Media,Fraude electrónico,Criminal,León,378,4561,Extorsión,Hurto,Lavado de dinero,Xenofobia,Rencor,Robo,Caza ilegal,Oportunidad,2024-02-17,Ninguno,No resuelto,3,53,15,26,636,16,0,0,65,77
+Media,Estafa,Protesta,Puebla,2694,6461,Asalto,Hurto,Contrabando,Homofobia,Rencor,Robo,Caza ilegal,Oportunidad,2024-03-22,Ninguno,No resuelto,85,70,100,93,208,21,1,0,51,33
+Alta,Robo de vehículos,Criminal,Torreón,3238,4932,Violación,Robo menor,Lavado de dinero,Racismo,Rencor,Robo,Robo de ganado,Criminal,2024-05-14,Bajo,No resuelto,66,5,13,54,87,3,1,1,64,59
+Baja,Homicidio,Fraude,Chihuahua,2557,734,Extorsión,Robo menor,Contrabando,Homofobia,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-07-25,Bajo,Resuelto,71,70,20,74,530,13,1,0,88,21
+Baja,Extorsión,Rescate,Saltillo,3179,301,Extorsión,Hurto,Fraude bancario,Homofobia,Despecho,Asalto,Tráfico de especies,Criminal,2024-05-06,Alto,Resuelto,87,73,93,31,829,24,0,1,48,53
+Alta,Asalto con violencia,Rencor,Mérida,5454,2841,Violación,Robo menor,Fraude bancario,Xenofobia,Despecho,Vandalismo,Tráfico de especies,Fraude,2024-10-06,Bajo,Resuelto,11,27,77,55,311,11,0,1,76,64
+Baja,Robo de vehículos,Rencor,Guadalajara,7857,596,Secuestro,Hurto,Fraude bancario,Racismo,Despecho,Vandalismo,Caza ilegal,Fraude,2024-03-26,Ninguno,No resuelto,64,59,36,54,263,19,0,0,54,87
+Media,Robo de identidad,Rescate,La Paz,5877,5682,Homicidio,Fraude,Contrabando,Homofobia,Rencor,Robo,Robo de ganado,Criminal,2024-08-29,Alto,Resuelto,81,39,34,82,373,12,1,0,11,91
+Media,Ciberacoso,Criminal,Veracruz,4618,8661,Homicidio,Fraude,Contrabando,Racismo,Celos,Vandalismo,Robo de ganado,Fraude,2023-12-05,Bajo,Resuelto,37,73,9,18,795,7,1,1,100,13
+Alta,Contrabando,Personal,La Paz,1523,8706,Asalto,Robo menor,Lavado de dinero,Homofobia,Despecho,Asalto,Robo de ganado,Oportunidad,2024-06-28,Alto,Resuelto,76,12,64,100,909,23,0,1,57,94
+Alta,Fraude electrónico,Financiera,Mérida,9218,1439,Homicidio,Robo menor,Fraude bancario,Xenofobia,Despecho,Asalto,Robo de ganado,Fraude,2023-10-17,Alto,Resuelto,87,75,38,20,272,24,0,0,76,58
+Alta,Acoso verbal,Criminal,León,2274,6664,Homicidio,Estafa,Fraude bancario,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2024-05-21,Alto,Resuelto,63,69,24,20,288,12,0,0,48,52
+Alta,Robo de identidad,Fraude,Reynosa,7803,6425,Violación,Fraude,Contrabando,Xenofobia,Celos,Asalto,Tráfico de especies,Financiera,2023-11-29,Bajo,No resuelto,77,53,10,37,908,9,1,1,50,46
+Alta,Secuestro,Rescate,Hermosillo,5670,5619,Secuestro,Fraude,Contrabando,Racismo,Despecho,Robo,Caza ilegal,Oportunidad,2024-01-01,Ninguno,Resuelto,23,21,39,96,528,1,1,0,12,57
+Media,Extorsión,Económica,Torreón,2071,3690,Secuestro,Hurto,Contrabando,Homofobia,Rencor,Asalto,Robo de ganado,Criminal,2024-01-21,Ninguno,Resuelto,92,90,94,57,901,19,1,1,24,11
+Baja,Estafa,Personal,Reynosa,224,3524,Violación,Hurto,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Fraude,2024-02-22,Bajo,No resuelto,85,73,81,40,189,6,1,0,3,13
+Media,Contrabando,Fraude,Reynosa,8862,8109,Homicidio,Hurto,Fraude bancario,Homofobia,Celos,Vandalismo,Caza ilegal,Criminal,2024-03-18,Ninguno,Resuelto,44,34,1,36,904,18,1,1,11,30
+Baja,Fraude electrónico,Criminal,Chihuahua,7432,7371,Secuestro,Hurto,Fraude bancario,Xenofobia,Celos,Robo,Tráfico de especies,Criminal,2023-11-05,Bajo,No resuelto,80,51,82,48,725,4,1,1,55,66
+Media,Asalto con violencia,Oportunidad,Puebla,6619,7592,Violación,Robo menor,Lavado de dinero,Homofobia,Despecho,Robo,Caza ilegal,Oportunidad,2024-04-27,Ninguno,Resuelto,33,21,82,24,782,6,0,1,59,73
+Media,Ciberacoso,Financiera,Querétaro,1093,9011,Secuestro,Fraude,Contrabando,Racismo,Celos,Vandalismo,Robo de ganado,Fraude,2023-11-08,Ninguno,Resuelto,86,87,87,16,181,0,0,0,75,29
+Alta,Fraude electrónico,Rencor,La Paz,261,5992,Secuestro,Robo menor,Fraude bancario,Xenofobia,Despecho,Robo,Caza ilegal,Fraude,2024-03-30,Alto,Resuelto,47,40,75,51,193,17,0,1,0,21
+Alta,Hurto menor,Fraude,Puebla,7561,7893,Secuestro,Hurto,Fraude bancario,Homofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-01-22,Ninguno,Resuelto,41,81,60,63,740,8,0,0,31,18
+Baja,Robo de identidad,Criminal,Torreón,6619,1877,Asalto,Estafa,Fraude bancario,Racismo,Rencor,Asalto,Caza ilegal,Financiera,2024-05-06,Ninguno,No resuelto,81,3,72,86,309,4,0,1,1,40
+Baja,Hurto,Rencor,Mérida,5559,2084,Extorsión,Fraude,Contrabando,Xenofobia,Rencor,Vandalismo,Caza ilegal,Oportunidad,2023-12-17,Bajo,Resuelto,48,90,31,65,247,10,0,0,75,3
+Baja,Estafa,Rescate,La Paz,6464,6494,Homicidio,Fraude,Contrabando,Xenofobia,Rencor,Vandalismo,Robo de ganado,Criminal,2024-04-15,Alto,Resuelto,14,54,5,82,296,9,1,1,32,83
+Baja,Daños a la propiedad,Rescate,La Paz,1424,5076,Asalto,Fraude,Lavado de dinero,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2024-08-27,Bajo,Resuelto,25,9,2,84,260,23,0,1,23,53
+Baja,Violencia doméstica,Fraude,Saltillo,1269,4338,Extorsión,Hurto,Lavado de dinero,Homofobia,Celos,Robo,Robo de ganado,Oportunidad,2023-11-02,Alto,Resuelto,4,75,35,78,317,16,0,1,57,58
+Baja,Fraude electrónico,Fraude,Zacatecas,9097,2720,Extorsión,Fraude,Fraude bancario,Xenofobia,Celos,Asalto,Robo de ganado,Oportunidad,2024-02-19,Bajo,Resuelto,75,72,89,20,969,14,1,0,55,84
+Alta,Estafa,Rencor,Aguascalientes,549,8879,Extorsión,Hurto,Lavado de dinero,Xenofobia,Celos,Vandalismo,Tráfico de especies,Oportunidad,2024-04-29,Ninguno,Resuelto,47,21,90,12,26,9,0,1,1,33
+Baja,Ciberacoso,Rencor,Toluca,743,8388,Secuestro,Robo menor,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Fraude,2024-01-01,Alto,Resuelto,46,65,20,93,992,12,1,1,98,64
+Media,Fraude electrónico,Personal,Torreón,272,6979,Extorsión,Robo menor,Contrabando,Racismo,Rencor,Robo,Caza ilegal,Oportunidad,2024-05-01,Alto,Resuelto,86,95,66,21,362,1,1,1,49,32
+Alta,Tráfico de drogas,Criminal,Veracruz,9461,2241,Secuestro,Fraude,Lavado de dinero,Racismo,Celos,Robo,Caza ilegal,Fraude,2024-01-04,Bajo,Resuelto,17,91,34,62,222,7,0,0,14,3
+Baja,Extorsión,Rescate,Aguascalientes,3797,6399,Extorsión,Fraude,Fraude bancario,Xenofobia,Despecho,Robo,Caza ilegal,Financiera,2024-03-21,Alto,Resuelto,82,41,53,4,991,24,1,1,88,51
+Baja,Estafa,Rencor,Monterrey,4479,3258,Asalto,Estafa,Lavado de dinero,Homofobia,Celos,Asalto,Tráfico de especies,Criminal,2023-10-23,Ninguno,No resuelto,64,83,97,59,971,18,0,0,22,35
+Baja,Contrabando,Rescate,Ciudad de México,6487,5338,Secuestro,Fraude,Fraude bancario,Homofobia,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-01-28,Ninguno,Resuelto,73,1,10,41,919,4,1,1,87,53
+Media,Vandalismo,Rencor,León,1712,2542,Asalto,Hurto,Contrabando,Homofobia,Despecho,Robo,Tráfico de especies,Financiera,2024-02-09,Ninguno,No resuelto,57,88,79,6,477,19,0,1,6,46
+Alta,Homicidio,Rescate,Puebla,8877,6429,Homicidio,Robo menor,Fraude bancario,Homofobia,Rencor,Robo,Caza ilegal,Fraude,2024-09-10,Alto,Resuelto,84,47,30,73,631,2,1,1,68,77
+Alta,Fraude electrónico,Económica,Saltillo,3872,904,Homicidio,Hurto,Fraude bancario,Homofobia,Despecho,Robo,Tráfico de especies,Fraude,2024-06-22,Alto,No resuelto,94,43,66,20,210,9,1,0,75,96
+Baja,Extorsión,Financiera,Toluca,9196,275,Secuestro,Robo menor,Contrabando,Racismo,Celos,Robo,Caza ilegal,Fraude,2023-12-14,Ninguno,Resuelto,52,42,99,7,21,21,0,1,81,4
+Media,Fraude electrónico,Económica,Reynosa,5976,8361,Asalto,Estafa,Lavado de dinero,Homofobia,Rencor,Vandalismo,Robo de ganado,Fraude,2023-11-28,Ninguno,No resuelto,9,91,18,54,966,13,1,0,2,26
+Baja,Fraude electrónico,Fraude,Querétaro,4766,1982,Secuestro,Fraude,Lavado de dinero,Homofobia,Celos,Vandalismo,Robo de ganado,Financiera,2023-12-29,Alto,No resuelto,100,11,9,87,267,15,0,1,55,77
+Baja,Robo de vehículos,Criminal,Mérida,6154,6429,Asalto,Estafa,Contrabando,Xenofobia,Despecho,Asalto,Tráfico de especies,Oportunidad,2024-09-18,Bajo,Resuelto,32,99,92,20,542,4,1,0,5,94
+Baja,Contrabando,Fraude,Mexicali,6708,4164,Secuestro,Hurto,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Oportunidad,2023-12-11,Ninguno,No resuelto,29,30,65,37,230,12,0,0,92,46
+Alta,Hurto menor,Fraude,Querétaro,5047,7217,Extorsión,Hurto,Fraude bancario,Homofobia,Celos,Robo,Robo de ganado,Oportunidad,2024-06-02,Ninguno,Resuelto,58,66,2,23,938,12,1,0,31,84
+Baja,Robo de vehículos,Personal,Zacatecas,9406,7169,Asalto,Robo menor,Contrabando,Racismo,Rencor,Robo,Caza ilegal,Oportunidad,2023-10-17,Bajo,Resuelto,65,53,72,2,116,20,0,1,54,16
+Baja,Contrabando,Rescate,Durango,125,2674,Violación,Hurto,Fraude bancario,Homofobia,Despecho,Vandalismo,Caza ilegal,Oportunidad,2024-05-18,Ninguno,Resuelto,28,27,83,49,126,6,1,1,16,19
+Baja,Extorsión,Protesta,Toluca,7076,413,Homicidio,Estafa,Lavado de dinero,Xenofobia,Rencor,Robo,Caza ilegal,Fraude,2024-03-30,Bajo,Resuelto,24,67,70,51,441,8,0,0,82,24
+Alta,Vandalismo,Oportunidad,Saltillo,2628,8214,Violación,Fraude,Contrabando,Xenofobia,Despecho,Asalto,Caza ilegal,Criminal,2024-10-08,Alto,Resuelto,93,7,99,28,431,18,0,1,15,80
+Alta,Violencia doméstica,Rencor,Reynosa,602,4957,Asalto,Hurto,Lavado de dinero,Racismo,Despecho,Asalto,Robo de ganado,Criminal,2024-03-09,Alto,Resuelto,10,30,3,28,13,13,0,1,18,82
+Alta,Hurto,Protesta,Mexicali,6179,6070,Violación,Hurto,Fraude bancario,Racismo,Rencor,Robo,Tráfico de especies,Oportunidad,2024-04-22,Bajo,Resuelto,31,35,40,41,63,12,1,1,64,19
+Media,Hurto,Rencor,Guadalajara,7265,3125,Homicidio,Hurto,Lavado de dinero,Xenofobia,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-03-26,Ninguno,No resuelto,24,52,52,89,417,16,1,1,62,90
+Media,Estafa,Financiera,Guadalajara,4623,7163,Homicidio,Hurto,Lavado de dinero,Racismo,Despecho,Vandalismo,Caza ilegal,Criminal,2024-02-08,Ninguno,Resuelto,70,87,50,100,415,2,0,0,73,17
+Alta,Estafa,Financiera,León,9675,6081,Homicidio,Hurto,Fraude bancario,Racismo,Celos,Vandalismo,Robo de ganado,Oportunidad,2024-04-18,Ninguno,Resuelto,76,65,83,80,797,1,0,1,72,31
+Alta,Vandalismo,Rencor,Mérida,8933,941,Extorsión,Estafa,Lavado de dinero,Homofobia,Rencor,Robo,Tráfico de especies,Oportunidad,2024-07-03,Bajo,No resuelto,94,65,9,50,618,12,0,0,98,45
+Alta,Ciberacoso,Rescate,León,6478,5442,Violación,Robo menor,Lavado de dinero,Homofobia,Rencor,Vandalismo,Caza ilegal,Financiera,2023-12-20,Ninguno,No resuelto,28,34,53,1,198,23,1,0,8,79
+Media,Estafa,Criminal,La Paz,7365,7242,Violación,Estafa,Fraude bancario,Homofobia,Celos,Asalto,Robo de ganado,Criminal,2023-12-11,Alto,No resuelto,72,46,41,98,394,12,0,0,50,45
+Media,Daños a la propiedad,Financiera,Querétaro,9429,6386,Violación,Hurto,Contrabando,Racismo,Celos,Robo,Caza ilegal,Oportunidad,2024-04-03,Bajo,Resuelto,69,65,9,99,755,3,0,1,62,75
+Baja,Contrabando,Oportunidad,Toluca,3621,2324,Violación,Hurto,Contrabando,Xenofobia,Rencor,Robo,Robo de ganado,Fraude,2024-06-16,Ninguno,Resuelto,99,10,23,32,968,13,0,1,20,6
+Alta,Estafa,Protesta,Zacatecas,8337,939,Violación,Estafa,Fraude bancario,Racismo,Despecho,Robo,Caza ilegal,Fraude,2024-02-28,Ninguno,Resuelto,94,34,1,32,800,12,1,1,13,67
+Media,Asalto con violencia,Oportunidad,Guadalajara,5537,3585,Homicidio,Hurto,Fraude bancario,Xenofobia,Celos,Vandalismo,Caza ilegal,Oportunidad,2024-01-28,Ninguno,Resuelto,80,95,99,53,538,0,1,1,93,73
+Media,Acoso verbal,Personal,León,1282,4088,Violación,Hurto,Contrabando,Homofobia,Celos,Asalto,Tráfico de especies,Oportunidad,2024-03-23,Alto,Resuelto,14,70,42,81,930,0,0,1,7,48
+Media,Robo de vehículos,Oportunidad,Durango,6240,2980,Homicidio,Fraude,Fraude bancario,Xenofobia,Despecho,Asalto,Robo de ganado,Oportunidad,2024-07-31,Alto,No resuelto,71,40,6,22,276,7,1,1,47,36
+Baja,Vandalismo,Protesta,Tijuana,1179,6243,Extorsión,Hurto,Fraude bancario,Homofobia,Despecho,Robo,Caza ilegal,Financiera,2023-11-23,Ninguno,Resuelto,53,18,69,12,266,13,1,0,28,16
+Media,Daños a la propiedad,Oportunidad,Torreón,7796,3460,Homicidio,Fraude,Contrabando,Xenofobia,Celos,Asalto,Caza ilegal,Criminal,2023-10-23,Alto,No resuelto,30,71,38,51,398,20,1,0,39,72
+Media,Hurto menor,Protesta,Zacatecas,9288,6949,Violación,Robo menor,Contrabando,Homofobia,Rencor,Asalto,Tráfico de especies,Financiera,2024-01-03,Ninguno,Resuelto,70,64,32,66,302,11,0,0,11,47
+Baja,Fraude electrónico,Personal,Mérida,848,2983,Homicidio,Robo menor,Fraude bancario,Racismo,Celos,Asalto,Robo de ganado,Oportunidad,2024-06-07,Bajo,Resuelto,70,61,89,92,328,0,1,0,65,5
+Baja,Ciberacoso,Fraude,Tijuana,8087,4878,Extorsión,Estafa,Contrabando,Homofobia,Rencor,Asalto,Robo de ganado,Oportunidad,2023-12-23,Alto,No resuelto,31,7,29,30,721,6,1,0,66,9
+Media,Acoso verbal,Personal,La Paz,9311,8004,Secuestro,Estafa,Contrabando,Xenofobia,Celos,Asalto,Robo de ganado,Financiera,2023-10-14,Alto,No resuelto,55,45,76,85,212,15,1,1,39,25
+Media,Acoso verbal,Fraude,Zacatecas,4538,1069,Extorsión,Robo menor,Fraude bancario,Racismo,Rencor,Vandalismo,Caza ilegal,Oportunidad,2024-09-22,Ninguno,No resuelto,76,4,44,70,864,19,1,1,97,75
+Alta,Ciberacoso,Oportunidad,Reynosa,1313,8118,Homicidio,Hurto,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Fraude,2024-02-25,Ninguno,Resuelto,94,41,35,63,12,21,0,1,48,32
+Baja,Tráfico de drogas,Fraude,Veracruz,6127,1457,Secuestro,Estafa,Lavado de dinero,Homofobia,Rencor,Asalto,Tráfico de especies,Oportunidad,2024-03-30,Alto,Resuelto,20,77,37,79,870,11,0,0,6,58
+Alta,Acoso verbal,Rescate,Torreón,3140,5819,Homicidio,Hurto,Contrabando,Racismo,Rencor,Robo,Robo de ganado,Fraude,2024-03-04,Ninguno,No resuelto,98,6,50,53,356,21,0,0,95,43
+Alta,Asalto con violencia,Económica,Mexicali,621,4059,Secuestro,Fraude,Fraude bancario,Racismo,Despecho,Robo,Robo de ganado,Oportunidad,2024-07-03,Ninguno,Resuelto,79,71,39,31,786,3,0,0,50,5
+Baja,Homicidio,Protesta,Zacatecas,6,3444,Asalto,Robo menor,Lavado de dinero,Homofobia,Despecho,Asalto,Caza ilegal,Financiera,2024-07-21,Alto,No resuelto,82,61,95,30,418,1,1,0,98,22
+Baja,Asalto con violencia,Oportunidad,Reynosa,5495,5951,Violación,Robo menor,Lavado de dinero,Xenofobia,Despecho,Robo,Tráfico de especies,Oportunidad,2024-09-15,Bajo,Resuelto,36,79,67,10,467,3,0,0,4,20
+Alta,Homicidio,Económica,Guadalajara,2430,9942,Violación,Estafa,Contrabando,Racismo,Despecho,Vandalismo,Caza ilegal,Oportunidad,2023-11-17,Ninguno,Resuelto,25,65,56,96,965,16,1,0,2,4
+Media,Ciberacoso,Financiera,Puebla,7158,4370,Asalto,Hurto,Contrabando,Racismo,Rencor,Asalto,Caza ilegal,Fraude,2024-08-13,Alto,Resuelto,53,55,92,57,41,17,1,1,64,28
+Baja,Estafa,Criminal,Reynosa,3978,3660,Extorsión,Fraude,Contrabando,Homofobia,Celos,Robo,Tráfico de especies,Criminal,2024-02-16,Bajo,No resuelto,6,94,0,77,980,0,1,1,59,59
+Baja,Hurto,Protesta,Guadalajara,7792,3513,Homicidio,Robo menor,Contrabando,Racismo,Celos,Asalto,Caza ilegal,Financiera,2024-03-15,Alto,No resuelto,90,61,81,47,552,23,1,0,40,23
+Alta,Fraude electrónico,Rescate,Chihuahua,5895,6639,Extorsión,Hurto,Fraude bancario,Xenofobia,Celos,Asalto,Robo de ganado,Financiera,2023-10-19,Bajo,No resuelto,33,30,13,75,757,6,0,0,28,19
+Alta,Violencia doméstica,Económica,Tijuana,631,5616,Extorsión,Hurto,Fraude bancario,Racismo,Despecho,Vandalismo,Tráfico de especies,Oportunidad,2023-12-10,Bajo,Resuelto,60,97,1,20,320,16,1,0,96,11
+Alta,Homicidio,Financiera,Zacatecas,6498,6073,Violación,Hurto,Contrabando,Homofobia,Despecho,Robo,Robo de ganado,Criminal,2023-11-21,Alto,Resuelto,85,47,18,62,28,1,1,0,1,7
+Media,Fraude electrónico,Rescate,Toluca,3608,614,Homicidio,Hurto,Fraude bancario,Racismo,Despecho,Asalto,Tráfico de especies,Fraude,2024-05-03,Alto,Resuelto,42,77,1,52,459,3,1,0,27,77
+Alta,Contrabando,Oportunidad,Torreón,5109,3034,Secuestro,Robo menor,Lavado de dinero,Homofobia,Rencor,Robo,Tráfico de especies,Criminal,2023-11-03,Ninguno,No resuelto,7,71,78,33,141,12,1,1,44,49
+Media,Fraude electrónico,Rencor,Monterrey,9393,315,Asalto,Estafa,Contrabando,Xenofobia,Despecho,Asalto,Robo de ganado,Criminal,2023-10-29,Alto,Resuelto,19,80,70,66,980,22,1,0,67,25
+Media,Estafa,Económica,Puebla,2592,1826,Homicidio,Robo menor,Fraude bancario,Homofobia,Rencor,Vandalismo,Caza ilegal,Fraude,2023-11-13,Alto,Resuelto,8,15,71,5,729,6,1,1,38,2
+Baja,Estafa,Oportunidad,Tijuana,6258,5592,Asalto,Hurto,Fraude bancario,Homofobia,Despecho,Vandalismo,Caza ilegal,Oportunidad,2024-10-05,Bajo,Resuelto,45,56,100,29,525,24,1,0,43,57
+Media,Acoso verbal,Personal,Puebla,4966,5795,Extorsión,Fraude,Fraude bancario,Homofobia,Despecho,Robo,Caza ilegal,Criminal,2024-09-21,Alto,No resuelto,97,31,88,40,289,5,1,0,91,35
+Alta,Fraude electrónico,Fraude,Ciudad de México,7787,7344,Homicidio,Hurto,Fraude bancario,Racismo,Rencor,Robo,Robo de ganado,Criminal,2024-03-14,Bajo,Resuelto,70,3,55,95,230,16,1,0,81,50
+Baja,Tráfico de drogas,Protesta,Chihuahua,2825,8894,Homicidio,Fraude,Lavado de dinero,Xenofobia,Despecho,Asalto,Robo de ganado,Financiera,2024-03-22,Bajo,Resuelto,11,74,72,64,614,14,1,0,43,68
+Alta,Estafa,Fraude,Monterrey,5146,7706,Violación,Robo menor,Contrabando,Racismo,Despecho,Robo,Tráfico de especies,Fraude,2023-11-02,Bajo,No resuelto,92,71,1,54,545,21,1,0,29,4
+Alta,Asalto con violencia,Económica,Hermosillo,8193,3402,Extorsión,Robo menor,Contrabando,Racismo,Despecho,Robo,Caza ilegal,Fraude,2023-10-14,Bajo,Resuelto,78,17,63,84,71,22,0,1,17,75
+Media,Daños a la propiedad,Personal,Torreón,7876,9588,Violación,Estafa,Contrabando,Racismo,Rencor,Vandalismo,Tráfico de especies,Criminal,2024-06-10,Alto,No resuelto,42,73,25,55,384,10,0,0,69,9

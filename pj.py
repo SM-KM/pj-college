@@ -9,7 +9,7 @@ init(autoreset=True)
 default_suboptions = ["Ver estadísticas", "Generar reporte", "Ver gráfica"]
 option_invalid_prompt = "Opción no válida, intentalo de nuevo"
 
-default_rows = 120
+default_rows = 1000
 exit_color = Fore.RED
 separation_line_w = 50
 
@@ -305,6 +305,7 @@ def main_menu():
     ]
     
     data = load_data(default_rows)  # Load data once for the session
+
     while True:
         print(Fore.CYAN + "\n--- Menú Principal ---")
         for i, option in enumerate(options, start=1):
