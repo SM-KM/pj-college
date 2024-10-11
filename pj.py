@@ -234,12 +234,17 @@ def generic_menu(data, options, functions, label, nested):
                     lambda: view_graph(currentSuboptionLabel, currentSuboptionCategory)
                 ]
                 generic_menu(data, default_suboptions, sub_functions, currentSuboptionData[0], False)
-            elif selection == len(options) + len(data["suboptions"]) + 1:
+            elif int(selection) == (len(options) + len(data["suboptions"]) + 1):
+                print(Fore.GREEN + "Regresando...")
                 break
             else:
-                break
+                if int(selection) == (len(options) + 1):
+                    print(Fore.GREEN + "Regresando...")
+                    break
+                else:
+                    print(exit_color + "Opción no válida, intentalo de nuevo") 
         else:
-            print("Opción no válida, intentalo de nuevo")
+            print(exit_color + "Opción no válida, intentalo de nuevo")
 # Main menu function
 def main_menu():
     """
