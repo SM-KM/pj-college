@@ -1,4 +1,3 @@
-from unicodedata import category
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
@@ -13,11 +12,21 @@ default_rows = 1000
 exit_color = Fore.RED
 separation_line_w = 50
 
+data_file_path = 'crime_data.csv'
+
 # load all tnme data
 def load_data(rows): 
-    return pd.read_csv('crime_data.csv', nrows=rows)
+    """
+    Load the data from the csv
+    """
+
+    return pd.read_csv(data_file_path, nrows=rows)
 
 def change_loaded_rows():    
+    """
+    Change the range of the data
+    """
+
     input_text = "Cantidad de valores: "
 
     rows = input(input_text)
@@ -28,12 +37,19 @@ def change_loaded_rows():
     return load_data(int(rows))
 
 def check_category_definition(category, data):
-    print(category)
+    """
+    check that the category being used is present in the data
+    """
+
     if not(category in data.columns):
         raise Exception("The category wasnt found on the data")
 
 # Functions for each function 
 def view_statistics(label, category):
+    """
+    Generate a simple statistics table depending on the type of data.
+    """
+
     data = change_loaded_rows()
     check_category_definition(category, data)
     
@@ -78,6 +94,11 @@ def line(len):
     print("─" * len)
 
 def generate_report(label, category): 
+    """
+    Generates the report with the amount of values specified by the user
+    within the range, and is based on the area_geografica
+    """
+
     data = change_loaded_rows() 
     check_category_definition(category, data)
     print(Fore.GREEN + "Generando reporte...")
@@ -106,6 +127,10 @@ def generate_report(label, category):
 
 
 def view_graph(label, category):
+    """
+    Load the graph depending on the data and style selected by the user
+    """
+
     data = change_loaded_rows() 
     check_category_definition(category, data)
 
@@ -179,7 +204,12 @@ def view_graph(label, category):
         pieChart()
     
 
+
 def print_box(title, content):
+    """
+    Generate a wrapper for the menus
+    """
+
     title = f" {title} "
     border = "─" * (len(title) + 4)
     print(Fore.CYAN + border)
